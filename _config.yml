@@ -22,13 +22,13 @@ email: tgermer@me.com
 phone: 0151 22651857
 opening_hours: Keine Öffnungszeiten
 description: >- # this means to ignore newlines until "baseurl:"
-  Alle professionellen Informationen über Tristan Germer, M.Sc.
-author: Studienberatung, Hochschule&nbsp;München
-editorial: Tristan Germer
+  Du bist der Meister Deines Lebens
+author: Prof. Dr. Angela Poech
+editorial: Prof. Dr. Angela Poech
 publisher: |
-  Tristan Germer<br>
-  Petrarcastraße 32<br>
-  80933 München
+  Prof. Dr. Angela Poech<br>
+  Strasse Nr.<br>
+  ##### München
 president:
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com

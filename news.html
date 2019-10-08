@@ -8,7 +8,7 @@ title: Blog
     <ul class="post-list" style="list-style: none; padding-left: 0px">
       {%- for post in site.posts -%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%-d.%-m.%Y" -%}
+        {%- assign date_format = site.minima.date_format | default: "%d.%m.%Y" -%}
         <span class="post-meta text-muted"><i class="fas fa-calendar-alt"></i> {{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}">
