@@ -1,0 +1,102 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Teamclusion
+title_kurz: Teamclusion
+slogan: Du bist der Meister Deines Lebens
+hashtag: teamclusion
+date: 2020-03-28
+email: tgermer@me.com
+phone: 0151 22651857
+opening_hours: Keine Öffnungszeiten
+description: >- # this means to ignore newlines until "baseurl:"
+  Alle professionellen Informationen über Tristan Germer, M.Sc.
+author: Studienberatung, Hochschule&nbsp;München
+editorial: Tristan Germer
+publisher: |
+  Tristan Germer<br>
+  Petrarcastraße 32<br>
+  80933 München
+president:
+baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tgermer-123456.netlify.com"
+url_imprint: https://www.hm.edu/sekundaer_navigation/impressum
+url_pravacy_statement: https://www.hm.edu/sekundaer_navigation/impressum/datenschutz
+webmaster_email: tgermer@hm.edu
+webmaster_name: Tristan Germer
+logo_nav: /assets/img/Studieninformationstag 2020 links.svg   #logoLinks.svg
+twitter_username:
+linkedin_username:
+facebook_username:
+youtube_username:
+instagram_username:
+
+twitter:
+  username:
+  card: summary
+
+
+social:
+  name: Hochschule&nbsp;München
+  links:
+    - https://twitter.com/
+    - https://www.facebook.com/
+    - https://www.linkedin.com/school/
+
+lang: de_DE
+
+show_excerpts: true # set to true to show excerpts on the news(post) site
+
+# paginate: 2
+# paginate_path: "/blog/page:num/"
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: css
+plugins:
+  - jekyll-seo-tag
+  #- jekyll-paginate
+  - jekyll-feed
+
+
+defaults:
+  # jekyll-seo-tag START
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/FB_01_1200x630.png # Allgemeines OpenGraph Bild
+  # jekyll-seo-tag ENDE
+
+# Eigene Einstellungen
+# defaults:
+#   - scope:
+#       path: ""
+#     values:
+#       layout: "page"
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

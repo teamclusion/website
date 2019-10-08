@@ -1,0 +1,21 @@
+{%- if site.facebook_username != nil -%}
+<i class="fab fa-facebook-f fa-fw"></i> <a href="http://www.facebook.com/{{ site.facebook_username }}" target="_blank">{{ site.facebook_username }}</a>
+<br>
+{% endif %}
+{%- if site.instagram_username != nil -%}
+<i class="fab fa-instagram fa-fw"></i> <a href="https://www.instagram.com/{{ site.instagram_username }}" target="_blank">{{ site.instagram_username }}</a>
+<br>
+{% endif %}
+{%- if site.twitter_username != nil -%}
+<i class="fab fa-twitter fa-fw"></i> <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">{{ site.twitter_username }}</a>
+<br>
+{% endif %}
+{%- if site.linkedin_username != nil -%}
+<i class="fab fa-linkedin-in fa-fw"></i> <a href="https://www.linkedin.com/school/{{ site.linkedin_username }}" target="_blank">{{ site.linkedin_username }}</a>
+<br>
+{% endif %}
+{%- if site.youtube_username != nil -%}
+<i class="fab fa-youtube fa-fw"></i> <a href="https://www.youtube.com/user/{{ site.youtube_username }}" target="_blank">{{ site.youtube_username }}</a>
+<br>
+{% endif %}
+<i class="fas fa-blog fa-fw"></i> <a href="http://mastermacher.hm.edu/" target="_blank">Die Mastermacher</a>

@@ -1,0 +1,22 @@
+- name: Studieninformationstag
+  link: /
+- name: Vorwort
+  link: /vorwort
+- name: Blog
+  link: /blog
+- name: Wo studierst Du morgen?
+  link: /thema
+- name: Rahmenprogramm
+  link: /programm/rahmenprogramm
+- name: Programm der Fakultäten
+  link: /programm/fakultaeten
+- name: Vorträge
+  link: /programm/vortraege
+- name: Führungen
+  link: /programm/fuehrungen
+- name: Fakultäten
+  link: /fakultaeten
+- name: Infostände
+  link: /programm/infostaende
+- name: Anfahrt
+  link: /anfahrt

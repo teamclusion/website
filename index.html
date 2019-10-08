@@ -1,0 +1,22 @@
+---
+layout: container
+title:
+---
+
+<div class="jumbotron pb-1">
+  <h1 class="display-4">{{ site.title }}</h1>
+  <p class="lead">"{{ site.slogan }}"</p>
+  <hr class="my-4">
+  <p>Erfahre auf dieser und den folgenden Seiten alles zu {{ site.title }}</p>
+<style>
+  @media (max-width: 399px) {
+    .card-deck .card {
+      width: 100%;
+    }
+  }
+  @media (min-width: 400px) {
+    .card-deck .card {
+      min-width: 360px;
+    }
+  }
+</style>
