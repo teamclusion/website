@@ -11,3 +11,12 @@
 .text-shadow {
   text-shadow: 0px 0px 10px rgba(0, 0, 0, .6);
 }
+
+body {
+  -webkit-hyphens: auto;
+  -webkit-hyphenate-limit-chars: auto 3;
+  -webkit-hyphenate-limit-lines: 4;
+  -ms-hyphens: auto;
+  -ms-hyphenate-limit-chars: auto 3;
+  -ms-hyphenate-limit-lines: 4;
+}
