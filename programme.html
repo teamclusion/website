@@ -1,0 +1,22 @@
+---
+layout: container
+title: Programme
+---
+
+
+
+
+<div class="card-deck">
+  {% for item in site.data.programme %}
+  <div class="card">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">{{ item.kurz }}</h5>
+      <p class="card-text">{{ item.modul }}</p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">Last updated 3 mins ago</small>
+    </div>
+  </div>
+  {% endfor %}
+  </div>

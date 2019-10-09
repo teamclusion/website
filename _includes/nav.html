@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+<nav class="navbar navbar-expand-lg navbar-light bg-light shadow fixed-top">
 		<div class="container">
 			<a class="navbar-brand" href="{{ site.url }}/">
 				<!-- <img alt="{{ site.title }}" src="{{ site.url }}{{ site.logo_nav }}" height="25px"> -->
@@ -16,9 +16,11 @@
 					</li>
 					<li class="nav-item {% if page.url contains "/was" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/was">Was?</a>
 					</li>
+					<li class="nav-item {% if page.url contains "/programme" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/programme">Programme</a>
+					</li>
 					<li class="nav-item {% if page.url contains "/team" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/team">Team</a>
 					</li>
-					<li class="nav-item {% if page.url contains "/kontakt" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/kontkt">Kontakt</a>
+					<li class="nav-item {% if page.url contains "/kontakt" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/kontakt">Kontakt</a>
 					</li>
 				</ul>
 			</div>

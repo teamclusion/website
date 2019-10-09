@@ -1,0 +1,38 @@
+- modul: Tagesworkshop Design Your Life!
+  kurz: DYL!
+  preis: 420,– Euro
+  binhaltet:
+    - Begleitung durch einen Design-Thinking-Coach
+    - Aufbau eines Netzwerks für die Teilnehmer
+- modul: Tagesworkshop Re-Design Your Life!
+  kurz: ReDYL!
+  preis: 400,– Euro
+  binhaltet:
+    - Begleitung durch einen Design-Thinking-Coach
+    - Aufbau eines Netzwerks für die Teilnehmer
+- modul: Einzelcoaching aufbauend auf einem Seminar
+  kurz: kurz
+  preis: 150,– Euro
+  binhaltet:
+    - 60 Minuten – persönlich oder telefonisch
+    - Begleitung durch einen Design-Thinking-Coach
+    - Aufbau eines Netzwerks für die Teilnehmer
+- modul: Paket aus DYL! und ReDYL!
+  kurz: DYL! + ReDYL!
+  preis: Auf Anfrage
+  binhaltet:
+    - 3 Monate begleitendes Einzelcoaching (16 Termine)
+    - Begleitung durch einen Design-Thinking-Coach
+    - Aufbau eines Netzwerks für die Teilnehmer
+- modul: Sketch Noting
+  kurz: SK
+  preis: Auf Anfrage
+  binhaltet:
+    - Begleitung durch einen Design-Thinking-Coach
+    - Aufbau eines Netzwerks für die Teilnehmer
+# - modul: Begleitung durch einen Design-Thinking-Coach
+#   kurz: Begleitung
+#   preis: Kostenlos für DYL-Teilnehmer
+# - modul: Aufbau eines Netzwerks für die Teilnehmer
+#   kurz: Netzwerk
+#   preis: Kostenlos für DYL-Teilnehmer

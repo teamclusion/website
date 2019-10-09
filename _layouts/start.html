@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="de">
+{% include head.html %}
+
+<body>
+  {% include nav.html %}
+  <main>
+    <!-- Full Page Image Header with Vertically Centered Content
+    https://startbootstrap.com/snippets/full-image-header/ -->
+    <header class="masthead text-white">
+      <div class="container h-100">
+        <div class="row h-100 align-items-center">
+          <div class="col-12 text-center">
+            <h1 class="display-1 text-shadow"><b>{{ site.title }}</b></h1>
+            <h1 class="display-4 text-shadow"><b>&bdquo;{{ site.slogan }}&ldquo;</b></h1>
+            <button type="button" class="btn btn-light btn-lg mt-5">Erfahre mehr</button>
+          </div>
+        </div>
+      </div>
+    </header>
+    {{ content }}
+  </main>
+  {% include footer.html %}
+</body>
+
+</html>

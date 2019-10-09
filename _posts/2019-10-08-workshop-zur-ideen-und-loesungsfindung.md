@@ -7,7 +7,7 @@ categories: workshop
 
 Workshop zur Ideen- und Lösungsfindung auf Basis des Design Thinking
 
-8. November 2019 │ IBZ │ Amalienstraße 38 │ München
+8\. November 2019 │ IBZ │ Amalienstraße 38 │ München
 
 Du hast schon seit Längerem das Gefühl, dass eine Veränderung ansteht? Du bist unzufrieden mit Deiner Lebenssituation, obwohl diese dem entspricht, was Du Dir für Dein Leben vorgestellt hast? Du stellst Dir insgeheim die Frage, ob das alles gewesen ist? Oder ob es die nächsten 20 Jahre so weitergehen soll? Du hast Erwartungen an etwas, das Du gleichzeitig nicht greifen kannst? Du siehst, dass Deine Kapazitäten nicht vollständig ausgeschöpft sind? Du denkst, da wartet noch mehr auf Dich? Du bist neugierig, ob da noch was kommt?
 
@@ -38,5 +38,5 @@ Auf der Grundlage dieser Ergebnisse begeben Sie sich dann auf die Suche nach Lö
 
 Durch die Zusammenarbeit mit anderen erhalten Sie nicht nur wertvolles Feedback, sondern haben die Gelegenheit auf Wunsch einen Design-Thinking-Coach an die Seite gestellt zu bekommen. Wir übernehmen für Sie die Bildung eines Netzwerks – natürlich auf rein freiwilliger Basis. Denn der zweite Schritt ist die tatsächliche praktische Umsetzung Ihrer Lösungsvorschläge – im Design Thinking sprechen wir von „Prototyping“, das bedeutet die Konfrontation Ihrer Ideen mit der Realität. Wenn Sie dabei begleitet werden möchten, gibt es mehrere Möglichkeiten: Ein Design-Thinking-Coach, den Sie mit unserer Unterstützung auswählen, eine Design-Thinking-Gruppe oder auch ein aufbauendes Seminar mit dem Thema „Re-Design Your Life“.
 
-Wir freuen uns auf Ihr Kommen!
+Wir freuen uns auf Ihr Kommen!  
 Prof. Dr. Angela Poech und Simone Nägele
