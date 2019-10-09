@@ -69,11 +69,21 @@ title: Kontakt
   </div>
 </form>
 </div>
-<div class="">
+<div class="col-lg-4">
 <h2 class="mt-5 mb-4">Kontaktinformationen</h2>
 
-<p class="lead">teamclusion</p>
+<p class="h3">teamclusion</p>
 <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+
+<h4>Herausgeber</h4>
+<address>{{ site.publisher }}
+</address>
+<h4>Redaktion</h4>
+<p>{{ site.editorial }}</p>
+
+<hr>
+<p><small>Folge uns auf</small></p>
+<p>{% include socialLinks.html %}</p>
 
   </div>
 
