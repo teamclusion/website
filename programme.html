@@ -3,20 +3,76 @@ layout: container
 title: Programme
 ---
 
-
+<h2 class="h1-responsive font-weight-bold text-center my-5">Unser Angebot für Sie</h2>
+<!-- Section description -->
+<p class="grey-text text-center w-responsive mx-auto mb-5">Duis aute irure dolor in reprehenderit in
+  voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+  proident, sunt in culpa qui officia deserunt mollit est laborum.</p>
+  <p class="text-muted text-center w-responsive mx-auto mb-5">Alle Preise verstehen sich in Euro excl. MwSt.</p>
 
 
 <div class="card-deck">
-  {% for item in site.data.programme %}
-  <div class="card">
-    <img src="..." class="card-img-top" alt="...">
+  {% for item in site.data.programme.primaer %}
+  <div class="card text-center">
+    <!-- <img src="..." class="card-img-top" alt="..."> -->
     <div class="card-body">
-      <h5 class="card-title">{{ item.kurz }}</h5>
-      <p class="card-text">{{ item.modul }}</p>
+      <h5 class="card-title h2">{{ item.kurz }}</h5>
+      <h6 class="card-subtitle mb-2 text-muted">{{ item.modul }}</h6>
+      <p class="card-text"><small>{{ item.teaser }}</small></p>
     </div>
-    <div class="card-footer">
-      <small class="text-muted">Last updated 3 mins ago</small>
+    <ul class="fa-ul list-group list-group-flush text-left">
+      {% for punkt in item.beinhaltet %}
+      <li class="list-group-item"><i class="fa-li fas fa-check-circle text-success"></i> {{ punkt }}</li>
+      {% endfor %}
+    </ul>
+    <div class="card-footer py-4">
+      <a href="mailto:tgermer@me.com?subject=Anfrage%20zu%20{{ item.kurz | replace: ' ', '%20' }}%20–%20{{ item.modul | replace: ' ', '%20'}}" class="text-body"><span class="h3 font-weight-bold">{{ item.preis }}</span></a>
     </div>
   </div>
   {% endfor %}
   </div>
+
+  <hr class="m-5">
+
+  <div class="card-deck mb-5">
+    {% for item in site.data.programme.sekunder %}
+    <div class="card text-center">
+      <!-- <img src="..." class="card-img-top" alt="..."> -->
+      <div class="card-body">
+        <h5 class="card-title h2">{{ item.kurz }}</h5>
+        <h6 class="card-subtitle mb-2 text-muted">{{ item.modul }}</h6>
+        <p class="card-text"><small>{{ item.teaser }}</small></p>
+      </div>
+      <ul class="fa-ul list-group list-group-flush text-left">
+        {% for punkt in item.beinhaltet %}
+        <li class="list-group-item"><i class="fa-li fas fa-check-circle text-success"></i> {{ punkt }}</li>
+        {% endfor %}
+      </ul>
+      <div class="card-footer py-4">
+        <a href="mailto:tgermer@me.com?subject=Anfrage%20zu%20{{ item.kurz | replace: ' ', '%20' }}%20–%20{{ item.modul | replace: ' ', '%20'}}" class="text-body"><span class="h3 font-weight-bold">{{ item.preis }}</span></a>
+      </div>
+    </div>
+    {% endfor %}
+    </div>
+
+
+<!-- <div class="row">
+  {% for item in site.data.programme %}
+  <div class="col-sm-4 mb-4">
+    <div class="card text-center">
+      <div class="card-body mb-4">
+        <h5 class="card-title h2">{{ item.kurz }}</h5>
+        <h6 class="card-subtitle mb-2 text-muted">{{ item.modul }}</h6>
+      </div>
+      <ul class="list-group list-group-flush text-left">
+        {% for punkt in item.beinhaltet %}
+        <li class="list-group-item"><i class="fas fa-check-circle text-success"></i> {{ punkt }}</li>
+        {% endfor %}
+      </ul>
+      <div class="card-footer">
+        <span class="h3 font-weight-bold">{{ item.preis }}</span>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+  </div> -->

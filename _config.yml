@@ -18,8 +18,8 @@ title_kurz: Teamclusion
 slogan: Du bist der Meister Deines Lebens
 hashtag: teamclusion
 date: 2020-03-28
-email: tgermer@me.com
-phone: 0151 22651857
+email: info@teamclusion.de
+phone:
 opening_hours: Keine Öffnungszeiten
 description: >- # this means to ignore newlines until "baseurl:"
   Du bist der Meister Deines Lebens
@@ -32,17 +32,15 @@ publisher: |
 president:
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://teamclusion.netlify.com"
-url_imprint: https://www.hm.edu/sekundaer_navigation/impressum
-url_pravacy_statement: https://www.hm.edu/sekundaer_navigation/impressum/datenschutz
+url: "http://kunden.tristan-germer.de/teamclusion" #"https://teamclusion.netlify.com"
 webmaster_email: tgermer@hm.edu
 webmaster_name: Tristan Germer
 logo_nav: /assets/img/logo.png   #logoLinks.svg
-twitter_username:
-linkedin_username:
-facebook_username:
-youtube_username:
-instagram_username:
+twitter_username: teamclusion
+linkedin_username: teamclusion
+facebook_username: teamclusion
+youtube_username: teamclusion
+instagram_username: teamclusion
 
 twitter:
   username:
