@@ -77,7 +77,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/img/FB_01_1200x630.png # Allgemeines OpenGraph Bild
+      image: /assets/img/FB_01_1200x630.jpg # Allgemeines OpenGraph Bild
   # jekyll-seo-tag ENDE
 
 # Eigene Einstellungen
