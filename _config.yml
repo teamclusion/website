@@ -36,12 +36,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://teamclusion.netlify.com"
 webmaster_email: tgermer@hm.edu
 webmaster_name: Tristan Germer
-logo_nav: /assets/img/logo.png   #logoLinks.svg
-twitter_username: teamclusion
-linkedin_username: teamclusion
-facebook_username: teamclusion
-youtube_username: teamclusion
-instagram_username: teamclusion
+logo_nav: /assets/img/logo_voll.svg
+logo: /assets/img/logo_voll.svg
+logo_2-zeilig: /assets/img/logo_voll_2-zeilig.svg
+twitter_username:
+linkedin_username:
+facebook_username: 
+youtube_username:
+instagram_username:
 
 twitter:
   username:

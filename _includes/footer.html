@@ -1,11 +1,11 @@
 <footer class="">
   <div class="container text-center text-md-left">
     <small>
-      <div class="row">
+      <div class="row mb-3">
         <div class="col-md-3 col-sm-6">
           <p class="mt-1">
-            <img src="{{ site.url }}{{ site.logo_nav }}" alt="{{ site.title }}" class="img-responsive d-none d-md-block" style="max-width:150px" role="image">
-            <img src="{{ site.url }}/assets/img/logo.png" alt="{{ site.title }}" class="img-responsive d-md-none x-auto" style="max-width:150px" role="image">
+            <img src="{{ site.url }}{{ site.logo_2-zeilig }}" alt="{{ site.title }}" class="img-reponsive d-none d-md-block" style="max-height:50px; max-width:107px" role="ima ge">
+            <img src="{{ site.url }}{{ site.logo }}" alt="{{ site.title }}" class="img-responsive d-md-none x-auto" style="max-height:25px" role="image">
           </p>
           <p>&copy; 2019–{{ "now" | date: "%Y" }}</p>
           <p>Powered by<br><a href="https://app.netlify.com/sites/teamclusion/deploys" target="_blank"><img src="https://api.netlify.com/api/v1/badges/bc0871a5-ff1d-42cf-ab96-276127acefcd/deploy-status" alt="Netlify Status"></a></p>
@@ -36,10 +36,16 @@
         </div>
       </div>
     </small>
+    {%- if site.twitter_username != nil or
+           site.facebook_username != nil or
+           site.linkedin_username != nil or
+           site.youtube_username != nil or
+           site.instagram_username != nil -%}
     <div class="text-center text-muted mt-3">
       <p><small>Folge uns auf</small></p>
       <p>{% include socialLinks.html %}</p>
     </div>
+    {% endif %}
   </div>
   <div class="copyright">
     <div class="container">
