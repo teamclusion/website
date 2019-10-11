@@ -20,3 +20,8 @@ body {
   -ms-hyphenate-limit-chars: auto 3;
   -ms-hyphenate-limit-lines: 4;
 }
+
+.nicht-trennen {
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+}
