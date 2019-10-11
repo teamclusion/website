@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Teamclusion
 title_kurz: Teamclusion
-slogan: Du bist der Meister Deines Lebens
+slogan: Du bist der Meister Deines Lebens
 hashtag: teamclusion
 date: 2020-03-28
 email: info@teamclusion.de
@@ -41,7 +41,7 @@ logo: /assets/img/logo_voll.svg
 logo_2-zeilig: /assets/img/logo_voll_2-zeilig.svg
 twitter_username:
 linkedin_username:
-facebook_username: 
+facebook_username:
 youtube_username:
 instagram_username:
 
