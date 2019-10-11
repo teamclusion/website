@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Teamclusion
-title_kurz: Teamclusion
+title: teamclusion
+title_kurz: teamclusion
 slogan: Du bist der Meister Deines Lebens
 hashtag: teamclusion
 date: 2020-03-28
