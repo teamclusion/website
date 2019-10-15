@@ -65,6 +65,3 @@ PLATFORMS
 DEPENDENCIES
   jekyll-feed
   jekyll-seo-tag
-
-BUNDLED WITH
-   2.0.2
