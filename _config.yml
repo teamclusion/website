@@ -36,7 +36,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://teamclusion.netlify.com"
 webmaster_email: tgermer@hm.edu
 webmaster_name: Tristan Germer
-logo_nav: /assets/img/logo_kontur.svg
+logo_nav: /assets/img/logo_kontur2.svg
 logo: /assets/img/logo_voll.svg
 logo_2-zeilig: /assets/img/logo_voll_2-zeilig.svg
 twitter_username:
