@@ -17,7 +17,7 @@ Wir bieten Coachingleistungen für Menschen an, die sich privat oder beruflich n
 
 ## Phasen im Design Thinking
 
-![Phasen im Design Thinking]({{ site.url }}/assets/img/design_thinking_phasen.png){:class="img-fluid"}  
+![Phasen im Design Thinking]({{ site.url }}/assets/img/design_thinking_phasen.svg){:class="img-fluid"}  
 
 ## Fallstudien zur Praktischen Ethik
 
