@@ -1,7 +1,7 @@
 primaer:
 - modul: Design Your Life!
   kurz: DYL!
-  teaser: In diesem Workshop lernen Sie … bla bla bla.
+  teaser: In diesem Workshop erarbeiten Sie auf Grundlage der 7 Phasen des Design Thinking Ihre Life Design Idee
   preis: 420,–
   beinhaltet:
     - Tagesworkshop
@@ -9,14 +9,14 @@ primaer:
     - Aufbau eines Netzwerks für die Teilnehmer
 - modul: Re-Design Your Life!
   kurz: ReDYL!
-  teaser: In diesem Workshop lernen Sie … bla bla bla.
+  teaser: In diesem Workshop durchlaufen Sie auf Grundlage Ihrer Life Design Idee die 3 Phasen des Design Thinking
   preis: 400,–
   beinhaltet:
     - Tagesworkshop
     - Begleitung durch einen Design-Thinking-Coach
     - Aufbau eines Netzwerks für die Teilnehmer
 - modul: Paket aus DYL! und ReDYL!
-  teaser: In diesem Workshop lernen Sie … bla bla bla.
+  teaser: In den beiden Workshops durchlaufen Sie alle 10 Phasen des Design Thinking und werden von einem Life Design Coach dabei begleitet
   kurz: DYL! + ReDYL!
   preis: Auf Anfrage
   beinhaltet:
@@ -26,16 +26,16 @@ primaer:
 
 sekunder:
 - modul: Einzelcoaching aufbauend auf einem Seminar
-  teaser: In diesem Seminar lernen Sie … bla bla bla.
-  kurz: EC1S
+  teaser: Nutzen Sie ein Life Design Coaching (aufbauend auf einem Seminar) zur Unterstützung Ihrer Life Design Idee!
+  kurz: LDC
   preis: 150,–
   beinhaltet:
     - 60 Minuten – persönlich oder telefonisch
-    - Begleitung durch einen Design-Thinking-Coach
+    - Begleitung durch einen Life Design Coach
     - Aufbau eines Netzwerks für die Teilnehmer
 - modul: Sketch Noting
-  teaser: Beim Sketch Noting lernen Sie … bla bla bla.
-  kurz: SK
+  teaser: Agile Art & Sketch Noting Nutzen Sie künstlerische Methoden zur Entwicklung Ihrer Life Design Idee!
+  kurz: ART
   preis: Auf Anfrage
   beinhaltet:
     - Begleitung durch einen Design-Thinking-Coach

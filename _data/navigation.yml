@@ -4,13 +4,17 @@
 #   link: /news
 - name: DYL
   link: /dyl
-- name: Was?
-  link: /was
-- name: Für wen?
-  link: /zielgruppe
-- name: Programme
-  link: /programme
 - name: Team
   link: /team
+- name: Wer?
+  link: /wer
+- name: Wozu?
+  link: /wozu
+# - name: Für wen?
+#   link: /zielgruppe
+- name: Was?
+  link: /was
+- name: Programme
+  link: /programme
 - name: Kontakt
   link: /kontakt
