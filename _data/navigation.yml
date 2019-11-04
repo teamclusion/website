@@ -1,9 +1,9 @@
 - name: Teamclusion
   link: /
-- name: News
-  link: /news
-- name: Wozu?
-  link: /wozu
+# - name: News
+#   link: /news
+- name: DYL
+  link: /dyl
 - name: Was?
   link: /was
 - name: Für wen?
