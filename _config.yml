@@ -20,7 +20,7 @@ hashtag: teamclusion
 dyl: <span class="text-secondary font-weight-bold font-italic">Design Your Life! </span>
 date: 2020-03-28
 email: info@teamclusion.de
-phone:
+phone: 089 898989
 opening_hours: Keine Öffnungszeiten
 description: >- # this means to ignore newlines until "baseurl:"
   Du bist der Meister Deines Lebens!
@@ -28,8 +28,8 @@ author: Prof. Dr. Angela Poech
 editorial: Prof. Dr. Angela Poech
 publisher: |
   Prof. Dr. Angela Poech<br>
-  Strasse Nr.<br>
-  ##### München
+  Torgauerstraße 5<br>
+  80933 München
 president:
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
