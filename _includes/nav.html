@@ -1,35 +1,26 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light shadow fixed-top">
-		<div class="container">
-			<a class="navbar-brand" href="{{ site.url }}/">
-				<img alt="{{ site.title }}" src="{{ site.url }}{{ site.logo_nav }}" height="25px">
-				<!-- Teamclusion -->
-			</a>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon"></span>
-			</button>
+	<div class="container">
+		<a class="navbar-brand" href="{{ site.url }}/">
+			<img alt="{{ site.title }}" src="{{ site.url }}{{ site.logo_nav }}" height="25px">
+			<!-- Teamclusion -->
+		</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
 
-			<div class="collapse navbar-collapse" id="navbarSupportedContent">
-				<ul class="navbar-nav ml-auto">
-					<!-- <li class="nav-item {% if page.url contains "/news" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/news">News</a>
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav ml-auto">
+				<!-- <li class="nav-item {% if page.url contains "/news" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/news">News</a>
 					</li> -->
-					<li class="nav-item {% if page.url contains "/dyl" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/dyl">DYL</a>
-					</li>
-					<li class="nav-item {% if page.url contains "/team" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/team">Team</a>
-					</li>
-					<li class="nav-item {% if page.url contains "/wer" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/wer">Wer?</a>
-					</li>
-					<li class="nav-item {% if page.url contains "/wozu" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/wozu">Wozu?</a>
-					</li>
-					<!-- <li class="nav-item {% if page.url contains "/zielgruppe" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/zielgruppe">Für wen?</a>
-					</li> -->
-					<li class="nav-item {% if page.url contains "/was" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/was">Was?</a>
-					</li>
-					<li class="nav-item {% if page.url contains "/programme" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/programme">Programme</a>
-					</li>
 
-					<li class="nav-item {% if page.url contains "/kontakt" %}active{% endif %}"><a class="nav-link" href="{{ site.url }}/kontakt">Kontakt</a>
-					</li>
-				</ul>
-			</div>
+				{% for item in site.data.navigation %}
+				{% if item.link != "/" %}
+				<li class="nav-item {% if page.url contains item.link %}active{% endif %}"><a class="nav-link" href="{{ site.url }}{{ item.link }}">{{ item.name }}</a>
+				</li>
+				{% endif %}
+				{% endfor %}
+
+			</ul>
 		</div>
-	</nav>
+	</div>
+</nav>
