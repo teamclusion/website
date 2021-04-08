@@ -6,15 +6,15 @@
   link: /dyl
 - name: Team
   link: /team
-- name: Wer?
-  link: /wer
-- name: Wozu?
-  link: /wozu
+# - name: Wer?
+#   link: /wer
+# - name: Wozu?
+#   link: /wozu
 # - name: Für wen?
 #   link: /zielgruppe
-- name: Was?
-  link: /was
-- name: Programme
-  link: /programme
+- name: Fallstudien
+  link: /fallstudien
+# - name: Programme
+#   link: /programme
 - name: Kontakt
   link: /kontakt

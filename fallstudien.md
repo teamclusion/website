@@ -1,0 +1,8 @@
+---
+layout: container
+title: Fallstudien
+---
+
+## Fallstudien zur Praktischen Ethik
+
+In jüngster Zeit macht ein Begriff im täglichen Sprachgebrauch Furore: Ethisches Dilemma. Gerade im beruflichen Umfeld kommen viele Menschen immer häufiger in Konfliktsituationen, die ausweglos scheinen. Sie bekommen Vorgaben von Vorgesetzten, Kunden oder Lieferanten, geraten dadurch unter Druck und sehen sich gezwungen, den Druck an andere weiterzugeben. Sie spüren dabei mehr oder weniger deutlich, dass etwas nicht stimmt – ihr Gewissen rebelliert und ihre Vernunft sagt ihnen, dass das geforderte Verhalten nicht mit ihrem inneren Wertekompass übereinstimmt. In vielen Fällen lassen sich solche Konflikte mit ein wenig Fingerspitzengefühl auflösen. Aber es gibt auch Fälle, da erscheint jeder Lösungsweg ‚schlecht‘ – schlecht deshalb, weil er stets mit Schaden für mindestens eine der beteiligten Personen verbunden ist, oftmals auch für den Betreffenden selbst. Da jeder von uns unweigerlich in solche ‚ethischen Fallen‘ tappt, ist der erste Schritt zur Lösung die Reflexion: Erkennen, was die Situation wirklich ausmacht, welche Handlungsoptionen man hat, wer beteiligt ist, wie das Machtgefüge in der Gruppe aussieht, welchen Anteil man selbst an der Situation hat und schließlich, was die eigene Pflicht oder Verantwortung ist. Erst dann lässt sich eine vernünftige Entscheidung fällen.
