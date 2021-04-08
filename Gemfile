@@ -4,4 +4,4 @@ gem 'jekyll-seo-tag'
 # gem 'jekyll-paginate'
 gem 'jekyll-feed'
 
-gem 'ffi', '~> 1.14.2'
+gem "webrick", "~> 1.7"
