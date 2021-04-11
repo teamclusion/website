@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article class="post container mb-5">
+
+  <header class="post-header text-white" style="min-height:200px; background-image: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 100%), url('{{ page.img }}'); background-repeat: no-repeat; background-size: cover; background-position: center center; position: relative; margin-top:-25px;">
+    <p class="lead p-2" style="top:0; position: absolute">Fallstudie</p>
+    <h1 class="post-title p-2" style="bottom:0px; position: absolute">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content mt-3">
+    <h2 class="">{{ page.subtitle }}</h2>
+    {{ content }}
+  </div>
+
+</article>
+
+<!-- <h1>{{ page.title }}</h1> -->
