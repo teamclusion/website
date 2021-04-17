@@ -77,7 +77,7 @@ plugins:
   - jekyll-seo-tag
   #- jekyll-paginate
   - jekyll-feed
-
+  - jekyll-toc
 
 defaults:
   # jekyll-seo-tag START

@@ -2,6 +2,7 @@
 short_name: dilemma-fallstudie_promenade
 date: 2021-03-22
 nummer: 1
+toc: true
 title: Spaziergang an der Promenade
 subtitle: Ein ethisches Dilemma – was denken Sie?
 img: https://images.pexels.com/photos/384553/pexels-photo-384553.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
@@ -44,12 +45,12 @@ Eigentlich möchte sie so schnell wie möglich ins Bett in ihrem neuen zu Hause.
 
 ### Impulsfragen für die Diskussion – Teil 1
 
-#### a) Erkennen des ethischen Problems:
+#### a) Erkennen des ethischen Problems
 1. Wie würden Sie reagieren, wenn Sie statt Katharina über den Obdachlosen gestolpert wären?
 2. Falls Sie nicht direkt Hilfe leisten möchten (z.B. den Obdachlosen ansprechen, Passanten um Hilfe bitten oder den Notruf wählen), was hält Sie davon ab?
 3. Wenn Sie mit dem Obdachlosen alleine auf der Promenade wären, wie würden Sie handeln?
 
-#### b)	Fakten sammeln:
+#### b)	Fakten sammeln
 1. Was sind die relevanten Informationen für diesen Fall? Welche Fakten sind bekannt?
 2. Unterscheiden Sie bei der Analyse situative und personale Faktoren. Welche Rolle spielen sie jeweils?
 3. Wissen Sie genug, um eine begründete Entscheidung treffen zu können, wie Sie handeln sollten, wenn Sie über den Obdachlosen gestolpert wären?
@@ -118,12 +119,12 @@ Aufklärung ist hierbei ebenso wichtig wie Training. Schon im Schulalter, aber a
 
 ### Impulsfragen für die Diskussion – Teil 2
 
-#### a)	Überprüfung der Fakten:
+#### a)	Überprüfung der Fakten
 
 1. Hat sich Ihre Meinung zu dem Fall durch das zusätzliche theoretische Wissen geändert? Wenn ja, inwiefern?
 2. Würden Sie Ihre zuvor genannten Handlungsoptionen neu definieren?
 
-#### b)	Handlungsoptionen beurteilen:
+#### b)	Handlungsoptionen beurteilen
 
 1. Wie würden Sie die möglichen Handlungsoptionen basierend auf Ihren spontanen Reaktionen zu Beginn kombiniert mit dem theoretischen Hintergrundwissen nun beurteilen?
 2. Ist Diffusion der Verantwortung ethisch gerechtfertigt?
@@ -134,12 +135,12 @@ Aufklärung ist hierbei ebenso wichtig wie Training. Schon im Schulalter, aber a
 7. Welche Option respektiert am besten die Rechte aller betroffenen Personen? (Orientierung an Recht und Gesetz)
 8. Welche Option lässt Sie als die Art von Person handeln, die Sie sein möchten? (Fokus auf Tugend)
 
-#### c)	Eine Entscheidung fällen und testen:
+#### c)	Eine Entscheidung fällen und testen
 
 1. Wenn man all diese Ansätze einbezieht, welche Option wird Ihrer Meinung nach der Situation in Katharinas Fall am ehesten gerecht?
 2. Wenn Sie Personen, die Sie sehr respektieren, von Ihrer Entscheidung erzählen würden, was würden diese dazu sagen?
 
-#### d)	Handeln und über die Folgen kritisch nachdenken:
+#### d)	Handeln und über die Folgen kritisch nachdenken
 
 1. Welche Folgen hätte Ihre Entscheidung und was haben Sie aus dieser spezifischen Situation gelernt?
 2. Welche Situationen der Verantwortungsdiffusion haben Sie selbst schon erlebt, wie haben Sie in den Situationen reagiert und wie würden Sie mit dem Wissen von heute versuchen zu reagieren?
@@ -157,4 +158,4 @@ Aufklärung ist hierbei ebenso wichtig wie Training. Schon im Schulalter, aber a
 
 
 ---
-Fußnoten
+**Fußnoten**

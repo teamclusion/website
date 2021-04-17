@@ -2,6 +2,7 @@
 short_name: blechschaden-fallstudie
 date: 2021-04-15
 nummer: 2
+toc: true
 title: Nur ein Blechschaden
 subtitle: Ein ethisches Dilemma – was denken Sie?
 img: https://images.pexels.com/photos/163016/crash-test-collision-60-km-h-distraction-163016.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260
@@ -21,13 +22,15 @@ Kaschner, T. (2016): Verantwortung. S. 237-245 in Frey, D. (Hrsg.): Psychologie 
 
 ---
 
+<!-- Jekyll Tip: Adding Styling To Html Output https://digitaldrummerj.me/styling-jekyll-markdown/ -->
+
+
 Laura hatte den Tag am Strand verbracht. Keine Wolke am Himmel, das Meer herrliche 27 Grad warm. Es war ihr erster Urlaub seit einem Jahr, einem sehr anstrengenden Jahr mit vielen Herausforderungen. Die Ruhe und das Nichtstun taten ihr gut. Sie atmete tief durch, war glücklich, dass sie sich diese Zeit hier an der Algarve nun endlich gönnen konnte.
 
 Sie bog gerade um die Ecke, um zu ihrem Auto zu gehen, das sie am strandnahen Parkplatz abgestellt hatte, als sie das Krachen hörte. Ein Wagen hatte gewendet, und da es leicht abschüssig war, war er in ein parkendes, nagelneues Auto gefahren. Laura blieb ganz in der Nähe stehen und beobachtete die Szene: der Fahrer setzte kurz zurück, stieg aus und betrachtete den Schaden. Er schrubbte ein paar Mal mit der Hand über den Kotflügel des anderen Wagens. Eine Dame, die mit im Wagen gesessen hatte, stieg ebenfalls aus. Nach einer kurzen Verständigung stiegen die beiden wieder in ihr Auto ein und fuhren weg. Laura war fassungslos. Sie ging zu ihrem eigenen Auto und notierte die Nummer des wegfahrenden Wagens sowie die Nummer des angefahrenen PKW. Um sicherzugehen, sah sie sich den Kotflügel des Fahrzeugs genauer an. Ganz klar, er war stark beschädigt. Nun war sie ratlos…
 
 
 ### Wie würden Sie an Lauras Stelle handeln?
-{:.bg-light}
 
 * a) Laura sollte sich nicht in die Angelegenheiten anderer einmischen, zumal sie sich nicht in Deutschland befindet.
 * b) Laura sollte versuchen, sich an die Stelle des Fahrzeughalters zu versetzen, dessen Auto beschädigt wurde.
@@ -37,18 +40,17 @@ Sie bog gerade um die Ecke, um zu ihrem Auto zu gehen, das sie am strandnahen Pa
 * f) Laura sollte die Rechte ihres Körpers beachten, der dringend Erholung und Ruhe nötig hat.
 * g) Laura hätte sich nicht passiv verhalten dürfen, sondern den Fahrer direkt ansprechen und auffordern müssen, die Polizei zu rufen.
 * h) Keine der oben genannten Antworten.
-{:.bg-light}
 
 
 ### Impulsfragen für die Diskussion – Teil 1
 
-#### a) Erkennen des ethischen Problems:
+#### a) Erkennen des ethischen Problems
 1. Wie würden Sie reagieren, wenn Sie statt Laura den Vorfall beobachtet hätten?
 2. Besteht eine Pflicht für Laura, dem Geschädigten zu helfen?
 3. Falls Sie an Lauras Stelle nicht eingreifen wollen (z.B. sich bemerkbar machen und den Fahrer ansprechen, einen Zettel am beschädigten Auto hinterlassen, die Polizei informieren), was hält Sie davon ab?
 4. Würden Sie anders handeln, wenn Sie zusammen mit anderen auf dem Parkplatz wären?
 
-#### b)	Fakten sammeln:
+#### b)	Fakten sammeln
 1. Was sind die relevanten Informationen für diesen Fall? Welche Fakten sind bekannt?
 2. Unterscheiden Sie bei der Analyse situative, kulturelle und personale Faktoren. Welche Rolle spielen sie jeweils?
 3. Was sind die ethischen Standards, auf deren Basis Laura sich für ein Verhalten entscheiden kann?
@@ -108,12 +110,12 @@ Für Laura bedeutet das, für sich klarzustellen, ob sie auf dem Parkplatz im Na
 
 ### Impulsfragen für die Diskussion – Teil 2
 
-#### a)	Überprüfung der Fakten:
+#### a)	Überprüfung der Fakten
 
 1. Hat sich Ihre Meinung zu dem Fall durch das zusätzliche theoretische Wissen geändert? Wenn ja, inwiefern?
 2. Würden Sie Ihre zuvor genannten Handlungsoptionen neu definieren?
 
-#### b)	Handlungsoptionen beurteilen:
+#### b)	Handlungsoptionen beurteilen
 
 1. Wie würden Sie die möglichen Handlungsoptionen basierend auf Ihren spontanen Reaktionen zu Beginn kombiniert mit dem theoretischen Hintergrundwissen nun beurteilen?
 2. Ist Verantwortung ethisch gerechtfertigt?
@@ -121,12 +123,12 @@ Für Laura bedeutet das, für sich klarzustellen, ob sie auf dem Parkplatz im Na
 4. Welche Option respektiert am besten die Rechte aller betroffenen Personen und der Gesellschaft? (Orientierung an Recht und Gesetz)
 5. Welche Option lässt Sie als die Art von Person handeln, die Sie sein möchten? (Fokus auf Tugend)
 
-#### c)	Eine Entscheidung fällen und testen:
+#### c)	Eine Entscheidung fällen und testen
 
 1. Wenn man all diese Ansätze einbezieht, welche Option wird Ihrer Meinung nach Lauras Situation am ehesten gerecht?
 2. Wenn Sie Personen, die Sie sehr respektieren, von Ihrer Entscheidung erzählen würden, was würden diese dazu sagen?
 
-#### d)	Handeln und über die Folgen kritisch nachdenken:
+#### d)	Handeln und über die Folgen kritisch nachdenken
 
 1. Welche Folgen hätte Ihre Entscheidung und was haben Sie aus dieser spezifischen Situation gelernt?
 2. Welche Situationen der Verantwortung haben Sie selbst schon erlebt, wie haben Sie in den Situationen reagiert und wie würden Sie mit dem Wissen von heute versuchen zu reagieren?
@@ -138,4 +140,4 @@ _wird ergänzt_
 
 
 ---
-Fußnoten
+**Fußnoten**
