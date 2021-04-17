@@ -1,9 +1,12 @@
 ---
 short_name: dilemma-fallstudie_promenade
 date: 2021-03-22
+nummer: 1
 title: Spaziergang an der Promenade
 subtitle: Ein ethisches Dilemma – was denken Sie?
 img: https://images.pexels.com/photos/384553/pexels-photo-384553.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
+download_erklaerung: 20210406_dilemma-fallstudie_promenade-unterrichtsmaterialien.pdf
+download_text-fragen: 20210322_dilemma-fallstudie_promenade_text-und-fragen.pdf
 author:
   - Tina Nalbantoglu
   - Angela Poech
@@ -27,9 +30,6 @@ Katharina kommt aus Norddeutschland und ist begeisterte Wellenreiterin. Daher li
 In dem Moment stolpert sie über die Füße eines Obdachlosen, der reglos am Boden liegt. Vor lauter Euphorie hatte Katharina nur, wenn auch müde, Augen für die von Palmen gesäumte, beeindruckende Flaniermeile Nizzas mit ihren vielen Menschen. Dabei hatte sie nicht auf den Weg geachtet. Nun steht sie vor diesem bewegungslosen Körper.
 
 Eigentlich möchte sie so schnell wie möglich ins Bett in ihrem neuen zu Hause. Katharina wägt ab. Es sind genügend Menschen auf der Promenade, die sich um den Obdachlosen kümmern könnten. Die können sicher auch besser französisch sprechen als sie. Von denen ist wiederum keiner direkt über ihn gestolpert. Vielleicht nehmen die anderen Passanten ihn gar nicht wahr, überlegt Katharina. Sie ist verunsichert. Am liebsten würde sie weitergehen.
-
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdE_8QrPfA6D79ywaX3C5t0hfQRtt680aK6-yrwKptbd0Zdqg/viewform?embedded=true" width="640" height="745" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
 
 
 ### Wie würden Sie an Katharinas Stelle handeln?
@@ -143,6 +143,18 @@ Aufklärung ist hierbei ebenso wichtig wie Training. Schon im Schulalter, aber a
 
 1. Welche Folgen hätte Ihre Entscheidung und was haben Sie aus dieser spezifischen Situation gelernt?
 2. Welche Situationen der Verantwortungsdiffusion haben Sie selbst schon erlebt, wie haben Sie in den Situationen reagiert und wie würden Sie mit dem Wissen von heute versuchen zu reagieren?
+
+
+### Medienunterstützung für den Unterricht
+
+* [Erklärvideos und Kurzfilme zur Verantwortungsdiffusion mit Experiment Latané & Darley 1968 (epileptischer Anfall)](https://www.youtube.com/watch?v=eaOy_JbNSb4)
+* [Erklärvideo zum Bystander-Effekt (mit Latané & Darleys „Fünf Schritte“ (1970))](https://www.youtube.com/watch?v=ekS0OUWpjd0)
+* [Erklärvideo zur Verantwortungsdiffusion auf Englisch](https://www.youtube.com/watch?v=OSsPfbup0ac)
+* [The smokes filled room study – 3min – ohne Worte – reine Beobachtung der Studienteilnehmer](https://www.youtube.com/watch?v=KE5YwN4NW5o)
+* [The Asch Conformity Experiment auf Englisch: "Dass intelligente, gut gemeinte junge Menschen bereit sind, Weiß Schwarz zu nennen, gibt Anlass zur Sorge." Asch](https://www.youtube.com/watch?v=TYIh4MkcfJA)
+* [Zivilcourage – Kurzfilm: Ein Mann sitzt in der Straßenbahn und freut sich auf den Feierabend. Da belästigen zwei Jugendliche eine junge Frau. Der Mann weiß: er müsste eingreifen...doch er zögert](https://www.youtube.com/watch?v=cbnfqmWkiu8)
+* [Zivilcourage zeigen – Kurzfilm von der Bundespolizei: Die sechs Regeln für kritische Situationen sollen zeigen, dass jeder Mensch unabhängig von Alter, Geschlecht, Größe oder Körperbau, Hilfe leisten kann, ohne sich selbst in Gefahr zu bringen.](https://www.youtube.com/watch?v=vW2fAttjKYM)
+
 
 ---
 Fußnoten
