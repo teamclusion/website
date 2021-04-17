@@ -6,7 +6,6 @@ toc: true
 title: Spaziergang an der Promenade
 subtitle: Ein ethisches Dilemma – was denken Sie?
 image: https://images.pexels.com/photos/384553/pexels-photo-384553.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
-img: https://images.pexels.com/photos/384553/pexels-photo-384553.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 download_erklaerung: 20210406_dilemma-fallstudie_promenade-unterrichtsmaterialien.pdf
 download_text-fragen: 20210322_dilemma-fallstudie_promenade_text-und-fragen.pdf
 author:
@@ -21,7 +20,7 @@ quellen:
   - 'Levine, R.V. – Martinez, T.S. – Brase, G, – Sorensen, K. (1994): Helping in 36 U.S. cities. S. 69-82 in Journal of Personality and Social Psychology 67 (1994)'
   - 'Schwartz, S.H. – Gottlieb, A (1980): Bystander anonymity and reactions to emergencies. S. 418-430 in Journal of personality and social Psychology 39 (1980)'
   - 'Shaffer, D.R. – Rogel, M. – Hendrick, C. (1975): Intervention in the library: The effect of increased responsibility on bystanders’ willingness to prevent a theft. S. 303-319 in Journal of Applied Social Psychology 5 (1975)'
-  - 'Westdeutscher Rundfunk: 13. März 1964 - Kitty Genovese wird ermordet, in: WDR 2 Stichtag 13.03.2019, unter: https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html (abgerufen am 24.02.2021, verfügbar bis 10.03.2029)'
+  - 'Westdeutscher Rundfunk: 13. März 1964 - Kitty Genovese wird ermordet, in: WDR 2 Stichtag 13.03.2019, unter: [https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html](https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html) (abgerufen am 24.02.2021, verfügbar bis 10.03.2029)'
 
 ---
 
@@ -31,7 +30,7 @@ Katharina kommt aus Norddeutschland und ist begeisterte Wellenreiterin. Daher li
 
 In dem Moment stolpert sie über die Füße eines Obdachlosen, der reglos am Boden liegt. Vor lauter Euphorie hatte Katharina nur, wenn auch müde, Augen für die von Palmen gesäumte, beeindruckende Flaniermeile Nizzas mit ihren vielen Menschen. Dabei hatte sie nicht auf den Weg geachtet. Nun steht sie vor diesem bewegungslosen Körper.
 
-Eigentlich möchte sie so schnell wie möglich ins Bett in ihrem neuen zu Hause. Katharina wägt ab. Es sind genügend Menschen auf der Promenade, die sich um den Obdachlosen kümmern könnten. Die können sicher auch besser französisch sprechen als sie. Von denen ist wiederum keiner direkt über ihn gestolpert. Vielleicht nehmen die anderen Passanten ihn gar nicht wahr, überlegt Katharina. Sie ist verunsichert. Am liebsten würde sie weitergehen.
+Eigentlich möchte sie so schnell wie möglich ins Bett in ihrem neuen Zuhause. Katharina wägt ab. Es sind genügend Menschen auf der Promenade, die sich um den Obdachlosen kümmern könnten. Die können sicher auch besser französisch sprechen als sie. Von denen ist wiederum keiner direkt über ihn gestolpert. Vielleicht nehmen die anderen Passanten ihn gar nicht wahr, überlegt Katharina. Sie ist verunsichert. Am liebsten würde sie weitergehen.
 
 
 ### Wie würden Sie an Katharinas Stelle handeln?
@@ -157,6 +156,18 @@ Aufklärung ist hierbei ebenso wichtig wie Training. Schon im Schulalter, aber a
 * [Zivilcourage – Kurzfilm: Ein Mann sitzt in der Straßenbahn und freut sich auf den Feierabend. Da belästigen zwei Jugendliche eine junge Frau. Der Mann weiß: er müsste eingreifen...doch er zögert](https://www.youtube.com/watch?v=cbnfqmWkiu8)
 * [Zivilcourage zeigen – Kurzfilm von der Bundespolizei: Die sechs Regeln für kritische Situationen sollen zeigen, dass jeder Mensch unabhängig von Alter, Geschlecht, Größe oder Körperbau, Hilfe leisten kann, ohne sich selbst in Gefahr zu bringen.](https://www.youtube.com/watch?v=vW2fAttjKYM)
 
+
+### Quellen
+
+- Bierhoff, H.-W. – Rohmann, E. (2011): Diffusion der Verantwortung. S. 29-35 in Maring, M. (Hrsg.): Fallstudien zur Ethik in Wissenschaft, Wirtschaft, Technik und Gesellschaft (2011)
+- Gerhardinger, F. (2016): Zivilcourage. S. 295-306 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
+- Jonas K. – Tanner C. (2006): Effekte sozialer Förderung und Hemmung. S. 167 in Schweizer, K. (Hrsg.): Leistung und Leistungsdiagnostik (2006)
+- Kaschner, T. (2016): Verantwortung. S. 237-245 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
+- Latané, B. – Nida, S. (1981): Ten years of research on group size and helping. S. 308-324 in Psychological Bulletin 89 (1981)
+- Levine, R.V. – Martinez, T.S. – Brase, G, – Sorensen, K. (1994): Helping in 36 U.S. cities. S. 69-82 in Journal of Personality and Social Psychology 67 (1994)
+- Schwartz, S.H. – Gottlieb, A (1980): Bystander anonymity and reactions to emergencies. S. 418-430 in Journal of personality and social Psychology 39 (1980)
+- Shaffer, D.R. – Rogel, M. – Hendrick, C. (1975): Intervention in the library: The effect of increased responsibility on bystanders’ willingness to prevent a theft. S. 303-319 in Journal of Applied Social Psychology 5 (1975)
+- Westdeutscher Rundfunk: 13. März 1964 - Kitty Genovese wird ermordet, in: WDR 2 Stichtag 13.03.2019, unter: [https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html](https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html) (abgerufen am 24.02.2021, verfügbar bis 10.03.2029)
 
 ---
 **Fußnoten**

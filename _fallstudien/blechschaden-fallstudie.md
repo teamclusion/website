@@ -5,20 +5,19 @@ nummer: 2
 toc: true
 title: Nur ein Blechschaden
 subtitle: Ein ethisches Dilemma – was denken Sie?
-image: https://images.pexels.com/photos/163016/crash-test-collision-60-km-h-distraction-163016.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260
-img: https://images.pexels.com/photos/163016/crash-test-collision-60-km-h-distraction-163016.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260
+image: https://images.pexels.com/photos/7433/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 download_erklaerung: 20210415_fallstudie_blechschaden_teil-2_unterrichtsmaterialien.pdf
 download_text-fragen: 20210415_fallstudie_blechschaden_teil-1_text-und-fragen.pdf
 author:
   - Tina Nalbantoglu
   - Angela Poech
 quellen:
-  - 'ADAC (2021): Mit dem Auto unterwegs in Portugal, unter: https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/ (abgerufen am 17.03.2021)'
-  - 'Endreß, M. (2020): Ethik (Gesinnungs- und Verantwortungsethik). S. 67-69 in Müller, H.-P., Sigmund S. (Hrsg.): Max Weber-Handbuch (2020), unter: https://doi.org/10.1007/978-3-476-05142-4_11 (abgerufen am 13.03.2021)'
+  - 'ADAC (2021): Mit dem Auto unterwegs in Portugal, unter: [https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/](https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/) (abgerufen am 17.03.2021)'
+  - 'Endreß, M. (2020): Ethik (Gesinnungs- und Verantwortungsethik). S. 67-69 in Müller, H.-P., Sigmund S. (Hrsg.): Max Weber-Handbuch (2020), unter: [https://doi.org/10.1007/978-3-476-05142-4_11](https://doi.org/10.1007/978-3-476-05142-4_11) (abgerufen am 13.03.2021)'
   - 'Fladerer, M. P. (2016): Gerechtigkeit. S. 79-93 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
 Kaschner, T. (2016): Verantwortung. S. 237-245 in Frey, D. (Hrsg.): Psychologie der Werte (2016)'
-  - 'Rechtsanwalt Rathenau (2021): Unterschiede zwischen dem deutschen und dem portugiesischen Recht, unter: https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht (abgerufen am 17.03.2021)'
-  - 'Worms, N. (2009): Gesinnungsethik und Verantwortungsethik, in: GRIN Verlag München (2009), unter: https://www.grin.com/document/146858 (abgerufen am 13.03.2021)'
+  - 'Rechtsanwalt Rathenau (2021): Unterschiede zwischen dem deutschen und dem portugiesischen Recht, unter: [https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht](https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht) (abgerufen am 17.03.2021)'
+  - 'Worms, N. (2009): Gesinnungsethik und Verantwortungsethik, in: GRIN Verlag München (2009), unter: [https://www.grin.com/document/146858](https://www.grin.com/document/146858) (abgerufen am 13.03.2021)'
 
 
 ---
@@ -33,7 +32,31 @@ Sie bog gerade um die Ecke, um zu ihrem Auto zu gehen, das sie am strandnahen Pa
 
 ### Wie würden Sie an Lauras Stelle handeln?
 
-* a) Laura sollte sich nicht in die Angelegenheiten anderer einmischen, zumal sie sich nicht in Deutschland befindet.
+**a)** Laura sollte sich nicht in die Angelegenheiten anderer einmischen, zumal sie sich nicht in Deutschland befindet.
+{:.lead .px-5}
+
+**b)** Laura sollte versuchen, sich an die Stelle des Fahrzeughalters zu versetzen, dessen Auto beschädigt wurde.
+{:.lead .px-5}
+
+**c)** Laura sollte einen Einheimischen bitten, einen Zettel auf Portugiesisch zu hinterlassen, auf dem ihre Handynummer notiert ist.
+{:.lead .px-5}
+
+**d)** Laura sollte im angrenzenden Supermarkt die Nummer des Fahrzeugs deponieren, das den Schaden verursacht hat.
+{:.lead .px-5}
+
+**e)** Laura sollte zur Polizei gehen und Anzeige erstatten.
+{:.lead .px-5}
+
+**f)** Laura sollte die Rechte ihres Körpers beachten, der dringend Erholung und Ruhe nötig hat.
+{:.lead .px-5}
+
+**g)** Laura hätte sich nicht passiv verhalten dürfen, sondern den Fahrer direkt ansprechen und auffordern müssen, die Polizei zu rufen.
+{:.lead .px-5}
+
+**h)** Keine der oben genannten Antworten.
+{:.lead .px-5}
+
+<!-- * a) Laura sollte sich nicht in die Angelegenheiten anderer einmischen, zumal sie sich nicht in Deutschland befindet.
 * b) Laura sollte versuchen, sich an die Stelle des Fahrzeughalters zu versetzen, dessen Auto beschädigt wurde.
 * c) Laura sollte einen Einheimischen bitten, einen Zettel auf Portugiesisch zu hinterlassen, auf dem ihre Handynummer notiert ist.
 * d) Laura sollte im angrenzenden Supermarkt die Nummer des Fahrzeugs deponieren, das den Schaden verursacht hat.
@@ -41,6 +64,7 @@ Sie bog gerade um die Ecke, um zu ihrem Auto zu gehen, das sie am strandnahen Pa
 * f) Laura sollte die Rechte ihres Körpers beachten, der dringend Erholung und Ruhe nötig hat.
 * g) Laura hätte sich nicht passiv verhalten dürfen, sondern den Fahrer direkt ansprechen und auffordern müssen, die Polizei zu rufen.
 * h) Keine der oben genannten Antworten.
+{:.lead .p-5} -->
 
 
 ### Impulsfragen für die Diskussion – Teil 1
@@ -83,9 +107,9 @@ Der ADAC empfiehlt, dass bei Personen- und erheblichen Sachschäden in jedem Fal
 
 
 [^1]: Kaschner, T. (2016): Verantwortung. S. 238 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
-[^2]: Worms, N. (2009): Gesinnungsethik und Verantwortungsethik, in: GRIN Verlag München (2009), unter: https://www.grin.com/document/146858 (abgerufen am 13.03.2021)
-[^3]: Endreß, M. (2020): Ethik (Gesinnungs- und Verantwortungsethik). S. 67-69 in Müller, H.-P., Sigmund S. (Hrsg.): Max Weber-Handbuch (2020), unter: https://doi.org/10.1007/978-3-476-05142-4_11 (abgerufen am 13.03.2021)
-[^4]: Worms, N. (2009): Gesinnungsethik und Verantwortungsethik, in: GRIN Verlag München (2009), unter: [^1]: https://www.grin.com/document/146858 (abgerufen am 13.03.2021)
+[^2]: Worms, N. (2009): Gesinnungsethik und Verantwortungsethik, in: GRIN Verlag München (2009), unter: [https://www.grin.com/document/146858](https://www.grin.com/document/146858) (abgerufen am 13.03.2021)
+[^3]: Endreß, M. (2020): Ethik (Gesinnungs- und Verantwortungsethik). S. 67-69 in Müller, H.-P., Sigmund S. (Hrsg.): Max Weber-Handbuch (2020), unter: [https://doi.org/10.1007/978-3-476-05142-4_11](https://doi.org/10.1007/978-3-476-05142-4_11) (abgerufen am 13.03.2021)
+[^4]: Worms, N. (2009): Gesinnungsethik und Verantwortungsethik, in: GRIN Verlag München (2009), unter: [^1]: [https://www.grin.com/document/146858](https://www.grin.com/document/146858) (abgerufen am 13.03.2021)
 [^5]: Kaschner, T. (2016): Verantwortung. S. 238 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
 [^6]: Kaschner, T. (2016): Verantwortung. S. 238 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
 [^7]: Fladerer, M. P. (2016): Gerechtigkeit. S. 86 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
@@ -93,8 +117,8 @@ Der ADAC empfiehlt, dass bei Personen- und erheblichen Sachschäden in jedem Fal
 [^9]: Kaschner, T. (2016): Verantwortung. S. 238 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
 [^10]: Kaschner, T. (2016): Verantwortung. S. 240 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
 [^11]: Kaschner, T. (2016): Verantwortung. S. 241 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
-[^12]: ADAC (2021): Mit dem Auto unterwegs in Portugal, unter: https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/ (abgerufen am 17.03.2021)
-[^13]: Rechtsanwalt Rathenau (2021): Unterschiede zwischen dem deutschen und dem portugiesischen Recht, unter: https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht (abgerufen am 17.03.2021)
+[^12]: ADAC (2021): Mit dem Auto unterwegs in Portugal, unter: [https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/](https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/) (abgerufen am 17.03.2021)
+[^13]: Rechtsanwalt Rathenau (2021): Unterschiede zwischen dem deutschen und dem portugiesischen Recht, unter: [https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht](https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht) (abgerufen am 17.03.2021)
 [^14]: Kaschner, T. (2016): Verantwortung. S. 238 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
 [^15]: Kaschner, T. (2016): Verantwortung. S. 23
 
@@ -138,6 +162,15 @@ Für Laura bedeutet das, für sich klarzustellen, ob sie auf dem Parkplatz im Na
 ### Medienunterstützung für den Unterricht
 
 _wird ergänzt_
+
+### Quellen
+
+- ADAC (2021): Mit dem Auto unterwegs in Portugal, unter: [https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/](https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/) (abgerufen am 17.03.2021)
+- Endreß, M. (2020): Ethik (Gesinnungs- und Verantwortungsethik). S. 67-69 in Müller, H.-P., Sigmund S. (Hrsg.): Max Weber-Handbuch (2020), unter: [https://doi.org/10.1007/978-3-476-05142-4_11](https://doi.org/10.1007/978-3-476-05142-4_11) (abgerufen am 13.03.2021)
+- Fladerer, M. P. (2016): Gerechtigkeit. S. 79-93 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
+Kaschner, T. (2016): Verantwortung. S. 237-245 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
+- Rechtsanwalt Rathenau (2021): Unterschiede zwischen dem deutschen und dem portugiesischen Recht, unter: [https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht](https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht) (abgerufen am 17.03.2021)
+- Worms, N. (2009): Gesinnungsethik und Verantwortungsethik, in: GRIN Verlag München (2009), unter: [https://www.grin.com/document/146858](https://www.grin.com/document/146858) (abgerufen am 13.03.2021)
 
 
 ---
