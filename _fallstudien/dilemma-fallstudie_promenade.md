@@ -5,6 +5,7 @@ nummer: 1
 toc: true
 title: Spaziergang an der Promenade
 subtitle: Ein ethisches Dilemma – was denken Sie?
+image: https://images.pexels.com/photos/384553/pexels-photo-384553.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 img: https://images.pexels.com/photos/384553/pexels-photo-384553.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 download_erklaerung: 20210406_dilemma-fallstudie_promenade-unterrichtsmaterialien.pdf
 download_text-fragen: 20210322_dilemma-fallstudie_promenade_text-und-fragen.pdf

@@ -5,6 +5,7 @@ nummer: 2
 toc: true
 title: Nur ein Blechschaden
 subtitle: Ein ethisches Dilemma – was denken Sie?
+image: https://images.pexels.com/photos/163016/crash-test-collision-60-km-h-distraction-163016.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260
 img: https://images.pexels.com/photos/163016/crash-test-collision-60-km-h-distraction-163016.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260
 download_erklaerung: 20210415_fallstudie_blechschaden_teil-2_unterrichtsmaterialien.pdf
 download_text-fragen: 20210415_fallstudie_blechschaden_teil-1_text-und-fragen.pdf
