@@ -4,7 +4,7 @@ title: Tina Nalbantoglu
 short-name: Tina Nalbantoglu #tnalbantoglu
 kurz: tn
 postition: Position bei Teamclusion
-image: tina_nalbantoglu.jpg
+image: /assets/img/tina_nalbantoglu.jpg
 fotograf: Bild privat
 beschreibung: Sed ut perspiciatis unde omnis iste natus error sit voluptatem ipsa accusantium doloremque rem laudantium totam aperiam.
 punkte:

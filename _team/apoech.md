@@ -4,7 +4,7 @@ title: Prof. Dr. Angela Poech
 short-name: Prof. Dr. Angela Poech #apoech
 kurz: ap
 postition: Position bei Teamclusion
-image: angela_poech_portrait_fotograf_nikolaus_fabian_kammerer.jpg
+image: /assets/img/angela_poech_portrait_fotograf_nikolaus_fabian_kammerer.jpg
 fotograf: Nikolaus Fabian Kammerer
 beschreibung: Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci sed quia non numquam modi tempora eius.
 punkte:

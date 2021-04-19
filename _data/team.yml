@@ -1,7 +1,7 @@
 - name: Prof. Dr. Angela Poech
   kurz: ap
   postition: Position bei Teamclusion
-  image: angela_poech_portrait_fotograf_nikolaus_fabian_kammerer.jpg
+  image: /assets/img/angela_poech_portrait_fotograf_nikolaus_fabian_kammerer.jpg
   fotograf: Nikolaus Fabian Kammerer
   beschreibung: Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci sed quia non numquam modi tempora eius.
   punkte:
@@ -14,7 +14,7 @@
 - name: Simone Nägele
   kurz: sn
   postition: Position bei Teamclusion
-  image: simone_naegele.jpg
+  image: /assets/img/simone_naegele.jpg
   fotograf: Bild privat
   beschreibung: Sed ut perspiciatis unde omnis iste natus error sit voluptatem ipsa accusantium doloremque rem laudantium totam aperiam.
   punkte:
@@ -26,7 +26,7 @@
 - name: Tina Nalbantoglu
   kurz: tn
   postition: Position bei Teamclusion
-  image: tina_nalbantoglu.jpg
+  image: /assets/img/tina_nalbantoglu.jpg
   fotograf: Bild privat
   beschreibung: Sed ut perspiciatis unde omnis iste natus error sit voluptatem ipsa accusantium doloremque rem laudantium totam aperiam.
   punkte:

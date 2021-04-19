@@ -5,7 +5,7 @@ nummer: 1
 toc: true
 title: Spaziergang an der Promenade
 subtitle: Ein ethisches Dilemma – was denken Sie?
-image: pexels-taufiq-klinkenborg-384553.jpg
+image: /assets/img/pexels-taufiq-klinkenborg-384553.jpg
 # image: https://images.pexels.com/photos/384553/pexels-photo-384553.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 image-credit:
   - 'Person, Die High Top Turnschuhe Trägt, [Taufiq Klinkenborg](https://www.pexels.com/de-de/foto/person-die-high-top-turnschuhe-tragt-384553/) von [Pexels](https://www.pexels.com/de-de/foto/person-die-high-top-turnschuhe-tragt-384553/)'
