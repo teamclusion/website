@@ -24,6 +24,12 @@ layout: default
     }
   </style>
 
+
+    {% if page.author != nil %}
+    <div class="contai ner">
+      <p class="text-muted">von {{ page.author | join: " & " }}</p>
+    </div>
+    {% endif %}
   <div class="row mt-5 d-flex">
     <div class="col-lg-9 post-content order-2 order-lg-1">
       {{ content }}
@@ -34,18 +40,20 @@ layout: default
       <p class="h3 mt-5">Inhalt</p>
       {% toc %}
 
-      <p class="h3">Downloads</p>
-
-      {% if page.download_text-fragen != nil %}
-      <p>
-        <a href="{{ site.url }}/assets/fallstudien/{{ page.download_text-fragen }}">Text und Fragen</a>
-      </p>
-      {% endif %}
-
-      {% if page.download_erklaerung != nil %}
-      <p>
-        <a href="{{ site.url }}/assets/fallstudien/{{ page.download_erklaerung }}">Erklärungen</a>
-      </p>
+      {% if page.download_text-fragen != nil or page.download_erklaerung != nil %}
+        <p class="h3">Downloads</p>
+        <ul class="list-unstyled">
+        {% if page.download_text-fragen != nil %}
+          <li>
+            <a href="{{ site.url }}/assets/fallstudien/{{ page.download_text-fragen }}"><i class="fas fa-file-pdf"></i> Text und Fragen</a>
+          </li>
+        {% endif %}
+        {% if page.download_erklaerung != nil %}
+          <li>
+            <a href="{{ site.url }}/assets/fallstudien/{{ page.download_erklaerung }}"><i class="fas fa-file-pdf"></i> Erklärungen</a>
+          </li>
+        {% endif %}
+        </ul>
       {% endif %}
       </div>
 
