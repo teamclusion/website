@@ -4,109 +4,126 @@ layout: default
 
 <article class="post container mb-5">
 
-  <header class="post-header text-white" style="min-height:300px; background-image: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 100%), url('{{ page.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center center; position: relative; margin-top:-25px;">
+  <header class="post-header text-white fallstudie-header" style="">
     <p class="lead p-2" style="top:0; position: absolute">Fallstudie</p>
     <h1 class="post-title p-2" style="bottom:0px; right:0px; position: absolute">{{ page.title | escape }}</h1>
   </header>
   <h2 class="my-3">{{ page.subtitle }}</h2>
 
   <style>
+    .fallstudie-header {
+      min-height: 300px;
+      background-image: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.5) 30%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0) 100%),
+      url('{{ page.image }}');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+      position: relative;
+      margin-top: -25px;
+    }
+
     h3 {
       margin-top: 3rem;
       margin-bottom: 1rem;
     }
+
     h4 {
       margin-top: 1rem;
       margin-bottom: .5rem;
     }
+
     .footnotes p {
       margin-bottom: .3rem !important;
     }
-    .toc-h3, .toc-h4 {
+
+    .toc-h3,
+    .toc-h4 {
       list-style-type: none;
     }
+
     .toc-h3 {
       margin-left: -2.5rem;
     }
+
     .toc-h4 {
       margin-left: -1rem;
     }
   </style>
 
 
-    {% if page.author != nil %}
-      <p class="text-muted">von {{ page.author | join: " und " }}</p>
+  {% if page.author != nil %}
+  <p class="text-muted">von {{ page.author | join: " und " }}</p>
 
-      {% comment %}
-      <!-- Autoren mit den Autorenseiten verlinken -->
-       {% assign author = site.team | where: 'short-name', page.author %}
-       <p>{{author.name}}</p>
-         <ul class="list-inline text-muted font-italic">
-           <li class="list-inline-item">von</li>
-             {% for item in author %}
-               <li class="list-inline-item"><a href="{{ item.url }}">{{ item.name }}</a></li>
-             {% endfor %}
-         </ul>
+  {% comment %}
+  <!-- Autoren mit den Autorenseiten verlinken -->
+  {% assign author = site.team | where: 'short-name', page.author %}
+  <p>{{author.name}}</p>
+  <ul class="list-inline text-muted font-italic">
+    <li class="list-inline-item">von</li>
+    {% for item in author %}
+    <li class="list-inline-item"><a href="{{ item.url }}">{{ item.name }}</a></li>
+    {% endfor %}
+  </ul>
 
-         <hr>
+  <hr>
 
-         <ul>
-           {% assign filtered_fallstudien = site.fallstudien | where: 'author', page.short-name %}
-           {% for fallstudie in filtered_fallstudien %}
-             <li><a href="{{ fallstudie.url }}">{{ fallstudie.title }}, {{ fallstudie.author }}</a></li>
-           {% endfor %}
-         </ul>
+  <ul>
+    {% assign filtered_fallstudien = site.fallstudien | where: 'author', page.short-name %}
+    {% for fallstudie in filtered_fallstudien %}
+    <li><a href="{{ fallstudie.url }}">{{ fallstudie.title }}, {{ fallstudie.author }}</a></li>
+    {% endfor %}
+  </ul>
 
-         <hr>
+  <hr>
 
-         <p>
-          {% assign filtered_author = site.team | where: 'short-name', page.author %}
-          {% assign authorCount = filtered_author | size %}
-          {{ authorCount }}
-          {% if authorCount == 0 %}
-              Kein Author
-          {% elsif authorCount == 1 %}
-              <a href="{{ author.url | first }}">{{ page.author | first }}</a>
-          {% else %}
-              {% for author in author %}
-                  {% if forloop.first %}
-                      <a href="{{ author.url }}">{{ author.name }}</a>
-                  {% elsif forloop.last %}
-                      und <a href="{{ author.url }}">{{ author.name }}</a>
-                  {% else %}
-                      , <a href="{{ author.url }}">{{ author.name }}</a>
-                  {% endif %}
-              {% endfor %}
-          {% endif %}
-          </p>
-          {% endcomment %}
-
+  <p>
+    {% assign filtered_author = site.team | where: 'short-name', page.author %}
+    {% assign authorCount = filtered_author | size %}
+    {{ authorCount }}
+    {% if authorCount == 0 %}
+    Kein Author
+    {% elsif authorCount == 1 %}
+    <a href="{{ author.url | first }}">{{ page.author | first }}</a>
+    {% else %}
+    {% for author in author %}
+    {% if forloop.first %}
+    <a href="{{ author.url }}">{{ author.name }}</a>
+    {% elsif forloop.last %}
+    und <a href="{{ author.url }}">{{ author.name }}</a>
+    {% else %}
+    , <a href="{{ author.url }}">{{ author.name }}</a>
     {% endif %}
+    {% endfor %}
+    {% endif %}
+  </p>
+  {% endcomment %}
+
+  {% endif %}
   <div class="row mt-5 d-flex">
     <div class="col-lg-9 post-content order-2 order-lg-1">
       {{ content }}
     </div>
     <div class="col-lg-3 border-left order-1 order-lg-2">
-      <div class=""  style="position: sticky; top: 60px; z-index:999">
+      <div class="" style="position: sticky; top: 60px; z-index:999">
 
-      <p class="h3 mt-5">Inhalt</p>
-      {% toc %}
+        <p class="h3 mt-5">Inhalt</p>
+        {% toc %}
 
-      {% if page.download_text-fragen != nil or page.download_erklaerung != nil %}
+        {% if page.download_text-fragen != nil or page.download_erklaerung != nil %}
         <p class="h3">Downloads</p>
         <ul class="list-unstyled">
-        {% if page.download_text-fragen != nil %}
+          {% if page.download_text-fragen != nil %}
           <li>
             <a href="{{ site.url }}/assets/fallstudien/{{ page.download_text-fragen }}"><i class="fas fa-file-pdf"></i> Text und Fragen</a>
           </li>
-        {% endif %}
-        {% if page.download_erklaerung != nil %}
+          {% endif %}
+          {% if page.download_erklaerung != nil %}
           <li>
             <a href="{{ site.url }}/assets/fallstudien/{{ page.download_erklaerung }}"><i class="fas fa-file-pdf"></i> Erklärungen</a>
           </li>
-        {% endif %}
+          {% endif %}
         </ul>
-      {% endif %}
+        {% endif %}
       </div>
 
     </div>
@@ -118,9 +135,9 @@ layout: default
 <div class="container text-muted small">
   <p><b>Bildnachweise</b></p>
   <ul class="list-inline">
-  {% for item in page.image-credit %}
+    {% for item in page.image-credit %}
     <li class="list-inline-item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-  {% endfor %}
+    {% endfor %}
   </ul>
 </div>
 {% endif %}
