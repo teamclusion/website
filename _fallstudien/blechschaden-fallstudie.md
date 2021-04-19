@@ -5,7 +5,7 @@ nummer: 2
 toc: true
 title: Nur ein Blechschaden
 subtitle: Ein ethisches Dilemma – was denken Sie?
-image: pexels-jeshoots-7433.jpg
+image: /assets/img/pexels-jeshoots-7433.jpg
 image-credit:
   - 'Mann, Der Das Rote Fahrzeug Fährt, [JÉSHOOTS](https://www.pexels.com/de-de/foto/mann-der-das-rote-fahrzeug-fahrt-7433/) von [Pexels](https://www.pexels.com/de-de/foto/mann-der-das-rote-fahrzeug-fahrt-7433/)'
 download_erklaerung: 20210415_fallstudie_blechschaden_teil-2_unterrichtsmaterialien.pdf
