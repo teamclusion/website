@@ -13,7 +13,9 @@ download_erklaerung: 20210406_dilemma-fallstudie_promenade-unterrichtsmaterialie
 download_text-fragen: 20210322_dilemma-fallstudie_promenade_text-und-fragen.pdf
 author:
   - Tina Nalbantoglu
-  - Angela Poech
+  - Prof. Dr. Angela Poech
+  #- atnalbantoglu
+  #- apoech
 quellen:
   - 'Bierhoff, H.-W. – Rohmann, E. (2011): Diffusion der Verantwortung. S. 29-35 in Maring, M. (Hrsg.): Fallstudien zur Ethik in Wissenschaft, Wirtschaft, Technik und Gesellschaft (2011)'
   - 'Gerhardinger, F. (2016): Zivilcourage. S. 295-306 in Frey, D. (Hrsg.): Psychologie der Werte (2016)'
@@ -27,7 +29,7 @@ quellen:
 
 ---
 
-### Text
+### Katharinas Dilemma
 
 Die 23-jährige Katharina ist gerade für ihr Auslandsstudium in Nizza angekommen. Sie ist sehr müde von der Reise, aber glücklich. Sie hat eben ihre Uni „Université Nice Sophia Antipolis“ besichtigt, welche nur 10 Minuten zu Fuß vom Strand entfernt liegt.
 

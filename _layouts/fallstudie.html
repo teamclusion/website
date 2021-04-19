@@ -22,13 +22,65 @@ layout: default
     .footnotes p {
       margin-bottom: .3rem !important;
     }
+    .toc-h3, .toc-h4 {
+      list-style-type: none;
+    }
+    .toc-h3 {
+      margin-left: -2.5rem;
+    }
+    .toc-h4 {
+      margin-left: -1rem;
+    }
   </style>
 
 
     {% if page.author != nil %}
-    <div class="contai ner">
-      <p class="text-muted">von {{ page.author | join: " & " }}</p>
-    </div>
+      <p class="text-muted">von {{ page.author | join: " und " }}</p>
+
+      {% comment %}
+      <!-- Autoren mit den Autorenseiten verlinken -->
+       {% assign author = site.team | where: 'short-name', page.author %}
+       <p>{{author.name}}</p>
+         <ul class="list-inline text-muted font-italic">
+           <li class="list-inline-item">von</li>
+             {% for item in author %}
+               <li class="list-inline-item"><a href="{{ item.url }}">{{ item.name }}</a></li>
+             {% endfor %}
+         </ul>
+
+         <hr>
+
+         <ul>
+           {% assign filtered_fallstudien = site.fallstudien | where: 'author', page.short-name %}
+           {% for fallstudie in filtered_fallstudien %}
+             <li><a href="{{ fallstudie.url }}">{{ fallstudie.title }}, {{ fallstudie.author }}</a></li>
+           {% endfor %}
+         </ul>
+
+         <hr>
+
+         <p>
+          {% assign filtered_author = site.team | where: 'short-name', page.author %}
+          {% assign authorCount = filtered_author | size %}
+          {{ authorCount }}
+          {% if authorCount == 0 %}
+              Kein Author
+          {% elsif authorCount == 1 %}
+              <a href="{{ author.url | first }}">{{ page.author | first }}</a>
+          {% else %}
+              {% for author in author %}
+                  {% if forloop.first %}
+                      <a href="{{ author.url }}">{{ author.name }}</a>
+                  {% elsif forloop.last %}
+                      und <a href="{{ author.url }}">{{ author.name }}</a>
+                  {% else %}
+                      , <a href="{{ author.url }}">{{ author.name }}</a>
+                  {% endif %}
+              {% endfor %}
+          {% endif %}
+          </p>
+          {% endcomment %}
+
     {% endif %}
   <div class="row mt-5 d-flex">
     <div class="col-lg-9 post-content order-2 order-lg-1">

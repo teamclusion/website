@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<article class="post container mb-5">
+
+<div class="col-l g-3 col-md-6 mb-lg-0 mb-5 offset-md-3 text-center">
+  <div class="avatar mx-auto">
+    <img src="{{ site.url }}/assets/img/{{ page.image }}" class="rounded-circle z-depth-1" alt="{{ page.name }} | Fotograf: {{ page.fotograf }}" style="max-width:300px">
+  </div>
+  <h5 class="font-weight-bold mt-4 mb-3">{{ page.name }}</h5>
+  <p class="text-uppercase blue-text"><strong>{{ page.position }}</strong></p>
+  <p class="grey-text">{{ page.beschreibung }}</p>
+  {% if page.punkte != nil %}
+  <a class="mb-5" data-toggle="collapse" href="#{{ page.kurz }}" aria-expanded="false" aria-controls="collapseExample">Mehr über {{ page.name }} erfahren</a>
+  <div class="m-3">
+  </div>
+  <div class="collapse" id="{{ page.kurz }}">
+    <ul class="text-left">
+      {% for punkt in page.punkte %}
+      <li class="mb-1">{{ punkt }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  <ul class="list-inline">
+    <!-- Researchgate -->
+    {% if page.researchgate != nil %}
+    <li class="list-inline-item">
+      <a href="https://www.researchgate.net/profile/{{ page.researchgate }}" title="Researchgate von {{ page.name }}" target="_blank">
+        <i class="fab fa-lg fa-researchgate"></i>
+      </a>
+    </li>
+    {% endif %}
+    <!-- Xing -->
+    {% if page.xing != nil %}
+    <li class="list-inline-item">
+      <a href="https://www.xing.com/profile/{{ page.xing }}" title="Xing von {{ page.name }}" target="_blank">
+        <i class="fab fa-lg fa-xing"></i>
+      </a>
+    </li>
+    {% endif %}
+    <!-- LinkedIn -->
+    {% if page.linkedin != nil %}
+    <li class="list-inline-item">
+      <a href="https://www.linkedin.com/in/{{ page.linkedin }}" title="LinkedIn von {{ page.name }}" target="_blank">
+        <i class="fab fa-lg fa-linkedin"></i>
+      </a>
+    </li>
+    {% endif %}
+    <!-- Instagram -->
+    {% if page.instagram != nil %}
+    <li class="list-inline-item">
+      <a href="https://www.instagram.com/{{ page.instagram }}" title="Instagram von {{ page.name }}" target="_blank">
+        <i class="fab fa-lg fa-instagram"></i>
+      </a>
+    </li>
+    {% endif %}
+    <!-- Website -->
+    {% if page.website != nil %}
+    <li class="list-inline-item">
+      <a href="{{ page.website }}" title="Website von {{ page.name }}" target="_blank">
+        <i class="fas fa-lg fa-compass"></i>
+      </a>
+    </li>
+    {% endif %}
+  </ul>
+</div>
+
+
+<h2>Mitgewirkt an folgenden Fallstudien</h2>
+<ul>
+  {% assign filtered_fallstudien = site.fallstudien | where: 'author', page.short-name %}
+  {% for fallstudie in filtered_fallstudien %}
+    <li><a href="{{ fallstudie.url }}">{{ fallstudie.title }}, {{ fallstudie.author }}</a></li>
+  {% endfor %}
+</ul>
+
+</article>

@@ -12,7 +12,9 @@ download_erklaerung: 20210415_fallstudie_blechschaden_teil-2_unterrichtsmaterial
 download_text-fragen: 20210415_fallstudie_blechschaden_teil-1_text-und-fragen.pdf
 author:
   - Tina Nalbantoglu
-  - Angela Poech
+  - Prof. Dr. Angela Poech
+  #- atnalbantoglu
+  #- apoech
 quellen:
   - 'ADAC (2021): Mit dem Auto unterwegs in Portugal, unter: [https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/](https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/) (abgerufen am 17.03.2021)'
   - 'Endreß, M. (2020): Ethik (Gesinnungs- und Verantwortungsethik). S. 67-69 in Müller, H.-P., Sigmund S. (Hrsg.): Max Weber-Handbuch (2020), unter: [https://doi.org/10.1007/978-3-476-05142-4_11](https://doi.org/10.1007/978-3-476-05142-4_11) (abgerufen am 13.03.2021)'
@@ -24,7 +26,7 @@ Kaschner, T. (2016): Verantwortung. S. 237-245 in Frey, D. (Hrsg.): Psychologie 
 
 <!-- Jekyll Tip: Adding Styling To Html Output https://digitaldrummerj.me/styling-jekyll-markdown/ -->
 
-### Text
+### Lauras Dilemma
 
 Laura hatte den Tag am Strand verbracht. Keine Wolke am Himmel, das Meer herrliche 27 Grad warm. Es war ihr erster Urlaub seit einem Jahr, einem sehr anstrengenden Jahr mit vielen Herausforderungen. Die Ruhe und das Nichtstun taten ihr gut. Sie atmete tief durch, war glücklich, dass sie sich diese Zeit hier an der Algarve nun endlich gönnen konnte.
 

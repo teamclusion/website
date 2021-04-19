@@ -66,6 +66,8 @@ show_excerpts: true # set to true to show excerpts on the news(post) site
 collections:
   fallstudien:
     output: true
+  team:
+    output: true
 
 # paginate: 2
 # paginate_path: "/blog/page:num/"
@@ -91,7 +93,12 @@ defaults:
       path: ""
       type: "fallstudien"
     values:
-      layout: "fallstudien"
+      layout: "fallstudie"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
 
 
 # Eigene Einstellungen
