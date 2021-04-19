@@ -4,13 +4,13 @@ layout: default
 
 <article class="post container mb-5">
 
-  <header class="post-header text-white" style="min-height:300px; background-image: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 100%), url('{{ page.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center center; position: relative; margin-top:-25px;">
+  <header class="post-header text-white" style="min-height:300px; background-image: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 100%), url('../../assets/img/{{ page.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center center; position: relative; margin-top:-25px;">
     <p class="lead p-2" style="top:0; position: absolute">Fallstudie</p>
-    <h1 class="post-title p-2" style="bottom:0px; position: absolute">{{ page.title | escape }}</h1>
+    <h1 class="post-title p-2" style="bottom:0px; right:0px; position: absolute">{{ page.title | escape }}</h1>
   </header>
   <h2 class="my-3">{{ page.subtitle }}</h2>
 
-  <style media="screen">
+  <style>
     h3 {
       margin-top: 3rem;
       margin-bottom: 1rem;
@@ -19,16 +19,19 @@ layout: default
       margin-top: 1rem;
       margin-bottom: .5rem;
     }
+    .footnotes p {
+      margin-bottom: .3rem !important;
+    }
   </style>
 
-  <div class="row mt-5">
-    <div class="col-m d-8 col-lg-9 post-content">
+  <div class="row mt-5 d-flex">
+    <div class="col-lg-9 post-content order-2 order-lg-1">
       {{ content }}
     </div>
-    <div class="col-m d-4 col-lg-3 border-left">
+    <div class="col-lg-3 border-left order-1 order-lg-2">
       <div class=""  style="position: sticky; top: 60px; z-index:999">
 
-      <p class="h3">Inhalt</p>
+      <p class="h3 mt-5">Inhalt</p>
       {% toc %}
 
       <p class="h3">Downloads</p>
@@ -51,4 +54,13 @@ layout: default
 
 </article>
 
-<!-- <h1>{{ page.title }}</h1> -->
+{% if page.image-credit != nil %}
+<div class="container text-muted small">
+  <p><b>Bildnachweise</b></p>
+  <ul class="list-inline">
+  {% for item in page.image-credit %}
+    <li class="list-inline-item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+  {% endfor %}
+  </ul>
+</div>
+{% endif %}

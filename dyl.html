@@ -10,31 +10,7 @@ title: DYL – Design Your Life!
 <p class="lead">– Was würden Sie ändern wollen? {{ site.dyl }}hilft Ihnen dabei, Ihre Potentiale und Ihre Sehnsüchte zu erkennen. Auf spielerische Weise können Sie das, was Sie sich an Veränderung wünschen, Wirklichkeit werden lassen.
 </p>
 
-<!-- Button trigger modal -->
-<!-- <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#modalDesignThinking">
-  Design Thinking
-</button> -->
-
-<!-- Modal -->
-<div class="modal fade" id="modalDesignThinking" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalCenterTitle">Design Thinking</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <p>Bei unseren Coachingleistungen bauen wir auf dem Design Thinking auf, einer Methode aus dem Design, die vor allem in der Entwicklung neuer Produkte oder neuer Geschäftsideen eingesetzt wird. Ihr besonderer Fokus liegt darin, genau zu verstehen, wie der Kunde denkt, lebt und sich bewegt, und was er sieht, hört, wahrnimmt, sich wünscht und erträumt.</p>
-        <p class="text-right text-muted">Quelle: Curedale (2019)</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button>
-      </div>
-    </div>
-  </div>
-</div>
+{% include modalDesignThinking.html %}
 
 <div class="row my-5">
   <div class="col-md-10 offset-md-1">
@@ -63,12 +39,6 @@ title: DYL – Design Your Life!
 </figure>
 </div>
 
-
-<script type="text/javascript">
-  $('#modalDesignThinking').on('shown.bs.modal', function () {
-  $('#modalDesignThinking').trigger('focus')
-})
-</script>
 
 {% comment %}
 

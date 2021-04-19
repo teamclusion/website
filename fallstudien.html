@@ -1,17 +1,23 @@
 ---
 layout: container
-title: Fallstudien zur Praktischen Ethik
+title: Fallstudien
+subtitle: zur Praktischen Ethik
 ---
 
-<p class="mt-5">In jüngster Zeit macht ein Begriff im täglichen Sprachgebrauch Furore: Ethisches Dilemma. Gerade im beruflichen Umfeld kommen viele Menschen immer häufiger in Konfliktsituationen, die ausweglos scheinen. Sie bekommen Vorgaben von Vorgesetzten, Kunden oder Lieferanten, geraten dadurch unter Druck und sehen sich gezwungen, den Druck an andere weiterzugeben. Sie spüren dabei mehr oder weniger deutlich, dass etwas nicht stimmt – ihr Gewissen rebelliert und ihre Vernunft sagt ihnen, dass das geforderte Verhalten nicht mit ihrem inneren Wertekompass übereinstimmt. In vielen Fällen lassen sich solche Konflikte mit ein wenig Fingerspitzengefühl auflösen. Aber es gibt auch Fälle, da erscheint jeder Lösungsweg ‚schlecht‘ – schlecht deshalb, weil er stets mit Schaden für mindestens eine der beteiligten Personen verbunden ist, oftmals auch für den Betreffenden selbst. Da jeder von uns unweigerlich in solche ‚ethischen Fallen‘ tappt, ist der erste Schritt zur Lösung die Reflexion: Erkennen, was die Situation wirklich ausmacht, welche Handlungsoptionen man hat, wer beteiligt ist, wie das Machtgefüge in der Gruppe aussieht, welchen Anteil man selbst an der Situation hat und schließlich, was die eigene Pflicht oder Verantwortung ist. Erst dann lässt sich eine vernünftige Entscheidung fällen.</p>
+<p class="mt-5">
+  In unserem Alltag kommen wir regelmäßig in Konfliktsituationen, die uns unter Druck setzen. Unser Gewissen rebelliert und unsere Vernunft sagt uns, dass das geforderte Verhalten nicht mit unserem inneren Wertekompass übereinstimmt. Wenn uns die Situation ausweglos erscheint, stecken wir in einem <em>ethischen Dilemma.</em>
+</p>
+<p>
+  Der erste Schritt zur Lösung ist die Reflexion: Erkennen, was die Situation wirklich ausmacht, welche Handlungsoptionen man hat, wer Einfluss hat, wie das Machtgefüge in der Gruppe aussieht, welchen Anteil man selbst an der Situation hat und schließlich, was die eigene Pflicht oder Verantwortung ist. Die folgenden Fallstudien helfen dabei, diese Denkprozesse einzuüben.
+</p>
 
 
 <div class="car d-columns mt-5">
   <div class="row">
   {% for fallstudien in site.fallstudien %}
-  <div class="col-sm-6 mb-4">
+  <div class="col-md-6 mb-4">
   <div class="card">
-    <div class="card-img-top" style="height:300px; background-image: url('{{ fallstudien.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center bottom"></div>
+    <div class="card-img-top" style="height:300px; background-image: url('../../assets/img/{{ fallstudien.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center bottom"></div>
     <!-- <img src="{{ fallstudien.img }}" class="card-img-top" alt="..." style="max-height:100px"> -->
     <div class="card-body">
       <h5 class="card-title">{{ fallstudien.title }}</h5>

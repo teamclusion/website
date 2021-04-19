@@ -5,7 +5,9 @@ nummer: 2
 toc: true
 title: Nur ein Blechschaden
 subtitle: Ein ethisches Dilemma – was denken Sie?
-image: https://images.pexels.com/photos/7433/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+image: pexels-jeshoots-7433.jpg
+image-credit:
+  - 'Mann, Der Das Rote Fahrzeug Fährt, [JÉSHOOTS](https://www.pexels.com/de-de/foto/mann-der-das-rote-fahrzeug-fahrt-7433/) von [Pexels](https://www.pexels.com/de-de/foto/mann-der-das-rote-fahrzeug-fahrt-7433/)'
 download_erklaerung: 20210415_fallstudie_blechschaden_teil-2_unterrichtsmaterialien.pdf
 download_text-fragen: 20210415_fallstudie_blechschaden_teil-1_text-und-fragen.pdf
 author:
@@ -18,12 +20,11 @@ quellen:
 Kaschner, T. (2016): Verantwortung. S. 237-245 in Frey, D. (Hrsg.): Psychologie der Werte (2016)'
   - 'Rechtsanwalt Rathenau (2021): Unterschiede zwischen dem deutschen und dem portugiesischen Recht, unter: [https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht](https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht) (abgerufen am 17.03.2021)'
   - 'Worms, N. (2009): Gesinnungsethik und Verantwortungsethik, in: GRIN Verlag München (2009), unter: [https://www.grin.com/document/146858](https://www.grin.com/document/146858) (abgerufen am 13.03.2021)'
-
-
 ---
 
 <!-- Jekyll Tip: Adding Styling To Html Output https://digitaldrummerj.me/styling-jekyll-markdown/ -->
 
+### Text
 
 Laura hatte den Tag am Strand verbracht. Keine Wolke am Himmel, das Meer herrliche 27 Grad warm. Es war ihr erster Urlaub seit einem Jahr, einem sehr anstrengenden Jahr mit vielen Herausforderungen. Die Ruhe und das Nichtstun taten ihr gut. Sie atmete tief durch, war glücklich, dass sie sich diese Zeit hier an der Algarve nun endlich gönnen konnte.
 
@@ -32,39 +33,21 @@ Sie bog gerade um die Ecke, um zu ihrem Auto zu gehen, das sie am strandnahen Pa
 
 ### Wie würden Sie an Lauras Stelle handeln?
 
-**a)** Laura sollte sich nicht in die Angelegenheiten anderer einmischen, zumal sie sich nicht in Deutschland befindet.
-{:.lead .px-5}
+a) Laura sollte sich nicht in die Angelegenheiten anderer einmischen, zumal sie sich nicht in Deutschland befindet.
 
-**b)** Laura sollte versuchen, sich an die Stelle des Fahrzeughalters zu versetzen, dessen Auto beschädigt wurde.
-{:.lead .px-5}
+b) Laura sollte versuchen, sich an die Stelle des Fahrzeughalters zu versetzen, dessen Auto beschädigt wurde.
 
-**c)** Laura sollte einen Einheimischen bitten, einen Zettel auf Portugiesisch zu hinterlassen, auf dem ihre Handynummer notiert ist.
-{:.lead .px-5}
+c) Laura sollte einen Einheimischen bitten, einen Zettel auf Portugiesisch zu hinterlassen, auf dem ihre Handynummer notiert ist.
 
-**d)** Laura sollte im angrenzenden Supermarkt die Nummer des Fahrzeugs deponieren, das den Schaden verursacht hat.
-{:.lead .px-5}
+d) Laura sollte im angrenzenden Supermarkt die Nummer des Fahrzeugs deponieren, das den Schaden verursacht hat.
 
-**e)** Laura sollte zur Polizei gehen und Anzeige erstatten.
-{:.lead .px-5}
+e) Laura sollte zur Polizei gehen und Anzeige erstatten.
 
-**f)** Laura sollte die Rechte ihres Körpers beachten, der dringend Erholung und Ruhe nötig hat.
-{:.lead .px-5}
+f) Laura sollte die Rechte ihres Körpers beachten, der dringend Erholung und Ruhe nötig hat.
 
-**g)** Laura hätte sich nicht passiv verhalten dürfen, sondern den Fahrer direkt ansprechen und auffordern müssen, die Polizei zu rufen.
-{:.lead .px-5}
+g) Laura hätte sich nicht passiv verhalten dürfen, sondern den Fahrer direkt ansprechen und auffordern müssen, die Polizei zu rufen.
 
-**h)** Keine der oben genannten Antworten.
-{:.lead .px-5}
-
-<!-- * a) Laura sollte sich nicht in die Angelegenheiten anderer einmischen, zumal sie sich nicht in Deutschland befindet.
-* b) Laura sollte versuchen, sich an die Stelle des Fahrzeughalters zu versetzen, dessen Auto beschädigt wurde.
-* c) Laura sollte einen Einheimischen bitten, einen Zettel auf Portugiesisch zu hinterlassen, auf dem ihre Handynummer notiert ist.
-* d) Laura sollte im angrenzenden Supermarkt die Nummer des Fahrzeugs deponieren, das den Schaden verursacht hat.
-* e) Laura sollte zur Polizei gehen und Anzeige erstatten.
-* f) Laura sollte die Rechte ihres Körpers beachten, der dringend Erholung und Ruhe nötig hat.
-* g) Laura hätte sich nicht passiv verhalten dürfen, sondern den Fahrer direkt ansprechen und auffordern müssen, die Polizei zu rufen.
-* h) Keine der oben genannten Antworten.
-{:.lead .p-5} -->
+h) Keine der oben genannten Antworten.
 
 
 ### Impulsfragen für die Diskussion – Teil 1
@@ -174,4 +157,4 @@ Kaschner, T. (2016): Verantwortung. S. 237-245 in Frey, D. (Hrsg.): Psychologie 
 
 
 ---
-**Fußnoten**
+### Fußnoten

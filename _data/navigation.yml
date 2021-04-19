@@ -2,19 +2,24 @@
   link: /
 # - name: News
 #   link: /news
-- name: DYL
-  link: /dyl
+- name: About
+  link: /about
 - name: Team
   link: /team
+- name: DYL
+  link: /dyl
+- name: Forschung
+  link: /forschung
+- name: Fallstudien
+  link: /fallstudien
+- name: Kontakt
+  link: /kontakt
 # - name: Wer?
 #   link: /wer
 # - name: Wozu?
 #   link: /wozu
 # - name: Für wen?
 #   link: /zielgruppe
-- name: Fallstudien
-  link: /fallstudien
+
 # - name: Programme
 #   link: /programme
-- name: Kontakt
-  link: /kontakt

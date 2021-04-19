@@ -18,6 +18,7 @@ title_kurz: teamclusion
 slogan: Du bist der Meister Deines Lebens
 hashtag: teamclusion
 dyl: <span class="text-secondary font-weight-bold font-italic">Design Your Life! </span>
+teamclusion: <span class="text-primary font-weight-bold font-italic">teamclusion </span>
 date: 2020-03-28
 email: info@teamclusion.de
 phone: 089 898989
@@ -28,8 +29,8 @@ author: Prof. Dr. Angela Poech
 editorial: Prof. Dr. Angela Poech
 publisher: |
   Prof. Dr. Angela Poech<br>
-  Torgauerstraße 5<br>
-  80933 München
+  Torgauer Straße 5<br>
+  80993 München
 president:
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com

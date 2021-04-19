@@ -5,7 +5,10 @@ nummer: 1
 toc: true
 title: Spaziergang an der Promenade
 subtitle: Ein ethisches Dilemma – was denken Sie?
-image: https://images.pexels.com/photos/384553/pexels-photo-384553.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
+image: pexels-taufiq-klinkenborg-384553.jpg
+# image: https://images.pexels.com/photos/384553/pexels-photo-384553.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
+image-credit:
+  - 'Person, Die High Top Turnschuhe Trägt, [Taufiq Klinkenborg](https://www.pexels.com/de-de/foto/person-die-high-top-turnschuhe-tragt-384553/) von [Pexels](https://www.pexels.com/de-de/foto/person-die-high-top-turnschuhe-tragt-384553/)'
 download_erklaerung: 20210406_dilemma-fallstudie_promenade-unterrichtsmaterialien.pdf
 download_text-fragen: 20210322_dilemma-fallstudie_promenade_text-und-fragen.pdf
 author:
@@ -24,6 +27,8 @@ quellen:
 
 ---
 
+### Text
+
 Die 23-jährige Katharina ist gerade für ihr Auslandsstudium in Nizza angekommen. Sie ist sehr müde von der Reise, aber glücklich. Sie hat eben ihre Uni „Université Nice Sophia Antipolis“ besichtigt, welche nur 10 Minuten zu Fuß vom Strand entfernt liegt.
 
 Katharina kommt aus Norddeutschland und ist begeisterte Wellenreiterin. Daher liebt sie die Nähe zum Meer. Sie hat sich am Flughafen ein Auto gemietet für die ersten Tage in Nizza und ist damit direkt zum Strand gefahren. Das Auto hat Katharina mit all ihrem Gepäck nahe der Promenade des Anglais geparkt und erst einmal die Sonne und den Blick aufs Meer genossen. Dann ist sie das kurze Stück zu ihrer Uni gelaufen für eine erste Stippvisite. Nun möchte sie nur noch in ihr Wohnheim und sich von der Reise erholen.
@@ -35,13 +40,19 @@ Eigentlich möchte sie so schnell wie möglich ins Bett in ihrem neuen Zuhause. 
 
 ### Wie würden Sie an Katharinas Stelle handeln?
 
-* a) Ich würde weitergehen. Ich bin zu müde und der Obdachlose schläft sicher nur seinen Rausch aus.
-* b) Ich würde mich umschauen, ob noch jemand anderes auf den Obdachlosen aufmerksam geworden ist, und schauen, wie derjenige reagiert.
-* c) Ich würde einen vorbeigehenden Passanten ansprechen und fragen, ob er mir helfen könnte.
-* d) Ich würde den Obdachlosen ansprechen und versuchen herauszufinden, ob er nur schläft oder ob er Hilfe braucht.
-* e) Ich würde einen vorbeigehenden Passanten ansprechen und nach der Notrufnummer fragen. Gerade erst in Frankreich angekommen, kenne ich diese Nummer noch nicht.
-* f) Ich würde einen vorbeigehenden Passanten ansprechen und fragen, ob er den Notarzt anrufen könnte. Mit meinen wenigen Französischkenntnissen fühle ich mich nicht der Situation gewachsen, mein Anliegen am Telefon zu erklären.
-* g) Keine der oben genannten Antworten.
+a) Ich würde weitergehen. Ich bin zu müde und der Obdachlose schläft sicher nur seinen Rausch aus.
+
+b) Ich würde mich umschauen, ob noch jemand anderes auf den Obdachlosen aufmerksam geworden ist, und schauen, wie derjenige reagiert.
+
+c) Ich würde einen vorbeigehenden Passanten ansprechen und fragen, ob er mir helfen könnte.
+
+d) Ich würde den Obdachlosen ansprechen und versuchen herauszufinden, ob er nur schläft oder ob er Hilfe braucht.
+
+e) Ich würde einen vorbeigehenden Passanten ansprechen und nach der Notrufnummer fragen. Gerade erst in Frankreich angekommen, kenne ich diese Nummer noch nicht.
+
+f) Ich würde einen vorbeigehenden Passanten ansprechen und fragen, ob er den Notarzt anrufen könnte. Mit meinen wenigen Französischkenntnissen fühle ich mich nicht der Situation gewachsen, mein Anliegen am Telefon zu erklären.
+
+g) Keine der oben genannten Antworten.
 
 ### Impulsfragen für die Diskussion – Teil 1
 
@@ -170,4 +181,4 @@ Aufklärung ist hierbei ebenso wichtig wie Training. Schon im Schulalter, aber a
 - Westdeutscher Rundfunk: 13. März 1964 - Kitty Genovese wird ermordet, in: WDR 2 Stichtag 13.03.2019, unter: [https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html](https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html) (abgerufen am 24.02.2021, verfügbar bis 10.03.2029)
 
 ---
-**Fußnoten**
+### Fußnoten
