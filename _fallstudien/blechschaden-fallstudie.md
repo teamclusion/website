@@ -35,19 +35,19 @@ Sie bog gerade um die Ecke, um zu ihrem Auto zu gehen, das sie am strandnahen Pa
 
 ### Wie würden Sie an Lauras Stelle handeln?
 
-a) Laura sollte sich nicht in die Angelegenheiten anderer einmischen, zumal sie sich nicht in Deutschland befindet.
+a) Ich würde mich nicht in die Angelegenheiten anderer einmischen, zumal ich mich nicht in Deutschland befinde.
 
-b) Laura sollte versuchen, sich an die Stelle des Fahrzeughalters zu versetzen, dessen Auto beschädigt wurde.
+b) Ich würde versuchen, mich an die Stelle des Fahrzeughalters zu versetzen, dessen Auto beschädigt wurde.
 
-c) Laura sollte einen Einheimischen bitten, einen Zettel auf Portugiesisch zu hinterlassen, auf dem ihre Handynummer notiert ist.
+c) Ich würde einen Einheimischen bitten, einen Zettel auf Portugiesisch zu hinterlassen, auf dem meine Handynummer notiert ist.
 
-d) Laura sollte im angrenzenden Supermarkt die Nummer des Fahrzeugs deponieren, das den Schaden verursacht hat.
+d) Ich könnte zum Beispiel im angrenzenden Supermarkt die Nummer des Fahrzeugs deponieren, das den Schaden verursacht hat.
 
-e) Laura sollte zur Polizei gehen und Anzeige erstatten.
+e) Ich finde, dass es richtig wäre, zur Polizei zu gehen und Anzeige zu erstatten.
 
-f) Laura sollte die Rechte ihres Körpers beachten, der dringend Erholung und Ruhe nötig hat.
+f) In erster Linie hielte ich es für notwendig, die Rechte meines Körpers zu beachten, der dringend Erholung und Ruhe braucht.
 
-g) Laura hätte sich nicht passiv verhalten dürfen, sondern den Fahrer direkt ansprechen und auffordern müssen, die Polizei zu rufen.
+g) Ich wäre nicht passiv geblieben, sondern hätte den Fahrer direkt angesprochen und aufgefordert, die Polizei zu rufen.
 
 h) Keine der oben genannten Antworten.
 
@@ -152,15 +152,6 @@ Für Laura bedeutet das, für sich klarzustellen, ob sie auf dem Parkplatz im Na
 * [Hans Jonas: Verantwortung](https://www.youtube.com/watch?v=N61nUnsy_bM) neu denken
 * [Hans Werner Sinn: Gesinnungsethik vs. Verantwortungsethik](https://www.youtube.com/watch?v=89K0co2sfQg) am Beispiel der Seenotrettung
 * [BASF-Vorstandsmitglied Frau Saori Dubourg: Haltung und Verantwortung](https://www.youtube.com/watch?v=8kYBGST9gm4) von Unternehmen
-
----
-
-* [**Umfrage: Verantwortung und Pflichten** von der Landeszentrale für politische Bildung Nordrhein-Westfalen: Für wen und was trägt man Verantwortung? Gibt es Pflichten gegenüber dem Staat? Welche Pflichten hat man in einer Demokratie?](https://www.youtube.com/watch?v=SXA6QNPFKik)
-* [**Umfrage: Verantwortung** von der Landeszentrale für politische Bildung Nordrhein-Westfalen: Männer und Frauen verschiedener Berufe und unterschiedlichen Alters schildern, was für sie Verantwortung bedeutet und welche Rolle sie im gesellschaftlichen Miteinander spielt.](https://www.youtube.com/watch?v=POIG6fr1oNo)
-* [**Umfrage: Verantwortung in der digitalen Welt** von Teachtoday: Die digitale Welt hat uns ein Mehr an Freiheit ermöglicht, aber auch ein Stück weit mehr Verantwortung. Was bedeutet Verantwortung in der digitalen Welt?](https://www.youtube.com/watch?v=-Qv5vhqDk_A)
-* [**Hans Jonas: Verantwortung** neu denken](https://www.youtube.com/watch?v=N61nUnsy_bM)
-* [**Hans Werner Sinn: Gesinnungsethik vs. Verantwortungsethik** am Beispiel der Seenotrettung](https://www.youtube.com/watch?v=89K0co2sfQg)
-* [**BASF-Vorstandsmitglied Frau Saori Dubourg: Haltung und Verantwortung**](https://www.youtube.com/watch?v=8kYBGST9gm4)
 
 
 ### Quellen
