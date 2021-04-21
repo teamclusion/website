@@ -9,8 +9,8 @@ image: /assets/img/pexels-taufiq-klinkenborg-384553.jpg
 # image: https://images.pexels.com/photos/384553/pexels-photo-384553.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 image-credit:
   - 'Person, Die High Top Turnschuhe Trägt, [Taufiq Klinkenborg](https://www.pexels.com/de-de/foto/person-die-high-top-turnschuhe-tragt-384553/) von [Pexels](https://www.pexels.com/de-de/foto/person-die-high-top-turnschuhe-tragt-384553/)'
-download_erklaerung: 20210406_dilemma-fallstudie_promenade-unterrichtsmaterialien.pdf
-download_text-fragen: 20210322_dilemma-fallstudie_promenade_text-und-fragen.pdf
+download_teil_1_dilemma_und_fragen: spaziergang-an-der-promenade_teil-1_dilemma-und-fragen.pdf
+download_teil_2_unterrichtsmaterialien: spaziergang-an-der-promenade_teil-2_unterrichtsmaterialien.pdf
 author:
   - Tina Nalbantoglu
   - Prof. Dr. Angela Poech

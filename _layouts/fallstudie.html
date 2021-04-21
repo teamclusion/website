@@ -110,17 +110,17 @@ layout: default
         <p class="h3 mt-5">Inhalt</p>
         {% toc %}
 
-        {% if page.download_text-fragen != nil or page.download_erklaerung != nil %}
+        {% if page.download_teil_1_dilemma_und_fragen != nil or page.download_teil_2_unterrichtsmaterialien != nil %}
         <p class="h3">Downloads</p>
         <ul class="list-unstyled">
-          {% if page.download_text-fragen != nil %}
+          {% if page.download_teil_1_dilemma_und_fragen != nil %}
           <li>
-            <a href="{{ site.url }}/assets/fallstudien/{{ page.download_text-fragen }}"><i class="fas fa-file-pdf"></i> Dilemma & Fragen</a>
+            <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_1_dilemma_und_fragen }}"><i class="fas fa-file-pdf"></i> Dilemma & Fragen</a>
           </li>
           {% endif %}
-          {% if page.download_erklaerung != nil %}
+          {% if page.download_teil_2_unterrichtsmaterialien != nil %}
           <li>
-            <a href="{{ site.url }}/assets/fallstudien/{{ page.download_erklaerung }}"><i class="fas fa-file-pdf"></i> Unterrichtsmaterialien</a>
+            <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_2_unterrichtsmaterialien }}"><i class="fas fa-file-pdf"></i> Unterrichtsmaterialien</a>
           </li>
           {% endif %}
         </ul>
