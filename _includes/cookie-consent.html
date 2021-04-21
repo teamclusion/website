@@ -1,0 +1,54 @@
+{% comment %}
+https://jekyllcodex.org/without-plugin/cookie-consent/
+{% endcomment %}
+
+<style>
+    #cookie-notice {display: none}
+</style>
+
+<div id="cookie-notice" class="fixed-bottom bg-dark p-3 text-white text-center">Wir möchten Cookies und Skripte von Dritten verwenden, um die Funktionalität dieser Website zu verbessern.
+
+<div class="row my-2">
+        <div class="col-12 col-md-3 offset-md-3 text-center my-1">
+            <a href="#" id="cookie-notice-accept" class="btn btn-secondary btn-sm btn-block">Zulassen</a>
+        </div>
+        <div class="col-12 col-md-3 text-center my-1">
+            <a href="/datenschutz" class="btn btn-outline-light btn-sm btn-block d m x-2">Informationen zum Datenschutz</a>
+        </div>
+    </div>
+</div>
+<script>
+    function createCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+
+    if(readCookie('cookie-notice-dismissed')=='true') {
+          // Cookies nach Bestätigung
+      } else {
+          document.getElementById('cookie-notice').style.display = 'block';
+      }
+      document.getElementById('cookie-notice-accept').addEventListener("click", function() {
+          createCookie('cookie-notice-dismissed', 'true', 31);
+          document.getElementById('cookie-notice').style.display = 'none';
+          location.reload();
+      });
+</script>
