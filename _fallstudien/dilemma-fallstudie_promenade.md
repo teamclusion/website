@@ -80,7 +80,7 @@ US-Sozialpsychologen begannen Ende der 1960er Jahre nach einem Aufsehen erregend
 
 Die Pioniere in diesem Forschungsbereich sind die amerikanischen Sozialpsychologen Bibb Latané und John Darley. Um herauszufinden, ob es sich bei der Diffusion der Verantwortung um ein reales Phänomen des sozialen Lebens handelt, führten Latané und Darley 1968 folgendes Experiment durch:
 
-Die Studienteilnehmer saßen in Einzelkabinen und nahmen an einer Gruppendiskussion zum Thema Collegeleben teil. Genau genommen nahm nur eine einzige Testperson an diesem Versuch teil; die anderen waren lediglich Stimmen auf Tonträgern. Einer der Teilnehmer simulierte einen epileptischen Anfall. Wenn die Versuchsperson davon ausging, dass sie die Einzige war, die den Anfall hörte, half sie in den meisten Fällen (85%) innerhalb von einer Minute. Wenn die Versuchsperson davon ausging, dass ein zweiter Zeuge anwesend war, intervenierten nur noch 62% der Probanden in diesem Zeitraum. Bei vier weiteren Zeugen halfen sogar nur noch 31%.[^4]
+Die Studienteilnehmer saßen in Einzelkabinen und nahmen an einer Gruppendiskussion zum Thema Collegeleben teil. Genau genommen nahm nur eine einzige Testperson an diesem Versuch teil. Die anderen waren lediglich Stimmen auf Tonträgern. Einer der Teilnehmer simulierte einen epileptischen Anfall. Wenn die Versuchsperson davon ausging, dass sie die Einzige war, die den Anfall hörte, half sie in den meisten Fällen (85%) innerhalb von einer Minute. Wenn die Versuchsperson davon ausging, dass ein zweiter Zeuge anwesend war, intervenierten nur noch 62% der Probanden in diesem Zeitraum. Bei vier weiteren Zeugen halfen sogar nur noch 31%.[^4]
 
 Je mehr mögliche Helfer anwesend waren, desto weniger zeigte sich die Hilfsbereitschaft des Einzelnen. Dieser Anzahl-Effekt erklärt sich dadurch, dass ein einzelner Zeuge die Gesamtverantwortung für das Eingreifen trägt, während sich bei mehreren potentiellen Helfern die Gesamtverantwortung auf diese verteilt und daher schwächer ausfällt.[^5]
 
@@ -114,7 +114,7 @@ Die Bitte wirkt sich erwiesenermaßen förderlich auf die Hilfeleistung aus. Fü
 [^8]: Bierhoff, H.-W. – Rohmann, E. (2011): Diffusion der Verantwortung. S. 33 in Maring, M. (Hrsg.): Fallstudien zur Ethik in Wissenschaft, Wirtschaft, Technik und Gesellschaft (2011)
 [^9]: Gerhardinger, F. (2016): Zivilcourage. S. 299 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
 [^10]: Bierhoff, H.-W. – Rohmann, E. (2011): Diffusion der Verantwortung. S. 32-33 in Maring, M. (Hrsg.): Fallstudien zur Ethik in Wissenschaft, Wirtschaft, Technik und Gesellschaft (2011)
-[^11]: Levine, R.V. – Martinez, T.S. – Brase, G, – Sorensen, K. (1994): Helping in 36 U.S. cities. S. 69-82 in Journal of Personality and Social Psychology 67 (1994)
+[^11]: Levine, R.V. – Martinez, T.S. – Brase, G. – Sorensen, K. (1994): Helping in 36 U.S. cities. S. 69-82 in Journal of Personality and Social Psychology 67 (1994)
 [^12]: Schwartz, S.H. – Gottlieb, A (1980): Bystander anonymity and reactions to emergencies. S. 418-430 in Journal of personality and social Psychology 39 (1980)
 [^13]: Bierhoff, H.-W. – Rohmann, E. (2011): Diffusion der Verantwortung. S. 32-33 in Maring, M. (Hrsg.): Fallstudien zur Ethik in Wissenschaft, Wirtschaft, Technik und Gesellschaft (2011)
 [^14]: Shaffer, D.R. – Rogel, M. – Hendrick, C. (1975): Intervention in the library: The effect of increased responsibility on bystanders’ willingness to prevent a theft. S. 303-319 in Journal of Applied Social Psychology 5 (1975)
@@ -128,7 +128,7 @@ Es ist nun verständlich, warum Menschen in Notsituationen nicht eingreifen. Ent
 
 Diffusion der Verantwortung ist jedoch nicht unausweichlich. Wie bei ungünstigen psychischen Konstellationen allgemein, kann man mit Bekanntmachen und Erklären des Phänomens sein Auftreten reduzieren. In der Regel verliert dieser ungünstige psychologische Mechanismus seine Wirksamkeit, wenn er den Menschen bewusst gemacht wird.
 
-Aufklärung ist hierbei ebenso wichtig wie Training. Schon im Schulalter, aber auch später in Studium, Ausbildung und Berufsleben, lässt sich durch Übungen, Spiele und Projekte die Diffusion der Verantwortung „fühlbar“ und „anfassbar“ machen. Dieses Üben könnte durch Rollenspiele, Gedankenexperimente oder real beobachtbare Situationen im Team geschehen. Je häufiger dieses Verhalten in ‚Trockenübungen‘ praktiziert wurde, desto stärker wird es verinnerlicht bzw. abgespeichert und kann später in realen Lebenssituationen abgerufen und konkret in die Tat umgesetzt werden. Ebenso führen das Vorhandensein von Wissen, z.B. um die Funktionsweise der Sicherheitssysteme im öffentlichen Bereich (Notbremse, Notruf), und von Handlungskompetenzen wie die Erfahrung mit Notsituationen, das Kennen konkreter Handlungsweisen und der Ersten-Hilfe, zu einem sicheren Umgang mit Notsituationen und erhöhen den Entschluss zum Eingreifen.  Mit dieser Form der Aufklärung und dem praktischen Üben sollte die soziale Hemmung der Zivilcourage  verringert und im Optimalfall sogar ganz aufgehoben werden.  
+Aufklärung ist hierbei ebenso wichtig wie Training. Schon im Schulalter, aber auch später in Studium, Ausbildung und Berufsleben, lässt sich durch Übungen, Spiele und Projekte die Diffusion der Verantwortung „fühlbar“ und „anfassbar“ machen. Dieses Üben könnte durch Rollenspiele, Gedankenexperimente oder real beobachtbare Situationen im Team geschehen. Je häufiger dieses Verhalten in „Trockenübungen“ praktiziert wurde, desto stärker wird es verinnerlicht bzw. abgespeichert und kann später in realen Lebenssituationen abgerufen und konkret in die Tat umgesetzt werden. Ebenso führen das Vorhandensein von Wissen, z.B. um die Funktionsweise der Sicherheitssysteme im öffentlichen Bereich (Notbremse, Notruf), und von Handlungskompetenzen wie die Erfahrung mit Notsituationen, das Kennen konkreter Handlungsweisen und der Ersten-Hilfe, zu einem sicheren Umgang mit Notsituationen und erhöhen den Entschluss zum Eingreifen.  Mit dieser Form der Aufklärung und dem praktischen Üben sollte die soziale Hemmung der Zivilcourage  verringert und im Optimalfall sogar ganz aufgehoben werden.  
 
 ### Impulsfragen für die Diskussion – Teil 2
 
@@ -161,13 +161,14 @@ Aufklärung ist hierbei ebenso wichtig wie Training. Schon im Schulalter, aber a
 
 ### Medienunterstützung für den Unterricht
 
-* [Erklärvideos und Kurzfilme zur Verantwortungsdiffusion mit Experiment Latané & Darley 1968 (epileptischer Anfall)](https://www.youtube.com/watch?v=eaOy_JbNSb4)
-* [Erklärvideo zum Bystander-Effekt (mit Latané & Darleys „Fünf Schritte“ (1970))](https://www.youtube.com/watch?v=ekS0OUWpjd0)
-* [Erklärvideo zur Verantwortungsdiffusion auf Englisch](https://www.youtube.com/watch?v=OSsPfbup0ac)
-* [The smokes filled room study – 3min – ohne Worte – reine Beobachtung der Studienteilnehmer](https://www.youtube.com/watch?v=KE5YwN4NW5o)
-* [The Asch Conformity Experiment auf Englisch: "Dass intelligente, gut gemeinte junge Menschen bereit sind, Weiß Schwarz zu nennen, gibt Anlass zur Sorge." Asch](https://www.youtube.com/watch?v=TYIh4MkcfJA)
-* [Zivilcourage – Kurzfilm: Ein Mann sitzt in der Straßenbahn und freut sich auf den Feierabend. Da belästigen zwei Jugendliche eine junge Frau. Der Mann weiß: er müsste eingreifen...doch er zögert](https://www.youtube.com/watch?v=cbnfqmWkiu8)
-* [Zivilcourage zeigen – Kurzfilm von der Bundespolizei: Die sechs Regeln für kritische Situationen sollen zeigen, dass jeder Mensch unabhängig von Alter, Geschlecht, Größe oder Körperbau, Hilfe leisten kann, ohne sich selbst in Gefahr zu bringen.](https://www.youtube.com/watch?v=vW2fAttjKYM)
+* [**Erklärvideo zur Verantwortungsdiffusion** mit Experiment von Latané & Darley (1968) „Epileptischer Anfall“](https://www.youtube.com/watch?v=eaOy_JbNSb4)
+* [**Erklärvideo zum Bystander-Effekt** mit Latané & Darleys (1970) „Fünf Schritte“](https://www.youtube.com/watch?v=ekS0OUWpjd0)
+* [**Erklärvideo zur Verantwortungsdiffusion**](https://www.youtube.com/watch?v=OSsPfbup0ac)
+* [**Ohne Worte – The smoke filled room study** mit Beobachtung der Studienteilnehmer](https://www.youtube.com/watch?v=KE5YwN4NW5o)
+* [**The Asch Conformity Experiment:** „Dass intelligente, gut gemeinte junge Menschen bereit sind, Weiß Schwarz zu nennen, gibt Anlass zur Sorge.“ (Solomon Asch)](https://www.youtube.com/watch?v=TYIh4MkcfJA)
+* [**Kurzfilm zu Zivilcourage:** Ein Mann sitzt in der Straßenbahn und freut sich auf den Feierabend. Da belästigen zwei Jugendliche eine junge Frau. Der Mann weiß, er müsste eingreifen, doch er zögert.](https://www.youtube.com/watch?v=cbnfqmWkiu8)
+* [**Kurzfilm zu Zivilcourage von der Bundespolizei:** Die sechs Regeln für kritische Situationen sollen zeigen, dass jeder Mensch unabhängig von Alter, Geschlecht, Größe oder Körperbau, Hilfe leisten kann, ohne sich selbst in Gefahr zu bringen.](https://www.youtube.com/watch?v=vW2fAttjKYM)
+
 
 
 ### Quellen
@@ -177,10 +178,10 @@ Aufklärung ist hierbei ebenso wichtig wie Training. Schon im Schulalter, aber a
 - Jonas K. – Tanner C. (2006): Effekte sozialer Förderung und Hemmung. S. 167 in Schweizer, K. (Hrsg.): Leistung und Leistungsdiagnostik (2006)
 - Kaschner, T. (2016): Verantwortung. S. 237-245 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
 - Latané, B. – Nida, S. (1981): Ten years of research on group size and helping. S. 308-324 in Psychological Bulletin 89 (1981)
-- Levine, R.V. – Martinez, T.S. – Brase, G, – Sorensen, K. (1994): Helping in 36 U.S. cities. S. 69-82 in Journal of Personality and Social Psychology 67 (1994)
-- Schwartz, S.H. – Gottlieb, A (1980): Bystander anonymity and reactions to emergencies. S. 418-430 in Journal of personality and social Psychology 39 (1980)
+- Levine, R.V. – Martinez, T.S. – Brase, G. – Sorensen, K. (1994): Helping in 36 U.S. cities. S. 69-82 in Journal of Personality and Social Psychology 67 (1994)
+- Schwartz, S.H. – Gottlieb, A. (1980): Bystander anonymity and reactions to emergencies. S. 418-430 in Journal of personality and social Psychology 39 (1980)
 - Shaffer, D.R. – Rogel, M. – Hendrick, C. (1975): Intervention in the library: The effect of increased responsibility on bystanders’ willingness to prevent a theft. S. 303-319 in Journal of Applied Social Psychology 5 (1975)
-- Westdeutscher Rundfunk: 13. März 1964 - Kitty Genovese wird ermordet, in: WDR 2 Stichtag 13.03.2019, unter: [https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html](https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html) (abgerufen am 24.02.2021, verfügbar bis 10.03.2029)
+- Westdeutscher Rundfunk (2019): 13. März 1964 - Kitty Genovese wird ermordet, in: WDR 2 Stichtag 13.03.2019, unter: [https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html](https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html) (abgerufen am 24.02.2021, verfügbar bis 10.03.2029)
 
 ---
 ### Fußnoten

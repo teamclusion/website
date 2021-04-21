@@ -146,7 +146,22 @@ Für Laura bedeutet das, für sich klarzustellen, ob sie auf dem Parkplatz im Na
 
 ### Medienunterstützung für den Unterricht
 
-_wird ergänzt_
+* [Umfrage: Verantwortung und Pflichten](https://www.youtube.com/watch?v=SXA6QNPFKik) von der Landeszentrale für politische Bildung Nordrhein-Westfalen: Für wen und was trägt man Verantwortung? Gibt es Pflichten gegenüber dem Staat? Welche Pflichten hat man in einer Demokratie?
+* [Umfrage: Verantwortung](https://www.youtube.com/watch?v=POIG6fr1oNo) von der Landeszentrale für politische Bildung Nordrhein-Westfalen: Männer und Frauen verschiedener Berufe und unterschiedlichen Alters schildern, was für sie Verantwortung bedeutet und welche Rolle sie im gesellschaftlichen Miteinander spielt.
+* [Umfrage: Verantwortung in der digitalen Welt](https://www.youtube.com/watch?v=-Qv5vhqDk_A) von Teachtoday: Die digitale Welt hat uns ein Mehr an Freiheit ermöglicht, aber auch ein Stück weit mehr Verantwortung. Was bedeutet Verantwortung in der digitalen Welt?
+* [Hans Jonas: Verantwortung](https://www.youtube.com/watch?v=N61nUnsy_bM) neu denken
+* [Hans Werner Sinn: Gesinnungsethik vs. Verantwortungsethik](https://www.youtube.com/watch?v=89K0co2sfQg) am Beispiel der Seenotrettung
+* [BASF-Vorstandsmitglied Frau Saori Dubourg: Haltung und Verantwortung](https://www.youtube.com/watch?v=8kYBGST9gm4) von Unternehmen
+
+---
+
+* [**Umfrage: Verantwortung und Pflichten** von der Landeszentrale für politische Bildung Nordrhein-Westfalen: Für wen und was trägt man Verantwortung? Gibt es Pflichten gegenüber dem Staat? Welche Pflichten hat man in einer Demokratie?](https://www.youtube.com/watch?v=SXA6QNPFKik)
+* [**Umfrage: Verantwortung** von der Landeszentrale für politische Bildung Nordrhein-Westfalen: Männer und Frauen verschiedener Berufe und unterschiedlichen Alters schildern, was für sie Verantwortung bedeutet und welche Rolle sie im gesellschaftlichen Miteinander spielt.](https://www.youtube.com/watch?v=POIG6fr1oNo)
+* [**Umfrage: Verantwortung in der digitalen Welt** von Teachtoday: Die digitale Welt hat uns ein Mehr an Freiheit ermöglicht, aber auch ein Stück weit mehr Verantwortung. Was bedeutet Verantwortung in der digitalen Welt?](https://www.youtube.com/watch?v=-Qv5vhqDk_A)
+* [**Hans Jonas: Verantwortung** neu denken](https://www.youtube.com/watch?v=N61nUnsy_bM)
+* [**Hans Werner Sinn: Gesinnungsethik vs. Verantwortungsethik** am Beispiel der Seenotrettung](https://www.youtube.com/watch?v=89K0co2sfQg)
+* [**BASF-Vorstandsmitglied Frau Saori Dubourg: Haltung und Verantwortung**](https://www.youtube.com/watch?v=8kYBGST9gm4)
+
 
 ### Quellen
 
