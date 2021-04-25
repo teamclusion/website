@@ -3,7 +3,10 @@ https://jekyllcodex.org/without-plugin/cookie-consent/
 {% endcomment %}
 
 <style>
-  #cookie-notice {
+  #cookie-notice,
+  #cookie-notice-alert-accepted,
+  #cookie-notice-alert-rejected,
+  #cookie-notice-alert-none {
     display: none
   }
 </style>
@@ -13,7 +16,7 @@ https://jekyllcodex.org/without-plugin/cookie-consent/
   <div class="row my-2">
     <div class="col-12 col-md-4 offset-md-2 col-lg-3 offset-lg-3 text-center my-1">
       <a href="#" id="cookie-notice-accept" class="btn btn-secondary btn-sm btn-block">Zulassen</a>
-      <a href="#" id="cookie-notice-rejected" class="btn btn-secondary btn-sm btn-block">Ablehnen</a>
+      <a href="#" id="cookie-notice-rejected" class="btn btn-outline-secondary btn-sm btn-block">Ablehnen</a>
     </div>
     <div class="col-12 col-md-4 col-lg-3 text-center my-1">
       <a href="/datenschutz" class="btn btn-outline-light btn-sm btn-block d m x-2">Informationen zum Datenschutz</a>
@@ -50,11 +53,11 @@ https://jekyllcodex.org/without-plugin/cookie-consent/
     // Cookie mit dem Wert TRUE vorhanden – Cookies aktzeptiert/erlaubt
     // Cookies nach Bestätigung/die erlaubt sind hier einfügen
   } else if (readCookie('cookie-notice-dismissed') == 'false') {
-    // vorhandener Cookie mit dem Wert false – keine Cookies akzeptiert
+    // Cookie mit dem Wert FALSE vorhanden – Cookie-Abfrage ausblenden
     document.getElementById('cookie-notice').style.display = 'none';
     }
     else {
-      // Kein Cookie vorhanden
+      // Kein Cookie vorhanden – Cookie-Abfrage einblenden
       document.getElementById('cookie-notice').style.display = 'block';
     }
     document.getElementById('cookie-notice-accept').addEventListener("click", function() {
