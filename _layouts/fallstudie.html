@@ -101,6 +101,51 @@ layout: default
   {% endif %}
 
   <div class="row mt-5 d-flex">
+    <div class="col-lg-9 order-2 order-lg-first border-end" itemprop="articleBody">
+      {{ content }}
+    </div>
+    <div class="col-lg-3 order-1 order-lg-2 sticky-lg-top h-100 mb-5" style="top: 50px; overflow-y: auto; max-height:calc(100vh - 50px)">
+      <!-- style="position: sticky; top: 60px; z-index:999"> -->
+      <p class="h3 mt-5">Inhalt</p>
+      {% toc %}
+      <div class="d-none d-lg-block d-xl- none">
+          {% if page.download_teil_1_dilemma_und_fragen != nil or page.download_teil_2_unterrichtsmaterialien != nil %}
+          <p class="h3 mt-5">Downloads</p>
+          <ul class="list-unstyled">
+            {% if page.download_teil_1_dilemma_und_fragen != nil %}
+            <li>
+              <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_1_dilemma_und_fragen }}"><i class="fas fa-file-pdf"></i> Dilemma & Fragen</a>
+            </li>
+            {% endif %}
+            {% if page.download_teil_2_unterrichtsmaterialien != nil %}
+            <li>
+              <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_2_unterrichtsmaterialien }}"><i class="fas fa-file-pdf"></i> Unterrichtsmaterialien</a>
+            </li>
+            {% endif %}
+          </ul>
+          {% endif %}
+      </div>
+    </div>
+    <div class="col-lg-3 d-lg-none .d-xl-none order-last">
+        {% if page.download_teil_1_dilemma_und_fragen != nil or page.download_teil_2_unterrichtsmaterialien != nil %}
+        <p class="h3 mt-5">Downloads</p>
+        <ul class="list-unstyled">
+          {% if page.download_teil_1_dilemma_und_fragen != nil %}
+          <li>
+            <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_1_dilemma_und_fragen }}"><i class="fas fa-file-pdf"></i> Dilemma & Fragen</a>
+          </li>
+          {% endif %}
+          {% if page.download_teil_2_unterrichtsmaterialien != nil %}
+          <li>
+            <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_2_unterrichtsmaterialien }}"><i class="fas fa-file-pdf"></i> Unterrichtsmaterialien</a>
+          </li>
+          {% endif %}
+        </ul>
+        {% endif %}
+    </div>
+  </div>
+
+  <!-- <div class="row mt-5 d-flex">
     <div class="col-lg-9 post-content order-2 order-lg-1 itemprop="articleBody"">
       {{ content }}
     </div>
@@ -128,7 +173,7 @@ layout: default
       </div>
 
     </div>
-  </div>
+  </div> -->
 
 </article>
 
