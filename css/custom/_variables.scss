@@ -16,17 +16,10 @@ $black:    #000 !default;
 $primary: #1B57A6;
 $secondary: orange; //#F7951D; //#FF9615; // #D9923B;
 
-body {
-  padding-top: 80px;
-}
 
-footer {
-  background-color: $gray-200; //#eee;
-  padding-top: 20px;
-  padding-bottom: 0;
-}
+// Links
+//
+// Style anchor elements.
 
-.copyright {
-  background-color: $gray-300; //rgba(0, 0, 0, .1);
-  padding: 10px 0 2px;
-}
+$link-decoration:                         none !default;
+$link-hover-decoration:                   underline !default;
