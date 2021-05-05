@@ -108,6 +108,9 @@ layout: default
       <!-- style="position: sticky; top: 60px; z-index:999"> -->
       <p class="h3 mt-5">Inhalt</p>
       {% toc %}
+      <ul id="toc" class="section-nav d-lg-none d-xl-none">
+      <li class="toc-entry toc-h3" style="margin-top:-1rem"><a href="#downloads">Downloads</a></li>
+      </ul>
       <div class="d-none d-lg-block d-xl- none">
           {% if page.download_teil_1_dilemma_und_fragen != nil or page.download_teil_2_unterrichtsmaterialien != nil %}
           <p class="h3 mt-5">Downloads</p>
@@ -126,7 +129,7 @@ layout: default
           {% endif %}
       </div>
     </div>
-    <div class="col-lg-3 d-lg-none .d-xl-none order-last">
+    <div id="downloads" class="col-lg-3 d-lg-none d-xl-none order-last">
         {% if page.download_teil_1_dilemma_und_fragen != nil or page.download_teil_2_unterrichtsmaterialien != nil %}
         <p class="h3 mt-5">Downloads</p>
         <ul class="list-unstyled">
@@ -145,6 +148,7 @@ layout: default
     </div>
   </div>
 
+{% comment %}
   <!-- <div class="row mt-5 d-flex">
     <div class="col-lg-9 post-content order-2 order-lg-1 itemprop="articleBody"">
       {{ content }}
@@ -174,6 +178,7 @@ layout: default
 
     </div>
   </div> -->
+{% endcomment %}
 
 </article>
 
