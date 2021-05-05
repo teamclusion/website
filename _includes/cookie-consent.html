@@ -63,6 +63,8 @@ https://jekyllcodex.org/without-plugin/cookie-consent/
   if (readCookie('cookie-notice-dismissed') == 'true') {
     // Cookie mit dem Wert TRUE vorhanden – Cookies aktzeptiert/erlaubt
     // Cookies nach Bestätigung/die erlaubt sind hier einfügen
+    {% include masonry.pkgd.min.js %}
+    {% include cardHoverShadow.js %}
   } else if (readCookie('cookie-notice-dismissed') == 'false') {
     // Cookie mit dem Wert FALSE vorhanden – Cookie-Abfrage ausblenden
     document.getElementById('cookie-notice').style.display = 'none';
