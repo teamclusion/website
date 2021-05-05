@@ -4,16 +4,16 @@ title: Fallstudien
 subtitle: zur Praktischen Ethik
 ---
 
-<p class="mt-5">
+<p class="mt-5 lead">
   In unserem Alltag kommen wir regelmäßig in Konfliktsituationen, die uns unter Druck setzen. Unser Gewissen rebelliert und unsere Vernunft sagt uns, dass das geforderte Verhalten nicht mit unserem inneren Wertekompass übereinstimmt. Wenn uns die Situation ausweglos erscheint, stecken wir in einem <em>ethischen Dilemma.</em>
 </p>
-<p>
+<p class="lead">
   Der erste Schritt zur Lösung ist die Reflexion: Erkennen, was die Situation wirklich ausmacht, welche Handlungsoptionen man hat, wer Einfluss hat, wie das Machtgefüge in der Gruppe aussieht, welchen Anteil man selbst an der Situation hat und schließlich, was die eigene Pflicht oder Verantwortung ist. Die folgenden Fallstudien helfen dabei, diese Denkprozesse einzuüben.
 </p>
 
 
-<div class="car d-columns mt-5">
-  <div class="row">
+<div class="mt-5">
+  <div class="row" data-masonry='{"percentPosition": true }'>
   {% for fallstudien in site.fallstudien %}
   <div class="col-md-6 mb-4">
   <div class="card">
@@ -23,7 +23,7 @@ subtitle: zur Praktischen Ethik
       <h5 class="card-title">{{ fallstudien.title }}</h5>
       <h6 class="card-subtitle mb-2 text-muted">{{ fallstudien.subtitle }}</h6>
       <p class="card-text">{{ fallstudien.content.excerpt | markdownify }}</p>
-      <a href="{{ fallstudien.url }}" class="stretched-link text-secondary font-weight-bolde r">Mehr zu Fall, Theorie und Lösung …</a>
+      <a href="{{ fallstudien.url }}" class="stretched-link text-secondary">Mehr zu Fall, Theorie und Lösung …</a>
     </div>
   </div>
   </div>
