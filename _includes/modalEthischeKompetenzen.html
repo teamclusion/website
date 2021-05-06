@@ -1,12 +1,10 @@
 <!-- Modal Ethische Kompetenzen -->
-<div class="modal fade" id="modalEthischeKompetenzen" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal fade" id="modalEthischeKompetenzen" tabindex="-1" role="dialog" aria-labelledby="modalEthischeKompetenzen" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalCenterTitle">Ethische Kompetenzen</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
+        <h5 class="modal-title" id="modalEthischeKompetenzen">Ethische Kompetenzen</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Schließen"></button>
       </div>
       <div class="modal-body">
         <p>Nahal Jafroudi (2016) nennt folgende Aspekte ethischer Kompetenz:</p>
@@ -18,19 +16,22 @@
         <p class="text-right text-muted">Quelle: <a href="https://ethicalliteracy.uk/" target="_blank">ethicalliteracy.uk</a></p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button>
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Schließen</button>
       </div>
     </div>
   </div>
 </div>
 
 <script type="text/javascript">
-  $('#modalEthischeKompetenzen').on('shown.bs.modal', function () {
-  $('#modalEthischeKompetenzen').trigger('focus')
+var myModal = document.getElementById('modalEthischeKompetenzen')
+var myInput = document.getElementById('myInput')
+
+myModal.addEventListener('shown.bs.modal', function () {
+  myInput.focus()
 })
 </script>
 
 <!-- Button trigger modal -->
-<!-- <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#modalEthischeKompetenzen">
+<!-- <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalEthischeKompetenzen">
   Design Thinking
 </button> -->
