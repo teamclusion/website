@@ -48,8 +48,15 @@ layout: default
     .toc-h4 {
       margin-left: -1rem;
     }
-  </style>
 
+    /* https://stackoverflow.com/questions/4086107/fixed-page-header-overlaps-in-page-anchors */
+    :target::before {
+      content: "";
+      display: block;
+      height: 100px; /* fixed header height*/
+      margin: -100px 0 0; /* negative fixed header height */
+    }
+  </style>
 
   {% if page.author != nil %}
   <p class="text-muted">von {{ page.author | join: " und " }}</p>
