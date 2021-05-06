@@ -15,10 +15,28 @@ subtitle: Schreiben Sie uns &rsaquo; Wir sind für Sie da!
       <div class="mb-3">
         <!-- <label for="name" class="form-label">Ihr Name</label> -->
         <div class="input-group">
-        <input id="name" name="name" placeholder="Name" type="text" autocomplete="name" aria-describedby="namelHelp" required="required" class="form-control">
+        <input id="name" placeholder="Name" type="text" autocomplete="name" aria-describedby="namelHelp" required="required" class="form-control">
         </div>
         <div id="nameHelp" class="form-text">Ihr Name</div>
       </div>
+
+      <div class="mb-3">
+        <!-- <label for="name" class="form-label">Ihr Name</label> -->
+        <div class="input-group">
+        <input id="email" placeholder="E-Mail" type="email" autocomplete="email" aria-describedby="emailHelp" required="required" class="form-control">
+        </div>
+        <div id="emailHelp" class="form-text">Ihre E-Mail</div>
+      </div>
+
+      <div class="mb-3">
+        <!-- <label for="name" class="form-label">Ihr Name</label> -->
+        <div class="input-group">
+        <input id="tel" placeholder="Telefonnummer" type="tel" autocomplete="tel" aria-describedby="tellHelp" required="required" class="form-control">
+        </div>
+        <div id="telHelp" class="form-text">Ihre Telefonnummer</div>
+      </div>
+
+      {% comment %}
 
       <div class="mb-3">
         <!-- <label for="email" class="form-label">Ihre E-Mail-Adresse</label> -->
@@ -37,6 +55,8 @@ subtitle: Schreiben Sie uns &rsaquo; Wir sind für Sie da!
         </div>
         <div id="tellHelp" class="form-text">Ihre Telefonnummer</div>
       </div>
+
+      {% endcomment %}
 
       {% comment %}
       <div class="form-group d-none">
