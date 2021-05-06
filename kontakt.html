@@ -6,48 +6,43 @@ subtitle: Schreiben Sie uns &rsaquo; Wir sind für Sie da!
 
 <!-- https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/ -->
 
+
 <div class="row">
   <div class="col-lg-12 mb-5">
     <!-- <h2 class="mt-5 mb-4">Wir sind für Sie da!</h2> -->
     <form name="Teamclusion Kontakt" method="POST" data-netlify="true" action="/danke" netlify-honeypot="filter">
-      <div class="form-group d-none">
-        <!-- <label></label> -->
-        <input id="filter" name="filter" type="text" autocomplete="name" aria-describedby="nameHelpBlock" class="form-control">
-        <span id="nameHelpBlock" class="form-text text-muted">Nicht ausfüllen, wenn Sie ein Mensch sind.</span>
-      </div>
-      <div class="form-group">
-        <!-- <label></label> -->
-        <input id="name" name="name" placeholder="Name" type="text" autocomplete="name" aria-describedby="nameHelpBlock" required="required" class="form-control">
-        <span id="nameHelpBlock" class="form-text text-muted">Ihr Name</span>
-      </div>
-      <div class="form-group">
-        <!-- <label></label> -->
+
+      <div class="mb-3">
+        <!-- <label for="name" class="form-label">Ihr Name</label> -->
         <div class="input-group">
-          <div class="input-group-prepend">
-            <div class="input-group-text">
-              <i class="fa fa-at"></i>
-            </div>
-          </div>
-          <input id="email" name="email" placeholder="E-Mail" type="email" autocomplete="home email" aria-describedby="mailHelpBlock" class="form-control">
+        <input id="name" name="name" placeholder="Name" type="text" autocomplete="name" aria-describedby="namelHelp" required="required" class="form-control">
         </div>
-        <span id="mailHelpBlock" class="form-text text-muted">Ihre E-Mail-Adresse</span>
+        <div id="nameHelp" class="form-text">Ihr Name</div>
       </div>
-      <div class="form-group">
-        <!-- <label></label>  -->
+
+      <div class="mb-3">
+        <!-- <label for="email" class="form-label">Ihre E-Mail-Adresse</label> -->
         <div class="input-group">
-          <div class="input-group-prepend">
-            <div class="input-group-text">
-              <i class="fa fa-phone"></i>
-            </div>
-          </div>
-          <input id="tel" name="tel" placeholder="Telefonnummer" type="tel" autocomplete="work tel" aria-describedby="telephoneHelpBlock" class="form-control">
+          <div class="input-group-text"><i class="fa fa-at"></i></div>
+          <input id="email" type="email" class="form-control" placeholder="E-Mail" aria-label="E-Mail" aria-describedby="emailHelp">
         </div>
-        <span id="telephoneHelpBlock" class="form-text text-muted">Ihre Telefonnummer</span>
+        <div id="emailHelp" class="form-text">Ihre E-Mail-Adresse</div>
       </div>
+
+      <div class="mb-3">
+        <!-- <label for="tel" class="form-label">Ihre Telefonnummer</label> -->
+        <div class="input-group">
+          <div class="input-group-text"><i class="fa fa-phone"></i></div>
+          <input id="tel" type="tel" class="form-control" placeholder="Telefonnummer" aria-label="Telefonnummer" aria-describedby="telHelp">
+        </div>
+        <div id="tellHelp" class="form-text">Ihre Telefonnummer</div>
+      </div>
+
+      {% comment %}
       <div class="form-group d-none">
-        <!-- <label></label> -->
+        <!-- <label for="modul" class="form-label">Welches Modul betrifft Ihr Anliegen?</label> -->
         <div>
-          <select id="modul" name="modul" aria-describedby="modulHelpBlock" class="custom-select">
+          <select id="modul" name="modul" aria-describedby="modulBlock" class="custom-select">
             <option value="keineAuswahl">bitte Modul wählen</option>
             {% for item in site.data.programme.primaer %}
             <option value="{{ item.kurz }}">{{ item.kurz }} – {{ item.modul }}</option>
@@ -57,19 +52,24 @@ subtitle: Schreiben Sie uns &rsaquo; Wir sind für Sie da!
             <option value="{{ item.kurz }}">{{ item.kurz }} – {{ item.modul }}</option>
             {% endfor %}
           </select>
-          <span id="modulHelpBlock" class="form-text text-muted">Welches Modul betrifft Ihr Anliegen?</span>
+          <div id="modulBlock" class="form-text text-muted">Welches Modul betrifft Ihr Anliegen?</div>
         </div>
       </div>
-      <div class="form-group">
-        <!-- <label></label> -->
-        <textarea id="Ihr Anliegen" name="Ihr Anliegen" cols="40" rows="5" aria-describedby="Ihr AnliegenHelpBlock" required="required" class="form-control"></textarea>
-        <span id="Ihr AnliegenHelpBlock" class="form-text text-muted">Ihre Nachricht an uns</span>
+      {% endcomment %}
+
+      <div class="mb-3">
+        <!-- <label for="modul" class="form-label">Ihre Nachricht an uns</label> -->
+        <textarea id="IhrAnliegen" name="Ihr Anliegen" cols="40" rows="5" aria-describedby="IhrAnliegenBlock" required="required" class="form-control"></textarea>
+        <div id="IhrAnliegenHelp" class="form-text">Ihre Nachricht an uns</div>
       </div>
-      <div class="form-group">
+
         <button name="submit" type="submit" class="btn btn-primary">Senden</button>
-      </div>
+
     </form>
   </div>
+
+
+
   <div class="col-lg-12">
     <h2 class="mb-4">Kontaktinformationen</h2>
 
