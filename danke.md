@@ -1,7 +1,7 @@
 ---
 layout: container
 title: Danke
-subtitle: Für die Übermittlung Ihrer Frage
+subtitle: für die Übermittlung Ihrer Nachricht
 ---
 
-Sie werden schnellstmöglich von uns eine Antwort erhalten.
+Sie werden von uns schnellstmöglich eine Antwort erhalten.
