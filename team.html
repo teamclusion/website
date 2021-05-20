@@ -18,11 +18,11 @@ subtitle: Das Ganze ist mehr als die Summe seiner Teile
       <p class="text-uppercase blue-text"><strong>{{ item.position }}</strong></p>
       <p class="grey-text">{{ item.beschreibung }}</p>
       {% if item.punkte != nil %}
-      <a class="mb-5" data-toggle="collapse" href="#{{ item.kurz }}" aria-expanded="false" aria-controls="collapseExample">Mehr über {{ item.name }} erfahren</a>
+      <a class="mb-5" data-bs-toggle="collapse" href="#{{ item.kurz }}" aria-expanded="false" aria-controls="collapseMehrUeber">Mehr über {{ item.name }} erfahren</a>
       <div class="m-3">
       </div>
       <div class="collapse" id="{{ item.kurz }}">
-        <ul class="text-left">
+        <ul class="text-start">
           {% for punkt in item.punkte %}
           <li class="mb-1">{{ punkt }}</li>
           {% endfor %}
