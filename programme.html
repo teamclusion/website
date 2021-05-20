@@ -62,7 +62,7 @@ title: Programme
         <h6 class="card-subtitle mb-2 text-muted">{{ item.modul }}</h6>
         <p class="card-text"><small>{{ item.teaser }}</small></p>
       </div>
-      <ul class="fa-ul list-group list-group-flush text-left">
+      <ul class="fa-ul list-group list-group-flush text-start">
         {% for punkt in item.beinhaltet %}
         <li class="list-group-item"><i class="fa-li fas fa-check-circle text-success"></i> {{ punkt }}</li>
         {% endfor %}
@@ -85,7 +85,7 @@ title: Programme
         <h6 class="card-subtitle mb-2 text-muted">{{ item.modul }}</h6>
         <p class="card-text"><small>{{ item.teaser }}</small></p>
       </div>
-      <ul class="fa-ul list-group list-group-flush text-left">
+      <ul class="fa-ul list-group list-group-flush text-start">
         {% for punkt in item.beinhaltet %}
         <li class="list-group-item"><i class="fa-li fas fa-check-circle text-success"></i> {{ punkt }}</li>
         {% endfor %}
@@ -106,7 +106,7 @@ title: Programme
         <h5 class="card-title h2">{{ item.kurz }}</h5>
         <h6 class="card-subtitle mb-2 text-muted">{{ item.modul }}</h6>
       </div>
-      <ul class="list-group list-group-flush text-left">
+      <ul class="list-group list-group-flush text-start">
         {% for punkt in item.beinhaltet %}
         <li class="list-group-item"><i class="fas fa-check-circle text-success"></i> {{ punkt }}</li>
         {% endfor %}
