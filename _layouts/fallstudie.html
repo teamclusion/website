@@ -49,6 +49,7 @@ layout: default
       margin-left: -1rem;
     }
 
+{% comment %}
     /* https://stackoverflow.com/questions/4086107/fixed-page-header-overlaps-in-page-anchors */
     :target::before {
       content: "";
@@ -56,6 +57,13 @@ layout: default
       height: 100px; /* fixed header height*/
       margin: -100px 0 0; /* negative fixed header height */
     }
+{% endcomment %}
+
+  /* Scroll Padding Top by Web Dev Simplified https://youtu.be/pKO1ktPQByk?t=595 */
+  :root {
+    scroll-padding-top: calc(56px + 48px);
+    scroll-behavior: smooth;
+  }
   </style>
 
   {% if page.author != nil %}
