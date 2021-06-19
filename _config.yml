@@ -38,9 +38,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://teamclusion.netlify.app"
 webmaster_email: tgermer@me.com
 webmaster_name: Tristan Germer
-logo_nav: /assets/img/logo_kontur2.svg
-logo: /assets/img/logo_voll.svg
-logo_2-zeilig: /assets/img/logo_voll_2-zeilig.svg
+# logo_nav: /assets/img/logo_kontur2.svg
+logo_nav: /assets/img/logo_kontur2_2-zeilig.svg
+logo: /assets/img/logo_kontur_2-zeilig.svg
+# logo: /assets/img/logo_kontur2.svg
+logo_2-zeilig: /assets/img/logo_kontur2_2-zeilig.svg
 twitter_username:
 linkedin_username:
 facebook_username:
