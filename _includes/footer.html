@@ -27,9 +27,11 @@
         <div class="col-md-3 col-sm-6">
           <h4>Kontakt</h4>
           <p>
+            {% comment %}
             {% if site.phone !=nil %}<i class="fas fa-phone fa-fw"></i> {{ site.phone | markdownify | remove: '<p>' | remove: '</p>' }}
             <br>
             {% endif %}
+            {% endcomment %}
             <i class="fas fa-envelope fa-fw"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
             <br>
           </p>
