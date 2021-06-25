@@ -3,7 +3,7 @@ layout: container
 title: Programme
 ---
 
-<h2 class="h1-responsive font-weight-bold text-center my-5">Die ganze Vielfalt von {{ site.dyl }}</h2>
+<h2 class="h1-responsive fw-bold text-center my-5">Die ganze Vielfalt von {{ site.dyl }}</h2>
 <!-- Section description -->
 <p class="grey-text text-center w-responsive mx-auto mb-5">Duis aute irure dolor in reprehenderit in
   voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
@@ -68,7 +68,7 @@ title: Programme
         {% endfor %}
       </ul>
       <div class="card-footer py-4">
-        <a href="mailto:tgermer@me.com?subject=Anfrage%20zu%20{{ item.kurz | replace: ' ', '%20' }}%20–%20{{ item.modul | replace: ' ', '%20'}}" class="text-body"><span class="h3 font-weight-bold">{{ item.preis }}</span></a>
+        <a href="mailto:tgermer@me.com?subject=Anfrage%20zu%20{{ item.kurz | replace: ' ', '%20' }}%20–%20{{ item.modul | replace: ' ', '%20'}}" class="text-body"><span class="h3 fw-bold">{{ item.preis }}</span></a>
       </div>
     </div>
     {% endfor %}
@@ -91,7 +91,7 @@ title: Programme
         {% endfor %}
       </ul>
       <div class="card-footer py-4">
-        <a href="mailto:tgermer@me.com?subject=Anfrage%20zu%20{{ item.kurz | replace: ' ', '%20' }}%20–%20{{ item.modul | replace: ' ', '%20'}}" class="text-body"><span class="h3 font-weight-bold">{{ item.preis }}</span></a>
+        <a href="mailto:tgermer@me.com?subject=Anfrage%20zu%20{{ item.kurz | replace: ' ', '%20' }}%20–%20{{ item.modul | replace: ' ', '%20'}}" class="text-body"><span class="h3 fw-bold">{{ item.preis }}</span></a>
       </div>
     </div>
     {% endfor %}
@@ -112,7 +112,7 @@ title: Programme
         {% endfor %}
       </ul>
       <div class="card-footer">
-        <span class="h3 font-weight-bold">{{ item.preis }}</span>
+        <span class="h3 fw-bold">{{ item.preis }}</span>
       </div>
     </div>
   </div>
