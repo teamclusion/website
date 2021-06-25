@@ -73,7 +73,7 @@ layout: default
   <!-- Autoren mit den Autorenseiten verlinken -->
   {% assign author = site.team | where: 'short-name', page.author %}
   <p>{{author.name}}</p>
-  <ul class="list-inline text-muted font-italic" itemscope itemtype="http://schema.org/Person">
+  <ul class="list-inline text-muted fst-italic" itemscope itemtype="http://schema.org/Person">
     <li class="list-inline-item">von</li>
     {% for item in author %}
     <li class="list-inline-item" itemprop="name"><a href="{{ item.url }}">{{ item.name }}</a></li>
