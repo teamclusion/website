@@ -12,11 +12,11 @@ subtitle: Das Ganze ist mehr als die Summe seiner Teile
     {% for item in site.data.team %}
     <div class="col-l g-3 col-md-6 mb-lg-0 mb-5 offset-md-3">
       <div class="avatar mx-auto">
-        <img src="{{ item.image }}" class="rounded-circle z-depth-1" alt="{{ item.name }} | Fotograf: {{ item.fotograf }}" style="max-width:300px">
+        <img src="{{ item.image }}" class="rounded-circle z-depth-1" alt="{{ item.name }} | Fotograf: {{ item.fotograf }}" role="img" aria-lable="Bild von {{ item.name }} | Fotograf: {{ item.fotograf }}" style="max-width:300px">
       </div>
       <h2 class="h5 fw-bold mt-4 mb-3">{{ item.name }}</h2>
       <p class="text-uppercase blue-text"><strong>{{ item.position }}</strong></p>
-      <p class="grey-text">{{ item.beschreibung }}</p>
+      <p class="grey-text">{{ item.beschreibung | replace: "|", "| <span class='visually-hidden'>und </span>" }}</p>
       {% if item.punkte != nil %}
       <a class="mb-5" data-bs-toggle="collapse" href="#{{ item.kurz }}" aria-expanded="false" aria-controls="collapseMehrUeber" tabindex="1">Mehr über {{ item.name }} erfahren</a>
       <div class="m-3">
@@ -35,7 +35,7 @@ subtitle: Das Ganze ist mehr als die Summe seiner Teile
         {% if item.researchgate != nil %}
         <li class="list-inline-item">
           <a href="https://www.researchgate.net/profile/{{ item.researchgate }}" title="Researchgate von {{ item.name }}" target="_blank" tabindex="1">
-            <i class="fab fa-lg fa-researchgate"></i>
+            <i class="fab fa-lg fa-researchgate"></i><span class="visually-hidden">Link zum Researchgate-Profil</span>
           </a>
         </li>
         {% endif %}
@@ -43,7 +43,7 @@ subtitle: Das Ganze ist mehr als die Summe seiner Teile
         {% if item.xing != nil %}
         <li class="list-inline-item">
           <a href="https://www.xing.com/profile/{{ item.xing }}" title="Xing von {{ item.name }}" target="_blank" tabindex="1">
-            <i class="fab fa-lg fa-xing"></i>
+            <i class="fab fa-lg fa-xing"></i><span class="visually-hidden">Link zum Xing-Profil</span>
           </a>
         </li>
         {% endif %}
@@ -51,7 +51,7 @@ subtitle: Das Ganze ist mehr als die Summe seiner Teile
         {% if item.linkedin != nil %}
         <li class="list-inline-item">
           <a href="https://www.linkedin.com/in/{{ item.linkedin }}" title="LinkedIn von {{ item.name }}" target="_blank" tabindex="1">
-            <i class="fab fa-lg fa-linkedin"></i>
+            <i class="fab fa-lg fa-linkedin"></i><span class="visually-hidden">Link zum LinkedIn-Profil</span>
           </a>
         </li>
         {% endif %}
@@ -59,7 +59,7 @@ subtitle: Das Ganze ist mehr als die Summe seiner Teile
         {% if item.instagram != nil %}
         <li class="list-inline-item">
           <a href="https://www.instagram.com/{{ item.instagram }}" title="Instagram von {{ item.name }}" target="_blank" tabindex="1">
-            <i class="fab fa-lg fa-instagram"></i>
+            <i class="fab fa-lg fa-instagram"></i><span class="visually-hidden">Link zum Instagram-Account</span>
           </a>
         </li>
         {% endif %}
@@ -67,7 +67,7 @@ subtitle: Das Ganze ist mehr als die Summe seiner Teile
         {% if item.website != nil %}
         <li class="list-inline-item">
           <a href="{{ item.website }}" title="Website von {{ item.name }}" target="_blank" tabindex="1">
-            <i class="fas fa-lg fa-compass"></i>
+            <i class="fas fa-lg fa-compass"></i><span class="visually-hidden">Link zur persönlichen Webseite</span>
           </a>
         </li>
         {% endif %}
