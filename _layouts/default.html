@@ -3,9 +3,16 @@
   {% include head.html %}
   <body class="d-flex flex-column h-100">
     {% include nav.html %}
-    <main>
-      {{ content }}
-    </main>
+
+    {% if page.bg-image != nil %}
+      <main style="background-image: url('{{page.bg-image}}'); background-size: {{page.bg-image-size}}; background-position: {{page.bg-image-position}}; background-repeat: no-repeat;">
+        {{ content }}
+      </main>
+    {% else %}
+      <main>
+        {{ content }}
+      </main>
+    {% endif %}
     {% include footer.html %}
     {% include new-window-fix.html %}
     {% include cookie-consent.html %}
