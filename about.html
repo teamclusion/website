@@ -1,5 +1,5 @@
 ---
-layout: container
+layout: default
 title: About
 subtitle: 'Einer für alle &ndash; alle für einen: teamclusion'
 ---
@@ -11,20 +11,52 @@ subtitle: 'Einer für alle &ndash; alle für einen: teamclusion'
 
 {% include modalEthischeKompetenzen.html %}
 
-<div class="row">
-  <div class="col-md-10 offset-md-1">
-    <ul class="lead list-unstyled">
-      <li class="mb-3">{{ site.teamclusion }} bringt engagierte Wissensvermittler zusammen und fördert den Austausch von Wissen und Erfahrungen.
-      </li>
-      <li class="mb-3">{{ site.teamclusion }} fokussiert auf die praktische Ethik und die Vermittlung <a href="#" data-bs-toggle="modal" data-bs-target="#modalEthischeKompetenzen">ethischer Kompetenzen (ethische Literalität).</a>
-      </li>
-      <li class="mb-3">{{ site.teamclusion }} bietet kostenlos <a href="/fallstudien">Lehrmaterialien</a> für den Unterricht in Schule, Ausbildung und Studium an.
-      </li>
-      <li class="mb-3">{{ site.teamclusion }} fördert wissenschaftliche Projekte zur geistig-seelischen Gesundheit von jungen Erwachsenen.
-      </li>
-    </ul>
+<article class="post container mb-5 positon-relative">
+
+  <header class="post-header mb-5">
+    <h1 class="post-title">
+      {{ page.title | escape }}
+      {% if page.subtitle != nil %}
+        <br><small>{{ page.subtitle }}</small>
+      {% endif %}
+    </h1>
+  </header>
+
+  <div class="post-content">
+    <div class="row">
+      <div class="col-md-10 offset-md-1">
+        <ul class="lead list-unstyled">
+          <li class="mb-3">{{ site.teamclusion }} bringt engagierte Wissensvermittler zusammen und fördert den Austausch von Wissen und Erfahrungen.
+          </li>
+          <li class="mb-3">{{ site.teamclusion }} fokussiert auf die praktische Ethik und die Vermittlung <a href="#" data-bs-toggle="modal" data-bs-target="#modalEthischeKompetenzen">ethischer Kompetenzen (ethische Literalität).</a>
+          </li>
+          <li class="mb-3">{{ site.teamclusion }} bietet kostenlos <a href="/fallstudien">Lehrmaterialien</a> für den Unterricht in Schule, Ausbildung und Studium an.
+          </li>
+          <li class="mb-3">{{ site.teamclusion }} fördert wissenschaftliche Projekte zur geistig-seelischen Gesundheit von jungen Erwachsenen.
+          </li>
+        </ul>
+      </div>
+      <!-- <div class="sonne nblume col-md-5">
+        <img src="{{ site.url }}/assets/img/sonnenblume.jpg" alt="Sonnenblume" class="img-fluid rounded z-depth-1">
+      </div> -->
+    </div>
   </div>
-  <!-- <div class="sonne nblume col-md-5">
-    <img src="{{ site.url }}/assets/img/sonnenblume.jpg" alt="Sonnenblume" class="img-fluid rounded z-depth-1">
-  </div> -->
+
+
+
+</article>
+
+
+<div class="text-center">
+<img src="/assets/img/meilensteine.svg" class="img-fluid text-end" style="max-width:1290px" alt="Meilensteine">
 </div>
+<img src="/assets/img/bg-about.svg" class="img-fluid position-absolute d-block d-sm-none" alt="Hintergrundbild" style="z-index:-10; bottom:-0%">
+<img src="/assets/img/bg-about.svg" class="img-fluid position-absolute d-none d-sm-block d-md-none" alt="Hintergrundbild" style="z-index:-10; bottom:-10%">
+<img src="/assets/img/bg-about.svg" class="img-fluid position-absolute d-none d-md-block d-lg-none" alt="Hintergrundbild" style="z-index:-10; bottom:-5%">
+<img src="/assets/img/bg-about.svg" class="img-fluid position-absolute d-none d-lg-block d-xl-none" alt="Hintergrundbild" style="z-index:-10; bottom:-40%">
+<img src="/assets/img/bg-about.svg" class="img-fluid position-absolute d-none d-xl-block d-xxl-none" alt="Hintergrundbild" style="z-index:-10; bottom:-30%">
+<img src="/assets/img/bg-about.svg" class="img-fluid position-absolute d-none d-xxl-block" alt="Hintergrundbild" style="z-index:-10; bottom:-30%;">
+
+
+<!-- <div class="" style="height:200px;background-image: url('/assets/img/bg-about.svg'); background-repeat: no-repeat;background-size: cover;">
+</div> -->
