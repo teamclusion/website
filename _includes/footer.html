@@ -4,34 +4,34 @@
       <div class="row mb-3">
         <div class="col-md-3 col-sm-6">
           <p class="mt-1">
-            <img src="{{ site.url }}{{ site.logo_kontur_2-zeilig }}" alt="{{ site.title }}" class="img-reponsive " style="max-height:50px; max-width:107px" role="image">
+            <img src="{{ site.url }}{{ site.logo_kontur_2-zeilig }}" alt="Logo {{ site.title }}" class="img-reponsive " style="max-height:50px; max-width:107px" role="img" aria-lable="2-zeiliges Logo {{ site.title }}">
           </p>
           <p>&copy; 2019–{{ "now" | date: "%Y" }}</p>
           <p>Powered by<br><a href="https://app.netlify.com/sites/teamclusion/deploys" target="_blank"><img src="https://api.netlify.com/api/v1/badges/bc0871a5-ff1d-42cf-ab96-276127acefcd/deploy-status" alt="Netlify Status"></a></p>
         </div>
         <div class="col-md-3 col-sm-6">
-          <!-- <h4>Herausgeberin</h4>
+          <!-- <p class="h4">Herausgeberin</p>
           <address>{{ site.publisher }}
           </address> -->
-          <h4>Herausgeberin &&nbsp;Redaktion</h4>
+          <p class="h4">Herausgeberin &&nbsp;Redaktion</p>
           <p>{{ site.editorial }}</p>
         </div>
         <div class="col-md-3 col-sm-6" id="footer">
-          <h4>Navigation</h4>
+          <p class="h4">Navigation</p>
           {% for item in site.data.navigation %}
-          <a href="{{ site.url }}{{ item.link }}">{{ item.name }}</a>
+          <a href="{{ site.url }}{{ item.link }}" tabindex="1">{{ item.name }}</a>
           <br>
           {% endfor %}
         </div>
         <div class="col-md-3 col-sm-6">
-          <h4>Kontakt</h4>
+          <p class="h4">Kontakt</p>
           <p>
             {% comment %}
             {% if site.phone !=nil %}<i class="fas fa-phone fa-fw"></i> {{ site.phone | markdownify | remove: '<p>' | remove: '</p>' }}
             <br>
             {% endif %}
             {% endcomment %}
-            <i class="fas fa-envelope fa-fw"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+            <i class="fas fa-envelope fa-fw"></i> <a href="mailto:{{ site.email }}" tabindex="1">{{ site.email }}</a>
           </p>
         </div>
       </div>
@@ -51,15 +51,15 @@
     <div class="container">
       <div class="row small text-center">
         <div class="col-md-4 text-md-start">
-          <a href="{{ site.url }}/impressum">
-            Impressum</a> | <a href="{{ site.url }}/datenschutz">
+          <a href="{{ site.url }}/impressum" tabindex="1">
+            Impressum</a> | <a href="{{ site.url }}/datenschutz" tabindex="1">
             Datenschutzerklärung</a>
         </div>
         <div class="col-md-4 text-center">
           Made with <span class="font-rot">♥</span>
         </div>
         <div class="col-md-4 text-md-right">
-          <a href="mailto:{{ site.webmaster_email }}?subject=Website%20{{ site.title }}">
+          <a href="mailto:{{ site.webmaster_email }}?subject=Website%20{{ site.title }}" tabindex="1">
             Webmaster</a>
         </div>
       </div>

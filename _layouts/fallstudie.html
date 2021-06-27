@@ -6,9 +6,9 @@ layout: default
 
   <header class="post-header text-white fallstudie-header" style="">
     <p class="lead p-2" style="top:0; position: absolute">Fallstudie</p>
-    <h1 class="post-title p-2 text-end" style="bottom:0px; right:0px; position: absolute" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h2 class="h1 post-title p-2 text-end" style="bottom:0px; right:0px; position: absolute" itemprop="name headline">{{ page.title | escape }}</h2>
   </header>
-  <h2 class="my-3" itemprop="name alternativeHeadline">{{ page.subtitle }}</h2>
+  <p class="h2 my-3" itemprop="name alternativeHeadline">{{ page.subtitle }}</p>
 
   <style>
     .fallstudie-header {
@@ -98,15 +98,15 @@ layout: default
     {% if authorCount == 0 %}
     Kein Author
     {% elsif authorCount == 1 %}
-    <a href="{{ author.url | first }}">{{ page.author | first }}</a>
+    <a href="{{ author.url | first }}" tabindex="1">{{ page.author | first }}</a>
     {% else %}
     {% for author in author %}
     {% if forloop.first %}
-    <a href="{{ author.url }}">{{ author.name }}</a>
+    <a href="{{ author.url }}" tabindex="1">{{ author.name }}</a>
     {% elsif forloop.last %}
-    und <a href="{{ author.url }}">{{ author.name }}</a>
+    und <a href="{{ author.url }}" tabindex="1">{{ author.name }}</a>
     {% else %}
-    , <a href="{{ author.url }}">{{ author.name }}</a>
+    , <a href="{{ author.url }}" tabindex="1">{{ author.name }}</a>
     {% endif %}
     {% endfor %}
     {% endif %}
@@ -124,7 +124,7 @@ layout: default
       <p class="h3 mt-5">Inhalt</p>
       {% toc %}
       <ul id="toc" class="section-nav d-lg-none d-xl-none">
-      <li class="toc-entry toc-h3" style="margin-top:-1rem"><a href="#downloads">Downloads</a></li>
+      <li class="toc-entry toc-h3" style="margin-top:-1rem"><a href="#downloads" tabindex="1">Downloads</a></li>
       </ul>
       <div class="d-none d-lg-block d-xl- none">
           {% if page.download_teil_1_dilemma_und_fragen != nil or page.download_teil_2_unterrichtsmaterialien != nil %}
@@ -132,12 +132,12 @@ layout: default
           <ul class="list-unstyled">
             {% if page.download_teil_1_dilemma_und_fragen != nil %}
             <li>
-              <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_1_dilemma_und_fragen }}"><i class="fas fa-file-pdf"></i> Dilemma & Fragen</a>
+              <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_1_dilemma_und_fragen }}" tabindex="1"><i class="fas fa-file-pdf"></i> Dilemma & Fragen</a>
             </li>
             {% endif %}
             {% if page.download_teil_2_unterrichtsmaterialien != nil %}
             <li>
-              <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_2_unterrichtsmaterialien }}"><i class="fas fa-file-pdf"></i> Unterrichtsmaterialien</a>
+              <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_2_unterrichtsmaterialien }}"><i class="fas fa-file-pdf" tabindex="1"></i> Unterrichtsmaterialien</a>
             </li>
             {% endif %}
           </ul>
@@ -150,12 +150,12 @@ layout: default
         <ul class="list-unstyled">
           {% if page.download_teil_1_dilemma_und_fragen != nil %}
           <li>
-            <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_1_dilemma_und_fragen }}"><i class="fas fa-file-pdf"></i> Dilemma & Fragen</a>
+            <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_1_dilemma_und_fragen }}" tabindex="1"><i class="fas fa-file-pdf"></i> Dilemma & Fragen</a>
           </li>
           {% endif %}
           {% if page.download_teil_2_unterrichtsmaterialien != nil %}
           <li>
-            <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_2_unterrichtsmaterialien }}"><i class="fas fa-file-pdf"></i> Unterrichtsmaterialien</a>
+            <a href="{{ site.url }}/assets/fallstudien/{{ page.download_teil_2_unterrichtsmaterialien }}" tabindex="1"><i class="fas fa-file-pdf"></i> Unterrichtsmaterialien</a>
           </li>
           {% endif %}
         </ul>

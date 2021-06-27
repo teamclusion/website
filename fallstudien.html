@@ -20,10 +20,10 @@ subtitle: zur Praktischen Ethik
     <div class="card-img-top" style="height:300px; background-image: url('{{ fallstudien.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center bottom"></div>
     <!-- <img src="{{ fallstudien.img }}" class="card-img-top" alt="..." style="max-height:100px"> -->
     <div class="card-body">
-      <h5 class="card-title">{{ fallstudien.title }}</h5>
-      <h6 class="card-subtitle mb-2 text-muted">{{ fallstudien.subtitle }}</h6>
+      <h2 class="h5 card-title">{{ fallstudien.title }}</h2>
+      <p class="h6 card-subtitle mb-2 text-muted">{{ fallstudien.subtitle }}</p>
       <p class="card-text">{{ fallstudien.content.excerpt | markdownify }}</p>
-      <a href="{{ fallstudien.url }}" class="stretched-link text-secondary">Mehr zu Fall, Theorie und Lösung …</a>
+      <a href="{{ fallstudien.url }}" class="stretched-link text-primary" tabindex="1">Mehr zu Fall, Theorie und Lösung …</a>
     </div>
   </div>
   </div>
