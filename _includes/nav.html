@@ -13,7 +13,7 @@
 					</li> -->
 				{% for item in site.data.navigation %}
 				{% if item.link != "/" %}
-				<li class="nav-item"><a class="nav-link {% if page.url contains item.link %}active" aria-current="page"{% else %}"{% endif %} href="{{ site.url }}{{ item.link }}" tabindex="1">{{ item.name }}</a>
+				<li class="nav-item"><a class="nav-link {% if page.url contains item.link %}active" aria-current="page" tabindex="-1"{% else %}" tabindex="1"{% endif %} href="{{ site.url }}{{ item.link }}">{{ item.name }}</a>
 				</li>
 				{% endif %}
 				{% endfor %}
