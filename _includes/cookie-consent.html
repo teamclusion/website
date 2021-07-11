@@ -75,13 +75,13 @@ https://jekyllcodex.org/without-plugin/cookie-consent/
     }
     document.getElementById('cookie-notice-accept').addEventListener("click", function() {
       // Klick auf ABGELEHNT und Cookie mit Wert FALSE erstellen
-      createCookie('cookie-notice-dismissed', 'true', 31);
+      createCookie('cookie-notice-dismissed', 'true', 365);
       document.getElementById('cookie-notice').style.display = 'none';
       location.reload();
     });
     document.getElementById('cookie-notice-rejected').addEventListener("click", function() {
       // Klick auf ZULASSEN und Cookie mit Wert TRUE erstellen
-        createCookie('cookie-notice-dismissed', 'false', 31);
+        createCookie('cookie-notice-dismissed', 'false', 365);
         document.getElementById('cookie-notice').style.display = 'none';
         location.reload();
     });
