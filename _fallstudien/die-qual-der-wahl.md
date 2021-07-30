@@ -102,7 +102,7 @@ In der praktischen Ethik kann man diese Selbstreflexion durch eine bewusste Konf
 
 Eine Maßnahme gegen die Stigmatisierung übergewichtiger Bewerber könnte – wie im angloamerikanischen Raum bereits üblich – der Verzicht auf Fotomaterial bei Bewerbungen sein, um die Chancengleichheit zu wahren. Bei Bewerbungen für Orchester hat man beispielsweise dadurch, dass das Vorspielen hinter einem Vorhang stattfindet, die Quote an weiblichen Orchestermitgliedern erhöhen können. Eine zukünftige Aufforderung in den Stellenanzeigen von Susannes Kanzlei, Bewerbungen mögen doch ohne Foto eingesendet werden, wäre folglich eine mögliche Maßnahme gegen Vorurteile und Diskriminierung.
 
-[^1]: https://ethica-rationalis.org/die-goldene-regel/
+[^1]: [https://ethica-rationalis.org/die-goldene-regel/](https://ethica-rationalis.org/die-goldene-regel/)
 
 
 ### Impulsfragen für die Diskussion – Teil 2
@@ -138,9 +138,9 @@ Eine Maßnahme gegen die Stigmatisierung übergewichtiger Bewerber könnte – w
 
 * [Erklärvideo zur Theorie der Sozialen Vergleichsprozesse](https://www.youtube.com/watch?v=S5I-MGtVzPk) mit Angaben zu Theorien und Modellen (Leon Festinger 1954, Lockwood and Kunda 1997, Tesser and Campbell 1982, Collins 1996) und Beispielen aus Film und Fernsehen.
 
-* **Umfragevideos zu Identität und Diskriminierung:** Die Online-Toolbox „Stories that Move“ regt Schüler*innen und Student*innen dazu an, sich mit den Themen Vielfalt und Diskriminierung kritisch auseinanderzusetzen sowie ihre eigenen Positionen und Entscheidungsmöglichkeiten zu reflektieren. In kurzen Video-Clips erzählen Jugendliche von positiven Erfahrungen, aber auch von Ausgrenzung, Diskriminierung und Hassverbrechen.
-  * [Clips zum Thema Identität](https://www.storiesthatmove.org/de/videos/sehen-und-gesehen-werden/)
-  * [Clips zum Thema Diskriminierung](https://www.storiesthatmove.org/de/videos/diskriminierung-begegnen/)
+* **Umfragevideos zu Identität und Diskriminierung:** Die Online-Toolbox „Stories that Move“ regt Schüler*innen und Student*innen dazu an, sich mit den Themen Vielfalt und Diskriminierung kritisch auseinanderzusetzen sowie ihre eigenen Positionen und Entscheidungsmöglichkeiten zu reflektieren. In kurzen Video-Clips erzählen Jugendliche von positiven Erfahrungen, aber auch von Ausgrenzung, Diskriminierung und Hassverbrechen.  
+[Clips zum Thema Identität](https://www.storiesthatmove.org/de/videos/sehen-und-gesehen-werden/)  
+[Clips zum Thema Diskriminierung](https://www.storiesthatmove.org/de/videos/diskriminierung-begegnen/)
 
 * [Aufklärungsvideo zu Diskriminierung an der Schule:](https://www.youtube.com/watch?v=HGT7Vq3_NGk) Die RBB Abendschau vom 30.01.2019 berichtet, wie Lehrer Schüler stigmatisieren und diskriminieren auf drastische, rassistische und sexistische Weise. RBB hat mit Schülern zu diesem Thema gesprochen.
 
