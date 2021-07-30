@@ -29,9 +29,11 @@ author: Prof. Dr. Angela Poech
 editorial: Prof. Dr. Angela Poech
 publisher: |
   Prof. Dr. Angela Poech<br>
-  Torgauer Straße 5<br>
-  80993 München
+  Hochstiftsweg 23<br>
+  81925 München
+publischer-email: angela.poech@ethica-rationalis.org
 president:
+url: https://teamclusion.netlify.app
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # url: "http://kunden.tristan-germer.de/teamclusion"
