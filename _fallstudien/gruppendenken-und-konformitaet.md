@@ -10,6 +10,8 @@ image-credit:
   - 'Ernte Jungen Mann Mit Lgbt Flagge über Gesicht Gemalt, [
 Clement percheron](https://www.pexels.com/de-de/foto/ernte-jungen-mann-mit-lgbt-flagge-uber-gesicht-gemalt-5451714/) von [Pexels](https://www.pexels.com/de-de/foto/ernte-jungen-mann-mit-lgbt-flagge-uber-gesicht-gemalt-5451714/)'
   #- 'Person Mit Weißer Und Blauer Mütze, [Alina Blumberg](https://www.pexels.com/de-de/foto/person-mit-weisser-und-blauer-mutze-5995881/) von [Pexels](https://www.pexels.com/de-de/foto/person-mit-weisser-und-blauer-mutze-5995881/)'
+background-position-1: center top # für Fallstudienübersicht
+background-position-2: center center # für Fallstudie selber
 #download_teil_1_dilemma_und_fragen: nur-ein-blechschaden_teil-1_dilemma-und-fragen.pdf
 #download_teil_2_unterrichtsmaterialien: nur-ein-blechschaden_teil-2_unterrichtsmaterialien.pdf
 author:

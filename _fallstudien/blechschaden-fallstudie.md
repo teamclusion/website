@@ -8,6 +8,8 @@ subtitle: Ein ethisches Dilemma – was denken Sie?
 image: /assets/img/pexels-jeshoots-7433.jpg
 image-credit:
   - 'Mann, Der Das Rote Fahrzeug Fährt, [JÉSHOOTS](https://www.pexels.com/de-de/foto/mann-der-das-rote-fahrzeug-fahrt-7433/) von [Pexels](https://www.pexels.com/de-de/foto/mann-der-das-rote-fahrzeug-fahrt-7433/)'
+background-position-1: center top # für Fallstudienübersicht
+background-position-2: center top # für Fallstudie selber
 download_teil_1_dilemma_und_fragen: nur-ein-blechschaden_teil-1_dilemma-und-fragen.pdf
 download_teil_2_unterrichtsmaterialien: nur-ein-blechschaden_teil-2_unterrichtsmaterialien.pdf
 author:

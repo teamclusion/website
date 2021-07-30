@@ -10,6 +10,8 @@ image-credit:
   - 'Kein Titel, [
 Karolina Grabowska](https://www.pexels.com/de-de/foto/mann-liebe-menschen-frau-8530316/) von [Pexels](https://www.pexels.com/de-de/foto/mann-liebe-menschen-frau-8530316/)'
   #- 'Person Mit Weißer Und Blauer Mütze, [Alina Blumberg](https://www.pexels.com/de-de/foto/person-mit-weisser-und-blauer-mutze-5995881/) von [Pexels](https://www.pexels.com/de-de/foto/person-mit-weisser-und-blauer-mutze-5995881/)'
+background-position-1: center bottom # für Fallstudienübersicht
+background-position-2: center center # für Fallstudie selber
 download_teil_1_dilemma_und_fragen: die-qual-der-wahl_teil-1_dilemma-und-fragen.pdf
 download_teil_2_unterrichtsmaterialien: die-qual-der-wahl_teil-2_unterrichtsmaterialien.pdf
 author:
