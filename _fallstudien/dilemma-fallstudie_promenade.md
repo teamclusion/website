@@ -5,6 +5,7 @@ nummer: 1
 toc: true
 title: Spaziergang an der Promenade
 subtitle: Ein ethisches Dilemma – was denken Sie?
+poll: https://ethica-rationalis.org/spaziergang-an-der-promenade-ein-ethisches-dilemma-was-denken-sie/
 image: /assets/img/pexels-taufiq-klinkenborg-384553.jpg
 # image: https://images.pexels.com/photos/384553/pexels-photo-384553.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 image-credit:
@@ -44,6 +45,14 @@ Eigentlich möchte sie so schnell wie möglich ins Bett in ihrem neuen Zuhause. 
 
 ### Wie würden Sie an Katharinas Stelle handeln?
 
+<a href="{{ page.poll }}" role="button" class="btn btn-outline-primary position-relative">
+  Jetzt auf ethica-rationalis.org abstimmen
+  <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+    NEU
+    <span class="visually-hidden">unread messages</span>
+  </span>
+</a>
+
 a) Ich würde weitergehen. Ich bin zu müde und der Obdachlose schläft sicher nur seinen Rausch aus.
 
 b) Ich würde mich umschauen, ob noch jemand anderes auf den Obdachlosen aufmerksam geworden ist, und schauen, wie derjenige reagiert.
@@ -57,6 +66,15 @@ e) Ich würde einen vorbeigehenden Passanten ansprechen und nach der Notrufnumme
 f) Ich würde einen vorbeigehenden Passanten ansprechen und fragen, ob er den Notarzt anrufen könnte. Mit meinen wenigen Französischkenntnissen fühle ich mich nicht der Situation gewachsen, mein Anliegen am Telefon zu erklären.
 
 g) Keine der oben genannten Antworten.
+
+<a href="{{ page.poll }}" role="button" class="btn btn-outline-secondary position-relative">
+  Jetzt auf ethica-rationalis.org abstimmen
+  <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+    NEU
+    <span class="visually-hidden">unread messages</span>
+  </span>
+</a>
+
 
 ### Impulsfragen für die Diskussion – Teil 1
 
