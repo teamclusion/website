@@ -45,7 +45,7 @@ Eigentlich möchte sie so schnell wie möglich ins Bett in ihrem neuen Zuhause. 
 
 ### Wie würden Sie an Katharinas Stelle handeln?
 
-<a href="{{ page.poll }}" role="button" class="btn btn-outline-primary position-relative">
+<a href="{{ page.poll }}" role="button" class="btn btn-outline-secondary position-relative">
   Jetzt auf ethica-rationalis.org abstimmen
   <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
     NEU
@@ -66,14 +66,6 @@ e) Ich würde einen vorbeigehenden Passanten ansprechen und nach der Notrufnumme
 f) Ich würde einen vorbeigehenden Passanten ansprechen und fragen, ob er den Notarzt anrufen könnte. Mit meinen wenigen Französischkenntnissen fühle ich mich nicht der Situation gewachsen, mein Anliegen am Telefon zu erklären.
 
 g) Keine der oben genannten Antworten.
-
-<a href="{{ page.poll }}" role="button" class="btn btn-outline-secondary position-relative">
-  Jetzt auf ethica-rationalis.org abstimmen
-  <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
-    NEU
-    <span class="visually-hidden">unread messages</span>
-  </span>
-</a>
 
 
 ### Impulsfragen für die Diskussion – Teil 1
