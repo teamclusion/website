@@ -14,7 +14,7 @@
 				<!-- <li class="nav-item {% if page.url contains "/news" %}active{% endif %}"><a class="nav-link" href="/news">News</a>
 					</li> -->
 				{% for item in site.data.navigation %}
-				{% if item.link == '/about' or item.link == '/team' or item.link == '/design_your_life' or item.link == '/forschung' %}
+				{% if item.link == '/about' or item.link == '/team' or item.link == '/team_2' or item.link == '/design_your_life' or item.link == '/forschung' %}
 				<li class="nav-item"><a class="nav-link {% if page.url contains item.link %}active" aria-current="page" tabindex="-1"{% else %}" tabindex="1"{% endif %} href="{{ item.link }}">{{ item.name }}</a>
 				</li>
 				{% endif %}
