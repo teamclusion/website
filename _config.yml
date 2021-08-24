@@ -33,11 +33,10 @@ publisher: |
   81925 München
 publischer-email: angela.poech@ethica-rationalis.org
 president:
-url: https://www.teamclusion.de
+# url: https://www.teamclusion.de
+url: https://teamclusion.netlify.app
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# url: "http://kunden.tristan-germer.de/teamclusion"
-#url: "https://teamclusion.netlify.app"
 webmaster_email: tgermer@me.com
 webmaster_name: Tristan Germer
 logo_nav: /assets/img/logo_kontur2.svg
