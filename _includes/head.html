@@ -11,7 +11,10 @@
 
   {% include icons.html %}
 
-  {% comment %} --- Jekyll-SEO-Tag https://github.com/jekyll/jekyll-seo-tag --- {% endcomment %}
-  {% seo title=false %}
+  <!-- Begin Site Feed -->
+  {% feed_meta %}
+  <!-- End Site Feed -->
+
+  {% seo %}
 
 </head>
