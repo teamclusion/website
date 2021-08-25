@@ -25,7 +25,7 @@ quellen:
 
 <!-- Jekyll Tip: Adding Styling To Html Output https://digitaldrummerj.me/styling-jekyll-markdown/ -->
 
-### Georgs Dilemma
+### Gregors Dilemma
 
 Gregor ist Leistungssportler und aufgrund seiner bisherigen Erfolge dabei, in die Jugend-Nationalmannschaft aufgenommen zu werden. Seit einem Jahr hat er auf Anraten seiner Sportagentur einen Facebook-Account und die Anzahl seiner Fans wächst täglich. Bei der Marke von 100 000 Followern wurden die ersten Sponsoren auf ihn aufmerksam und die Vertragsverhandlungen liegen nun schon ein paar Wochen zurück. Jetzt muss er sich entscheiden, ob er die Verträge unterschreibt. Der Sponsor, ein Hersteller von Sportartikeln, will vor allem das Image nutzen, das er als Sportler ausstrahlt: jung, dynamisch, unabhängig, selbstbestimmt, ehrgeizig, erfolgreich, gutaussehend und charmant – eine ideale Projektionsfläche für die vor allem weibliche Kundschaft, die der Sponsor durch diesen Vertrag gewinnen möchte. Doch bisher hat Gregor nicht alle Karten auf den Tisch gelegt: Sein Lebenspartner Theo und er sind übereingekommen, dass sie heiraten möchten – ein Zeichen für das tiefe Vertrauen, das sie beide verbindet. Innerlich ist für ihn sonnenklar, dass er sein Leben mit Theo teilen möchte. Wäre da nicht die Öffentlichkeit mit all ihren Erwartungen... Bisher war es ihm gelungen, sein Privatleben zu schützen. Nur einige wenige Vertraute kennen Theo. Seine Agentur hat eine klare Philosophie: ‚Privatleben diskret behandeln‘ – was im Grund heißt: Schweigen und Verstecken! Aber wie lange wird das noch gehen? Die Nationalmannschaft wird wie ein Brennglas sein – Presse, soziale Medien, Verbände – sie alle werden über ihn herfallen und mehr über sein Leben wissen wollen. Was wird geschehen, wenn seine Fans von seiner Beziehung erfahren? Wie wird der Sponsor reagieren? Oder der Verband? Kaum jemand im Profisport hat den Mut, seine Homosexualität zuzugeben – schon gar nicht am Anfang der Laufbahn. Es steht viel auf dem Spiel: Nicht nur seine sportliche Karriere, sondern auch die finanzielle Unterstützung durch die Förderer, ohne die heutzutage kein Sportler an die Spitze kommt. Gregor ist in der Zwickmühle und muss sich aufrichtig fragen: Was ist mir wichtiger? Mein Privatleben oder meine Sportlerkarriere? Will ich dieses Risiko eingehen? Will ich diesen Kampf wirklich führen? Was würden Sie an Gregors Stelle tun?
 
@@ -33,12 +33,19 @@ Gregor ist Leistungssportler und aufgrund seiner bisherigen Erfolge dabei, in di
 ### Wie würden Sie an Gregors Stelle handeln?
 
 a) Ich würde einfach all meinen Mut zusammennehmen und die Nachricht von der Trauung öffentlich posten.
+
 b) Ich würde die Agentur wechseln, um ein Mehr an moralischer Unterstützung zu erhalten.
+
 c) Ich würde mich mit Freunden aus dem Sport austauschen, um mir Rat zu holen.
+
 d) Ich würde mich mit allen wichtigen Personen in meinem sportlichen Umfeld treffen, um Überzeugungsarbeit zu leisten und um Unterstützung zu bitten.
+
 e) Ich würde versuchen, mit einer Gruppe oder einer Organisation zu kooperieren, die sich aktiv für die Rechte trans- und homosexueller Menschen im Leistungssport einsetzt.
+
 f) Ich würde mit meinem Partner vereinbaren, dass wir versuchen, unser Privatleben weiterhin für uns zu behalten.
+
 g) Ich würde mein Profil auf Facebook wieder löschen.
+
 h) Keine der oben genannten Antworten.
 
 
