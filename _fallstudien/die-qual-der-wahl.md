@@ -136,43 +136,43 @@ Eine Maßnahme gegen die Stigmatisierung übergewichtiger Bewerber könnte – w
 
 <!-- * [Umfrage: Verantwortung und Pflichten](https://www.youtube.com/watch?v=SXA6QNPFKik) von der Landeszentrale für politische Bildung Nordrhein-Westfalen: Für wen und was trägt man Verantwortung? Gibt es Pflichten gegenüber dem Staat? Welche Pflichten hat man in einer Demokratie? -->
 
-* [Erklärvideo zur Theorie der Sozialen Identität:](https://www.youtube.com/watch?v=FBwAhrmIbxo) Prof. Dr. Erb, Professor für Sozialpsychologie an der Helmut-Schmidt-Universität Hamburg, erklärt soziale Identität, positive soziale Identität, positive Distinktheit, Gruppenzugehörigkeit und Diskriminierung.
+[Erklärvideo zur Theorie der Sozialen Identität:](https://www.youtube.com/watch?v=FBwAhrmIbxo) Prof. Dr. Erb, Professor für Sozialpsychologie an der Helmut-Schmidt-Universität Hamburg, erklärt soziale Identität, positive soziale Identität, positive Distinktheit, Gruppenzugehörigkeit und Diskriminierung.
 
-* [Erklärvideo zur Theorie der Sozialen Vergleichsprozesse](https://www.youtube.com/watch?v=S5I-MGtVzPk) mit Angaben zu Theorien und Modellen (Leon Festinger 1954, Lockwood and Kunda 1997, Tesser and Campbell 1982, Collins 1996) und Beispielen aus Film und Fernsehen.
+[Erklärvideo zur Theorie der Sozialen Vergleichsprozesse](https://www.youtube.com/watch?v=S5I-MGtVzPk) mit Angaben zu Theorien und Modellen (Leon Festinger 1954, Lockwood and Kunda 1997, Tesser and Campbell 1982, Collins 1996) und Beispielen aus Film und Fernsehen.
 
-* **Umfragevideos zu Identität und Diskriminierung:** Die Online-Toolbox „Stories that Move“ regt Schüler*innen und Student*innen dazu an, sich mit den Themen Vielfalt und Diskriminierung kritisch auseinanderzusetzen sowie ihre eigenen Positionen und Entscheidungsmöglichkeiten zu reflektieren. In kurzen Video-Clips erzählen Jugendliche von positiven Erfahrungen, aber auch von Ausgrenzung, Diskriminierung und Hassverbrechen.  
+**Umfragevideos zu Identität und Diskriminierung:** Die Online-Toolbox „Stories that Move“ regt Schüler*innen und Student*innen dazu an, sich mit den Themen Vielfalt und Diskriminierung kritisch auseinanderzusetzen sowie ihre eigenen Positionen und Entscheidungsmöglichkeiten zu reflektieren. In kurzen Video-Clips erzählen Jugendliche von positiven Erfahrungen, aber auch von Ausgrenzung, Diskriminierung und Hassverbrechen.  
 [Clips zum Thema Identität](https://www.storiesthatmove.org/de/videos/sehen-und-gesehen-werden/)  
 [Clips zum Thema Diskriminierung](https://www.storiesthatmove.org/de/videos/diskriminierung-begegnen/)
 
-* [Aufklärungsvideo zu Diskriminierung an der Schule:](https://www.youtube.com/watch?v=HGT7Vq3_NGk) Die RBB Abendschau vom 30.01.2019 berichtet, wie Lehrer Schüler stigmatisieren und diskriminieren auf drastische, rassistische und sexistische Weise. RBB hat mit Schülern zu diesem Thema gesprochen.
+[Aufklärungsvideo zu Diskriminierung an der Schule:](https://www.youtube.com/watch?v=HGT7Vq3_NGk) Die RBB Abendschau vom 30.01.2019 berichtet, wie Lehrer Schüler stigmatisieren und diskriminieren auf drastische, rassistische und sexistische Weise. RBB hat mit Schülern zu diesem Thema gesprochen.
 
-* [Erklärvideo zu Stereotypen, Vorurteilen, Diskriminierung:](https://www.youtube.com/watch?v=ZraVnTZedlU) Amnesty International ist überzeugt, dass man die Menschenrechte kennen muss, um sie verteidigen zu können. Da Diskriminierung eine Menschenrechtsverletzung darstellt, erläutert dieses humorvolle Erklärvideo den Zusammenhang zwischen Stereotypen, Vorurteilen und Diskriminierung. Es stellt zudem konkrete Techniken zur Bekämpfung von Diskriminierung im Alltag vor.
+[Erklärvideo zu Stereotypen, Vorurteilen, Diskriminierung:](https://www.youtube.com/watch?v=ZraVnTZedlU) Amnesty International ist überzeugt, dass man die Menschenrechte kennen muss, um sie verteidigen zu können. Da Diskriminierung eine Menschenrechtsverletzung darstellt, erläutert dieses humorvolle Erklärvideo den Zusammenhang zwischen Stereotypen, Vorurteilen und Diskriminierung. Es stellt zudem konkrete Techniken zur Bekämpfung von Diskriminierung im Alltag vor.
 
-* [Erklärvideo zu Vorurteilen:](https://www.youtube.com/watch?v=D1BE0VDAI1Y) Die Evangelische Landeskirche in Württemberg erklärt, wie Vorurteile entstehen, wie uns die Medien beeinflussen und was man tun kann, um Vorurteile abzubauen.
+[Erklärvideo zu Vorurteilen:](https://www.youtube.com/watch?v=D1BE0VDAI1Y) Die Evangelische Landeskirche in Württemberg erklärt, wie Vorurteile entstehen, wie uns die Medien beeinflussen und was man tun kann, um Vorurteile abzubauen.
 
-* [Erklärvideo zu Vorurteilen:](https://www.youtube.com/watch?v=90m5X4sLyD8) DAK Gesundheit erklärt anschaulich und bunt, wie Vorurteile entstehen und wie sie abgebaut werden können.
+[Erklärvideo zu Vorurteilen:](https://www.youtube.com/watch?v=90m5X4sLyD8) DAK Gesundheit erklärt anschaulich und bunt, wie Vorurteile entstehen und wie sie abgebaut werden können.
 
-* [Comedy zu Vorurteilen:](https://www.youtube.com/watch?v=wzZjD_qGkL4) SWR Spätschicht mit Johann König befasst sich humorvoll mit Vorurteilen. Denn diese sind zwar moralisch nicht einwandfrei, aber ohne Schubladendanken wäre das Leben auch nur halb so lustig.
+[Comedy zu Vorurteilen:](https://www.youtube.com/watch?v=wzZjD_qGkL4) SWR Spätschicht mit Johann König befasst sich humorvoll mit Vorurteilen. Denn diese sind zwar moralisch nicht einwandfrei, aber ohne Schubladendanken wäre das Leben auch nur halb so lustig.
 
-* [Erklärvideo zu Stereotypen](https://www.youtube.com/watch?v=eEkKHANV7fY) am Beispiel „Typisch Deutsch“: Die ProSieben Wissenssendung Galileo überprüft die Stereotypen „Typisch Deutsch“ und stößt dabei auf Überraschendes.
+[Erklärvideo zu Stereotypen](https://www.youtube.com/watch?v=eEkKHANV7fY) am Beispiel „Typisch Deutsch“: Die ProSieben Wissenssendung Galileo überprüft die Stereotypen „Typisch Deutsch“ und stößt dabei auf Überraschendes.
 
-* [Umfragen und Erklärungen zu deutschen Stereotypen](https://www.youtube.com/watch?v=MalNR0FHU9k) auf Englisch: Die Deutsche Welle (DW), Mitglied der ARD, untersucht, wie viel Wahrheit hinter den Stereotypen über Deutsche steckt und wo diese Bilder und Vorstellungen herkommen.
+[Umfragen und Erklärungen zu deutschen Stereotypen](https://www.youtube.com/watch?v=MalNR0FHU9k) auf Englisch: Die Deutsche Welle (DW), Mitglied der ARD, untersucht, wie viel Wahrheit hinter den Stereotypen über Deutsche steckt und wo diese Bilder und Vorstellungen herkommen.
 
-* [Vorstellung der Kampagne „Dick im Geschäft“:](https://www.youtube.com/watch?v=CiR-NA8c0X8) pme Familienservice CEO Alexa Ahmad setzt sich für einen positiven Umgang mit Übergewicht im Berufsleben ein.
+[Vorstellung der Kampagne „Dick im Geschäft“:](https://www.youtube.com/watch?v=CiR-NA8c0X8) pme Familienservice CEO Alexa Ahmad setzt sich für einen positiven Umgang mit Übergewicht im Berufsleben ein.
 
-* [Abgestempelt:](https://www.zeit.de/news/2020-08/10/was-bei-gewichtsdiskriminierung-im-job-helfen-kann) Was bei Gewichtsdiskriminierung im Job helfen kann
+[Abgestempelt:](https://www.zeit.de/news/2020-08/10/was-bei-gewichtsdiskriminierung-im-job-helfen-kann) Was bei Gewichtsdiskriminierung im Job helfen kann
 
-* [Übergewicht bringt berufliche Nachteile:](https://uni-tuebingen.de/uploads/media/12-08-23Adipositas_und_Beruf.pdf) Tübinger Wissenschaftler untersuchen Vorurteile gegenüber Adipösen: Personalentscheider sprechen dicken Menschen Führungsqualitäten ab.
+[Übergewicht bringt berufliche Nachteile:](https://uni-tuebingen.de/uploads/media/12-08-23Adipositas_und_Beruf.pdf) Tübinger Wissenschaftler untersuchen Vorurteile gegenüber Adipösen: Personalentscheider sprechen dicken Menschen Führungsqualitäten ab.
 
-* [„Wir müssen über Gewichtsdiskriminierung sprechen“:](https://www.familienservice.de/-/interview-es-ist-wichtig-dass-ueber-gewichtsdiskriminierung-gesprochen-wird
+[„Wir müssen über Gewichtsdiskriminierung sprechen“:](https://www.familienservice.de/-/interview-es-ist-wichtig-dass-ueber-gewichtsdiskriminierung-gesprochen-wird
 ) Natalie Rosenke von der Gesellschaft gegen Gewichtsdiskriminierung macht sich seit Jahren für die Rechte von Übergewichtigen stark und gilt somit als eine der einflussreichsten Expertinnen für Antidiskriminierung, Fat Rights und Körper-Diskurse.
 
-* [Arbeitsrecht](https://www.kanzlei-hasselbach.de/2018/abmahnung-kuendigung-diskriminierung-wegen-uebergewichts/10/
+[Arbeitsrecht](https://www.kanzlei-hasselbach.de/2018/abmahnung-kuendigung-diskriminierung-wegen-uebergewichts/10/
 ) in der Kanzlei Hasselbach: Abmahnung, Kündigung und Diskriminierung wegen Übergewicht
 
-* [Das Robert Koch-Institut](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Themen/Uebergewicht_Adipositas/Uebergewicht_Adipositas_node.html) erhebt im Rahmen des Gesundheitsmonitorings regelmäßig Daten zu Übergewicht und Adipositas.
+[Das Robert Koch-Institut](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Themen/Uebergewicht_Adipositas/Uebergewicht_Adipositas_node.html) erhebt im Rahmen des Gesundheitsmonitorings regelmäßig Daten zu Übergewicht und Adipositas.
 
-* [„Hohes Körpergewicht zwischen Diskriminierung und Anerkennung“.](https://familienservice.buchhandlung.de/shop/article/31699264/fat_studies_in_deutschland.html) Inspiriert durch die Entwicklung der Fat Studies in englischsprachigen Ländern versammelt der vorliegende Band Beiträge aus Deutschland, die sich aus unterschiedlichen disziplinären, professionellen und praktischen Perspektiven kritisch mit der Stigmatisierung von dicken Körpern und dicken Menschen auseinandersetzen.
+[„Hohes Körpergewicht zwischen Diskriminierung und Anerkennung“.](https://familienservice.buchhandlung.de/shop/article/31699264/fat_studies_in_deutschland.html) Inspiriert durch die Entwicklung der Fat Studies in englischsprachigen Ländern versammelt der vorliegende Band Beiträge aus Deutschland, die sich aus unterschiedlichen disziplinären, professionellen und praktischen Perspektiven kritisch mit der Stigmatisierung von dicken Körpern und dicken Menschen auseinandersetzen.
 
 
 ### Quellen
