@@ -148,22 +148,32 @@ Für Laura bedeutet das, für sich klarzustellen, ob sie auf dem Parkplatz im Na
 
 ### Medienunterstützung für den Unterricht
 
-* [Umfrage: Verantwortung und Pflichten](https://www.youtube.com/watch?v=SXA6QNPFKik) von der Landeszentrale für politische Bildung Nordrhein-Westfalen: Für wen und was trägt man Verantwortung? Gibt es Pflichten gegenüber dem Staat? Welche Pflichten hat man in einer Demokratie?
-* [Umfrage: Verantwortung](https://www.youtube.com/watch?v=POIG6fr1oNo) von der Landeszentrale für politische Bildung Nordrhein-Westfalen: Männer und Frauen verschiedener Berufe und unterschiedlichen Alters schildern, was für sie Verantwortung bedeutet und welche Rolle sie im gesellschaftlichen Miteinander spielt.
-* [Umfrage: Verantwortung in der digitalen Welt](https://www.youtube.com/watch?v=-Qv5vhqDk_A) von Teachtoday: Die digitale Welt hat uns ein Mehr an Freiheit ermöglicht, aber auch ein Stück weit mehr Verantwortung. Was bedeutet Verantwortung in der digitalen Welt?
-* [Hans Jonas: Verantwortung](https://www.youtube.com/watch?v=N61nUnsy_bM) neu denken
-* [Hans Werner Sinn: Gesinnungsethik vs. Verantwortungsethik](https://www.youtube.com/watch?v=89K0co2sfQg) am Beispiel der Seenotrettung
-* [BASF-Vorstandsmitglied Frau Saori Dubourg: Haltung und Verantwortung](https://www.youtube.com/watch?v=8kYBGST9gm4) von Unternehmen
+[Umfrage: Verantwortung und Pflichten](https://www.youtube.com/watch?v=SXA6QNPFKik) von der Landeszentrale für politische Bildung Nordrhein-Westfalen: Für wen und was trägt man Verantwortung? Gibt es Pflichten gegenüber dem Staat? Welche Pflichten hat man in einer Demokratie?
+
+[Umfrage: Verantwortung](https://www.youtube.com/watch?v=POIG6fr1oNo) von der Landeszentrale für politische Bildung Nordrhein-Westfalen: Männer und Frauen verschiedener Berufe und unterschiedlichen Alters schildern, was für sie Verantwortung bedeutet und welche Rolle sie im gesellschaftlichen Miteinander spielt.
+
+[Umfrage: Verantwortung in der digitalen Welt](https://www.youtube.com/watch?v=-Qv5vhqDk_A) von Teachtoday: Die digitale Welt hat uns ein Mehr an Freiheit ermöglicht, aber auch ein Stück weit mehr Verantwortung. Was bedeutet Verantwortung in der digitalen Welt?
+
+[Hans Jonas: Verantwortung](https://www.youtube.com/watch?v=N61nUnsy_bM) neu denken
+
+[Hans Werner Sinn: Gesinnungsethik vs. Verantwortungsethik](https://www.youtube.com/watch?v=89K0co2sfQg) am Beispiel der Seenotrettung
+
+[BASF-Vorstandsmitglied Frau Saori Dubourg: Haltung und Verantwortung](https://www.youtube.com/watch?v=8kYBGST9gm4) von Unternehmen
 
 
 ### Quellen
 
-- ADAC (2021): Mit dem Auto unterwegs in Portugal, unter: [https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/](https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/) (abgerufen am 17.03.2021)
-- Endreß, M. (2020): Ethik (Gesinnungs- und Verantwortungsethik). S. 67-69 in Müller, H.-P., Sigmund S. (Hrsg.): Max Weber-Handbuch (2020), unter: [https://doi.org/10.1007/978-3-476-05142-4_11](https://doi.org/10.1007/978-3-476-05142-4_11) (abgerufen am 13.03.2021)
-- Fladerer, M. P. (2016): Gerechtigkeit. S. 79-93 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
+ADAC (2021): Mit dem Auto unterwegs in Portugal, unter: [https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/](https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/portugal/uebersicht/mit-dem-auto/) (abgerufen am 17.03.2021)
+
+Endreß, M. (2020): Ethik (Gesinnungs- und Verantwortungsethik). S. 67-69 in Müller, H.-P., Sigmund S. (Hrsg.): Max Weber-Handbuch (2020), unter: [https://doi.org/10.1007/978-3-476-05142-4_11](https://doi.org/10.1007/978-3-476-05142-4_11) (abgerufen am 13.03.2021)
+
+Fladerer, M. P. (2016): Gerechtigkeit. S. 79-93 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
+
 Kaschner, T. (2016): Verantwortung. S. 237-245 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
-- Rechtsanwalt Rathenau (2021): Unterschiede zwischen dem deutschen und dem portugiesischen Recht, unter: [https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht](https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht) (abgerufen am 17.03.2021)
-- Worms, N. (2009): Gesinnungsethik und Verantwortungsethik, in: GRIN Verlag München (2009), unter: [https://www.grin.com/document/146858](https://www.grin.com/document/146858) (abgerufen am 13.03.2021)
+
+Rechtsanwalt Rathenau (2021): Unterschiede zwischen dem deutschen und dem portugiesischen Recht, unter: [https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht](https://entdecken-sie-algarve.com/recht/rechtsanwalt-rathenau/unterschiede-zwischen-dem-deutschen-und-dem-portugiesischen-recht) (abgerufen am 17.03.2021)
+
+Worms, N. (2009): Gesinnungsethik und Verantwortungsethik, in: GRIN Verlag München (2009), unter: [https://www.grin.com/document/146858](https://www.grin.com/document/146858) (abgerufen am 13.03.2021)
 
 
 ---
