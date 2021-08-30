@@ -173,20 +173,19 @@ Aufklärung ist hierbei ebenso wichtig wie Training. Schon im Schulalter, aber a
 
 ### Medienunterstützung für den Unterricht
 
-[**Erklärvideo zur Verantwortungsdiffusion** mit Experiment von Latané & Darley (1968) „Epileptischer Anfall“](https://www.youtube.com/watch?v=eaOy_JbNSb4)
+[Erklärvideo zur Verantwortungsdiffusion mit Experiment von Latané & Darley (1968) „Epileptischer Anfall“](https://www.youtube.com/watch?v=eaOy_JbNSb4)
 
-[**Erklärvideo zum Bystander-Effekt** mit Latané & Darleys (1970) „Fünf Schritte“](https://www.youtube.com/watch?v=ekS0OUWpjd0)
+[Erklärvideo zum Bystander-Effekt mit Latané & Darleys (1970) „Fünf Schritte“](https://www.youtube.com/watch?v=ekS0OUWpjd0)
 
-[**Erklärvideo zur Verantwortungsdiffusion**](https://www.youtube.com/watch?v=OSsPfbup0ac)
+[Erklärvideo zur Verantwortungsdiffusion](https://www.youtube.com/watch?v=OSsPfbup0ac)
 
-[**Ohne Worte – The smoke filled room study** mit Beobachtung der Studienteilnehmer](https://www.youtube.com/watch?v=KE5YwN4NW5o)
+[Ohne Worte – The smoke filled room study mit Beobachtung der Studienteilnehmer](https://www.youtube.com/watch?v=KE5YwN4NW5o)
 
-[**The Asch Conformity Experiment:** „Dass intelligente, gut gemeinte junge Menschen bereit sind, Weiß Schwarz zu nennen, gibt Anlass zur Sorge.“ (Solomon Asch)](https://www.youtube.com/watch?v=TYIh4MkcfJA)
+[The Asch Conformity Experiment: „Dass intelligente, gut gemeinte junge Menschen bereit sind, Weiß Schwarz zu nennen, gibt Anlass zur Sorge.“ (Solomon Asch)](https://www.youtube.com/watch?v=TYIh4MkcfJA)
 
-[**Kurzfilm zu Zivilcourage:** Ein Mann sitzt in der Straßenbahn und freut sich auf den Feierabend. Da belästigen zwei Jugendliche eine junge Frau. Der Mann weiß, er müsste eingreifen, doch er zögert.](https://www.youtube.com/watch?v=cbnfqmWkiu8)
+[Kurzfilm zu Zivilcourage: Ein Mann sitzt in der Straßenbahn und freut sich auf den Feierabend. Da belästigen zwei Jugendliche eine junge Frau. Der Mann weiß, er müsste eingreifen, doch er zögert.](https://www.youtube.com/watch?v=cbnfqmWkiu8)
 
-[**Kurzfilm zu Zivilcourage von der Bundespolizei:** Die sechs Regeln für kritische Situationen sollen zeigen, dass jeder Mensch unabhängig von Alter, Geschlecht, Größe oder Körperbau, Hilfe leisten kann, ohne sich selbst in Gefahr zu bringen.](https://www.youtube.com/watch?v=vW2fAttjKYM)
-
+[Kurzfilm zu Zivilcourage von der Bundespolizei: Die sechs Regeln für kritische Situationen sollen zeigen, dass jeder Mensch unabhängig von Alter, Geschlecht, Größe oder Körperbau, Hilfe leisten kann, ohne sich selbst in Gefahr zu bringen.](https://www.youtube.com/watch?v=vW2fAttjKYM)
 
 
 ### Quellen
