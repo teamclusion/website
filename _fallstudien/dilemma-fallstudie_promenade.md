@@ -173,27 +173,41 @@ Aufklärung ist hierbei ebenso wichtig wie Training. Schon im Schulalter, aber a
 
 ### Medienunterstützung für den Unterricht
 
-* [**Erklärvideo zur Verantwortungsdiffusion** mit Experiment von Latané & Darley (1968) „Epileptischer Anfall“](https://www.youtube.com/watch?v=eaOy_JbNSb4)
-* [**Erklärvideo zum Bystander-Effekt** mit Latané & Darleys (1970) „Fünf Schritte“](https://www.youtube.com/watch?v=ekS0OUWpjd0)
-* [**Erklärvideo zur Verantwortungsdiffusion**](https://www.youtube.com/watch?v=OSsPfbup0ac)
-* [**Ohne Worte – The smoke filled room study** mit Beobachtung der Studienteilnehmer](https://www.youtube.com/watch?v=KE5YwN4NW5o)
-* [**The Asch Conformity Experiment:** „Dass intelligente, gut gemeinte junge Menschen bereit sind, Weiß Schwarz zu nennen, gibt Anlass zur Sorge.“ (Solomon Asch)](https://www.youtube.com/watch?v=TYIh4MkcfJA)
-* [**Kurzfilm zu Zivilcourage:** Ein Mann sitzt in der Straßenbahn und freut sich auf den Feierabend. Da belästigen zwei Jugendliche eine junge Frau. Der Mann weiß, er müsste eingreifen, doch er zögert.](https://www.youtube.com/watch?v=cbnfqmWkiu8)
-* [**Kurzfilm zu Zivilcourage von der Bundespolizei:** Die sechs Regeln für kritische Situationen sollen zeigen, dass jeder Mensch unabhängig von Alter, Geschlecht, Größe oder Körperbau, Hilfe leisten kann, ohne sich selbst in Gefahr zu bringen.](https://www.youtube.com/watch?v=vW2fAttjKYM)
+[**Erklärvideo zur Verantwortungsdiffusion** mit Experiment von Latané & Darley (1968) „Epileptischer Anfall“](https://www.youtube.com/watch?v=eaOy_JbNSb4)
+
+[**Erklärvideo zum Bystander-Effekt** mit Latané & Darleys (1970) „Fünf Schritte“](https://www.youtube.com/watch?v=ekS0OUWpjd0)
+
+[**Erklärvideo zur Verantwortungsdiffusion**](https://www.youtube.com/watch?v=OSsPfbup0ac)
+
+[**Ohne Worte – The smoke filled room study** mit Beobachtung der Studienteilnehmer](https://www.youtube.com/watch?v=KE5YwN4NW5o)
+
+[**The Asch Conformity Experiment:** „Dass intelligente, gut gemeinte junge Menschen bereit sind, Weiß Schwarz zu nennen, gibt Anlass zur Sorge.“ (Solomon Asch)](https://www.youtube.com/watch?v=TYIh4MkcfJA)
+
+[**Kurzfilm zu Zivilcourage:** Ein Mann sitzt in der Straßenbahn und freut sich auf den Feierabend. Da belästigen zwei Jugendliche eine junge Frau. Der Mann weiß, er müsste eingreifen, doch er zögert.](https://www.youtube.com/watch?v=cbnfqmWkiu8)
+
+[**Kurzfilm zu Zivilcourage von der Bundespolizei:** Die sechs Regeln für kritische Situationen sollen zeigen, dass jeder Mensch unabhängig von Alter, Geschlecht, Größe oder Körperbau, Hilfe leisten kann, ohne sich selbst in Gefahr zu bringen.](https://www.youtube.com/watch?v=vW2fAttjKYM)
 
 
 
 ### Quellen
 
-- Bierhoff, H.-W. – Rohmann, E. (2011): Diffusion der Verantwortung. S. 29-35 in Maring, M. (Hrsg.): Fallstudien zur Ethik in Wissenschaft, Wirtschaft, Technik und Gesellschaft (2011)
-- Gerhardinger, F. (2016): Zivilcourage. S. 295-306 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
-- Jonas K. – Tanner C. (2006): Effekte sozialer Förderung und Hemmung. S. 167 in Schweizer, K. (Hrsg.): Leistung und Leistungsdiagnostik (2006)
-- Kaschner, T. (2016): Verantwortung. S. 237-245 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
-- Latané, B. – Nida, S. (1981): Ten years of research on group size and helping. S. 308-324 in Psychological Bulletin 89 (1981)
-- Levine, R.V. – Martinez, T.S. – Brase, G. – Sorensen, K. (1994): Helping in 36 U.S. cities. S. 69-82 in Journal of Personality and Social Psychology 67 (1994)
-- Schwartz, S.H. – Gottlieb, A. (1980): Bystander anonymity and reactions to emergencies. S. 418-430 in Journal of personality and social Psychology 39 (1980)
-- Shaffer, D.R. – Rogel, M. – Hendrick, C. (1975): Intervention in the library: The effect of increased responsibility on bystanders’ willingness to prevent a theft. S. 303-319 in Journal of Applied Social Psychology 5 (1975)
-- Westdeutscher Rundfunk (2019): 13. März 1964 - Kitty Genovese wird ermordet, in: WDR 2 Stichtag 13.03.2019, unter: [https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html](https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html) (abgerufen am 24.02.2021, verfügbar bis 10.03.2029)
+Bierhoff, H.-W. – Rohmann, E. (2011): Diffusion der Verantwortung. S. 29-35 in Maring, M. (Hrsg.): Fallstudien zur Ethik in Wissenschaft, Wirtschaft, Technik und Gesellschaft (2011)
+
+Gerhardinger, F. (2016): Zivilcourage. S. 295-306 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
+
+Jonas K. – Tanner C. (2006): Effekte sozialer Förderung und Hemmung. S. 167 in Schweizer, K. (Hrsg.): Leistung und Leistungsdiagnostik (2006)
+
+Kaschner, T. (2016): Verantwortung. S. 237-245 in Frey, D. (Hrsg.): Psychologie der Werte (2016)
+
+Latané, B. – Nida, S. (1981): Ten years of research on group size and helping. S. 308-324 in Psychological Bulletin 89 (1981)
+
+Levine, R.V. – Martinez, T.S. – Brase, G. – Sorensen, K. (1994): Helping in 36 U.S. cities. S. 69-82 in Journal of Personality and Social Psychology 67 (1994)
+
+Schwartz, S.H. – Gottlieb, A. (1980): Bystander anonymity and reactions to emergencies. S. 418-430 in Journal of personality and social Psychology 39 (1980)
+
+Shaffer, D.R. – Rogel, M. – Hendrick, C. (1975): Intervention in the library: The effect of increased responsibility on bystanders’ willingness to prevent a theft. S. 303-319 in Journal of Applied Social Psychology 5 (1975)
+
+Westdeutscher Rundfunk (2019): 13. März 1964 - Kitty Genovese wird ermordet, in: WDR 2 Stichtag 13.03.2019, unter: [https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html](https://www1.wdr.de/stichtag/stichtag-kitty-genovese-100.html) (abgerufen am 24.02.2021, verfügbar bis 10.03.2029)
 
 ---
 ### Fußnoten
