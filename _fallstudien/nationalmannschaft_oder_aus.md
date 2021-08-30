@@ -122,7 +122,7 @@ Es ist klar, dass Gregor sich der mit einem Outing verbundenen Risiken in groben
 
 Spielfilm über Gruppendenken in der Kubakrise: Thirteen Days (2000), Regie: Roger Donaldson
 
-Dokumentarfilm über Homosexualität im Nationalsozialismus: [Klänge des Verschweigens (2012),](http://www.klaenge-des-verschweigens.de/) (2012) Regie: Klaus Stanjek
+Dokumentarfilm über Homosexualität im Nationalsozialismus: [Klänge des Verschweigens (2012),](http://www.klaenge-des-verschweigens.de/) Regie: Klaus Stanjek
 
 [Dokumentarfilm:)](https://www.youtube.com/watch?v=6Azox8Rsg1M) So kämpfen schwule Fußballer für mehr Akzeptanz (aus der Reihe „37 Grad“)
 
