@@ -116,23 +116,19 @@ Es ist klar, dass Gregor sich der mit einem Outing verbundenen Risiken in groben
 
 <!-- * [Umfrage: Verantwortung und Pflichten](https://www.youtube.com/watch?v=SXA6QNPFKik) von der Landeszentrale für politische Bildung Nordrhein-Westfalen: Für wen und was trägt man Verantwortung? Gibt es Pflichten gegenüber dem Staat? Welche Pflichten hat man in einer Demokratie? -->
 
-[**Gruppendenken im Experiment:** Optische Wahrnehmung](https://www.youtube.com/watch?v=I40g6U3K7hc)
+[Video zu Konformität im Experiment 1:](https://www.youtube.com/watch?v=I40g6U3K7hc) Eines der bekanntesten Experimente zur Konformität von Salomon Asch (1951), bei dem die Versuchsperson im Rahmen eines Gruppentreffens von ‚eingeweihten‘ Teilnehmern gebeten wird, Aussagen zu einer einfachen bildlichen Darstellung zu geben: Linien unterschiedlicher Länge sollen mit Referenzlinien verglichen werden.
 
-[**Gruppendenken im Experiment:** Orientierung im Aufzug](https://www.youtube.com/watch?v=dDAbdMv14Is)
+[Video zu Konformität im Experiment 2:](https://www.youtube.com/watch?v=dDAbdMv14Is) Warum wir uns im Aufzug für gewöhnlich zur Tür drehen und wie wir reagieren, wenn andere Personen im Aufzug genau das nicht tun.
 
-**Spielfilm über Gruppendenken in der Kubakrise:**
-Thirteen Days (2000), Regie: Roger Donaldson
+Spielfilm über Gruppendenken in der Kubakrise: Thirteen Days (2000), Regie: Roger Donaldson
 
-**Dokumentarfilm über Homosexualität im Nationalsozialismus:**
-[Klänge des Verschweigens (2012), Regie: Klaus Stanjek](http://www.klaenge-des-verschweigens.de/)
+Dokumentarfilm über Homosexualität im Nationalsozialismus: [Klänge des Verschweigens (2012),](http://www.klaenge-des-verschweigens.de/) (2012) Regie: Klaus Stanjek
 
-[**Dokumentarfilm: So kämpfen schwule Fußballer für mehr Akzeptanz** (aus der Reihe „37 Grad“)](https://www.youtube.com/watch?v=6Azox8Rsg1M)
+[Dokumentarfilm:)](https://www.youtube.com/watch?v=6Azox8Rsg1M) So kämpfen schwule Fußballer für mehr Akzeptanz (aus der Reihe „37 Grad“)
 
-[**ZDF Sportstudio mit Andreas Biermann und John Amaechi**](https://www.youtube.com/watch?v=NcCHHBhNitw)
+[ZDF Sportstudio mit Andreas Biermann und John Amaechi:](https://www.youtube.com/watch?v=NcCHHBhNitw) Depressionen und Homosexualität sind die Tabuthemen im Sport – Der depressive Ex-Fußballer Andreas Biermann und der Ex-Basketballer John Amaechi haben sich geoutet. Darüber reden könnte Tabus brechen.
 
-[**Erklärvideo zu Vorurteilen:**](https://www.youtube.com/watch?v=D1BE0VDAI1Y) Die Evangelische Landeskirche in Württemberg erklärt, wie Vorurteile entstehen, wie uns die Medien beeinflussen und was man tun kann, um Vorurteile abzubauen.
-
-
+[Erklärvideo zu Vorurteilen:](https://www.youtube.com/watch?v=D1BE0VDAI1Y) Die Evangelische Landeskirche in Württemberg erklärt, wie Vorurteile entstehen, wie uns die Medien beeinflussen und was man tun kann, um Vorurteile abzubauen.
 
 
 ### Quellen
