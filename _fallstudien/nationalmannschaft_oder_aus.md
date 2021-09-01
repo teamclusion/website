@@ -16,7 +16,7 @@ download_teil_1_dilemma_und_fragen: nationalmannschaft_oder_aus_teil-1_dilemma-u
 download_teil_2_unterrichtsmaterialien: nationalmannschaft_oder_aus_teil-2_unterrichtsmaterialien.pdf
 author:
   #- Tina Nalbantoglu
-  - Angela Poech von Ethica Rationalis e.V.
+  - Prof. Dr. Angela Poech von Ethica Rationalis e.V.
   #- atnalbantoglu
   #- apoech
 quellen:
@@ -120,11 +120,11 @@ Es ist klar, dass Gregor sich der mit einem Outing verbundenen Risiken in groben
 
 [Video zu Konformität im Experiment 2:](https://www.youtube.com/watch?v=dDAbdMv14Is) Warum wir uns im Aufzug für gewöhnlich zur Tür drehen und wie wir reagieren, wenn andere Personen im Aufzug genau das nicht tun.
 
-Spielfilm über Gruppendenken in der Kubakrise: Thirteen Days (2000), Regie: Roger Donaldson
+**Spielfilm** über Gruppendenken in der Kubakrise: Thirteen Days (2000), Regie: Roger Donaldson
 
-Dokumentarfilm über Homosexualität im Nationalsozialismus: [Klänge des Verschweigens (2012),](http://www.klaenge-des-verschweigens.de/) Regie: Klaus Stanjek
+**Dokumentarfilm** über Homosexualität im Nationalsozialismus: [Klänge des Verschweigens (2012),](http://www.klaenge-des-verschweigens.de/) Regie: Klaus Stanjek
 
-[Dokumentarfilm:)](https://www.youtube.com/watch?v=6Azox8Rsg1M) So kämpfen schwule Fußballer für mehr Akzeptanz (aus der Reihe „37 Grad“)
+[Dokumentarfilm:](https://www.youtube.com/watch?v=6Azox8Rsg1M) So kämpfen schwule Fußballer für mehr Akzeptanz (aus der Reihe „37 Grad“)
 
 [ZDF Sportstudio mit Andreas Biermann und John Amaechi:](https://www.youtube.com/watch?v=NcCHHBhNitw) Depressionen und Homosexualität sind die Tabuthemen im Sport – Der depressive Ex-Fußballer Andreas Biermann und der Ex-Basketballer John Amaechi haben sich geoutet. Darüber reden könnte Tabus brechen.
 
