@@ -21,6 +21,7 @@ dyl: <span class="text-secondary fw-bold fst-italic">Design Your Life! </span>
 teamclusion: <span class="text-primary fw-bold fst-italic">teamclusion </span>
 date: 2020-03-28
 email: info@teamclusion.de
+email-plus: info@teamclusion.de?subject=Kontakt%20zu%20teamclusion&body=Freiwillige%20Angaben%0AIhr%20Name%3A%0AIhre%20E-Mail%3A%0AIhre%20Telefonnummer%3A%0A%0A%0AIhre%20Nachricht%20an%20uns%3A%0A
 phone: '[0175&nbsp;5884087](tel:+491755884087)'
 opening_hours: Keine Öffnungszeiten
 description: >- # this means to ignore newlines until "baseurl:"
@@ -33,8 +34,8 @@ publisher: |
   81925 München
 publischer-email: angela.poech@ethica-rationalis.org
 president:
-# url: https://www.teamclusion.de
-url: https://teamclusion.netlify.app
+url: https://www.teamclusion.de
+#url: https://teamclusion.netlify.app
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 webmaster_email: tgermer@me.com
