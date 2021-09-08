@@ -36,12 +36,12 @@ publischer-email: angela.poech@ethica-rationalis.org
 president:
 
 # Normaler Modus für teamclusion.de
-url: https://www.teamclusion.de
-baseurl: ""
+# url: https://www.teamclusion.de
+# baseurl: ""
 
 # Dev Modus für teamclusion.netlify.app
-# url: https://teamclusion.netlify.app
-# baseurl: ""
+url: https://teamclusion.netlify.app
+baseurl: ""
 
 # Dev Modus für kunden.tristan-germer.de/teamclusion/devs
   # Benutzer & Passwort: teamclusion & Dev2021#
