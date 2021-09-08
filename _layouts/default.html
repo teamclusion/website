@@ -5,7 +5,7 @@
     {% include nav.html %}
 
     {% if page.bg-image != nil %}
-      <main style="background-image: url('{{page.bg-image}}'); background-size: {{page.bg-image-size}}; background-position: {{page.bg-image-position}}; background-repeat: no-repeat;">
+      <main style="background-image: url('{{ site.baseurl }}{{page.bg-image}}'); background-size: {{page.bg-image-size}}; background-position: {{page.bg-image-position}}; background-repeat: no-repeat;">
         {{ content }}
       </main>
     {% else %}

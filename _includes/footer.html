@@ -4,7 +4,7 @@
       <div class="row mb-3">
         <div class="col-md-3 col-sm-6">
           <p class="mt-1">
-            <img src="{{ site.logo_kontur_2-zeilig }}" alt="Logo {{ site.title }}" class="img-reponsive " style="max-height:50px; max-width:107px" role="img" aria-lable="2-zeiliges Logo {{ site.title }}">
+            <img src="{{ site.baseurl }}{{ site.logo_kontur_2-zeilig }}" alt="Logo {{ site.title }}" class="img-reponsive " style="max-height:50px; max-width:107px" role="img" aria-lable="2-zeiliges Logo {{ site.title }}">
           </p>
           <p>&copy; 2019–{{ "now" | date: "%Y" }}</p>
           <p>Powered by<br><a href="https://app.netlify.com/sites/teamclusion/deploys" target="_blank"><img src="https://api.netlify.com/api/v1/badges/bc0871a5-ff1d-42cf-ab96-276127acefcd/deploy-status" alt="Netlify Status"></a></p>
@@ -19,7 +19,7 @@
         <div class="col-md-3 col-sm-6" id="footer">
           <p class="h4">Navigation</p>
           {% for item in site.data.navigation %}
-          <a href="{{ item.link }}" tabindex="1">{{ item.name }}</a>
+          <a href="{{ site.baseurl }}{{ item.link }}" tabindex="1">{{ item.name }}</a>
           <br>
           {% endfor %}
         </div>
@@ -51,8 +51,8 @@
     <div class="container">
       <div class="row small text-center">
         <div class="col-md-4 text-md-start">
-          <a href="/impressum" tabindex="1">
-            Impressum</a> | <a href="/datenschutzerklaerung" tabindex="1">
+          <a href="{{ site.baseurl }}/impressum" tabindex="1">
+            Impressum</a> | <a href="{{ site.baseurl }}/datenschutzerklaerung" tabindex="1">
             Datenschutzerklärung</a>
         </div>
         <div class="col-md-4 text-center">
@@ -83,7 +83,7 @@ slim build excludes the ajax and effects modules-->
 <!-- <script src="/assets/js/bootstrap.min.js"></script> -->
 
 <!-- Bootstrap Bundle with Popper -->
-<script src="/assets/js/bootstrap.bundle.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/bootstrap.bundle.min.js"></script>
 
 <!-- Fontawesome -->
 <!-- <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js" integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ" crossorigin="anonymous"></script> -->

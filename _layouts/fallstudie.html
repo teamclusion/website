@@ -14,7 +14,7 @@ layout: default
     .fallstudie-header {
       min-height: 300px;
       background-image: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.5) 30%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0) 100%),
-      url('{{ page.image }}');
+      url('{{ site.baseurl }}{{ page.image }}');
       background-repeat: no-repeat;
       background-size: cover;
       background-position: {{ page.background-position-2 }};
@@ -76,7 +76,7 @@ layout: default
   <ul class="list-inline text-muted fst-italic" itemscope itemtype="http://schema.org/Person">
     <li class="list-inline-item">von</li>
     {% for item in author %}
-    <li class="list-inline-item" itemprop="name"><a href="{{ item.url }}">{{ item.name }}</a></li>
+    <li class="list-inline-item" itemprop="name"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
     {% endfor %}
   </ul>
 
@@ -85,7 +85,7 @@ layout: default
   <ul>
     {% assign filtered_fallstudien = site.fallstudien | where: 'author', page.short-name %}
     {% for fallstudie in filtered_fallstudien %}
-    <li><a href="{{ fallstudie.url }}">{{ fallstudie.title }}, {{ fallstudie.author }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ fallstudie.url }}">{{ fallstudie.title }}, {{ fallstudie.author }}</a></li>
     {% endfor %}
   </ul>
 
@@ -98,15 +98,15 @@ layout: default
     {% if authorCount == 0 %}
     Kein Author
     {% elsif authorCount == 1 %}
-    <a href="{{ author.url | first }}" tabindex="1">{{ page.author | first }}</a>
+    <a href="{{ site.baseurl }}{{ author.url | first }}" tabindex="1">{{ page.author | first }}</a>
     {% else %}
     {% for author in author %}
     {% if forloop.first %}
-    <a href="{{ author.url }}" tabindex="1">{{ author.name }}</a>
+    <a href="{{ site.baseurl }}{{ author.url }}" tabindex="1">{{ author.name }}</a>
     {% elsif forloop.last %}
-    und <a href="{{ author.url }}" tabindex="1">{{ author.name }}</a>
+    und <a href="{{ site.baseurl }}{{ author.url }}" tabindex="1">{{ author.name }}</a>
     {% else %}
-    , <a href="{{ author.url }}" tabindex="1">{{ author.name }}</a>
+    , <a href="{{ site.baseurl }}{{ author.url }}" tabindex="1">{{ author.name }}</a>
     {% endif %}
     {% endfor %}
     {% endif %}
@@ -132,12 +132,12 @@ layout: default
           <ul class="list-unstyled">
             {% if page.download_teil_1_dilemma_und_fragen != nil %}
             <li>
-              <a href="/assets/fallstudien/{{ page.download_teil_1_dilemma_und_fragen }}" tabindex="1"><i class="fas fa-file-pdf"></i> Dilemma & Fragen</a>
+              <a href="{{ site.baseurl }}/assets/fallstudien/{{ page.download_teil_1_dilemma_und_fragen }}" tabindex="1"><i class="fas fa-file-pdf"></i> Dilemma & Fragen</a>
             </li>
             {% endif %}
             {% if page.download_teil_2_unterrichtsmaterialien != nil %}
             <li>
-              <a href="/assets/fallstudien/{{ page.download_teil_2_unterrichtsmaterialien }}"><i class="fas fa-file-pdf" tabindex="1"></i> Unterrichtsmaterialien</a>
+              <a href="{{ site.baseurl }}/assets/fallstudien/{{ page.download_teil_2_unterrichtsmaterialien }}"><i class="fas fa-file-pdf" tabindex="1"></i> Unterrichtsmaterialien</a>
             </li>
             {% endif %}
           </ul>
@@ -150,12 +150,12 @@ layout: default
         <ul class="list-unstyled">
           {% if page.download_teil_1_dilemma_und_fragen != nil %}
           <li>
-            <a href="/assets/fallstudien/{{ page.download_teil_1_dilemma_und_fragen }}" tabindex="1"><i class="fas fa-file-pdf"></i> Dilemma & Fragen</a>
+            <a href="{{ site.baseurl }}/assets/fallstudien/{{ page.download_teil_1_dilemma_und_fragen }}" tabindex="1"><i class="fas fa-file-pdf"></i> Dilemma & Fragen</a>
           </li>
           {% endif %}
           {% if page.download_teil_2_unterrichtsmaterialien != nil %}
           <li>
-            <a href="/assets/fallstudien/{{ page.download_teil_2_unterrichtsmaterialien }}" tabindex="1"><i class="fas fa-file-pdf"></i> Unterrichtsmaterialien</a>
+            <a href="{{ site.baseurl }}/assets/fallstudien/{{ page.download_teil_2_unterrichtsmaterialien }}" tabindex="1"><i class="fas fa-file-pdf"></i> Unterrichtsmaterialien</a>
           </li>
           {% endif %}
         </ul>

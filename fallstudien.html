@@ -17,12 +17,12 @@ subtitle: zur Praktischen Ethik
   {% for fallstudien in site.fallstudien %}
   <div class="col-md-6 mb-4">
   <div class="card">
-    <div class="card-img-top" style="height:300px; background-image: url('{{ fallstudien.image }}'); background-repeat: no-repeat; background-size: cover; background-position: {{ fallstudien.background-position-1 }}"></div>
+    <div class="card-img-top" style="height:300px; background-image: url('{{ site.baseurl }}{{ fallstudien.image }}'); background-repeat: no-repeat; background-size: cover; background-position: {{ fallstudien.background-position-1 }}"></div>
     <div class="card-body">
       <h2 class="h5 card-title">{{ fallstudien.title }}</h2>
       <p class="h6 card-subtitle mb-2 text-muted">{{ fallstudien.subtitle }}</p>
       <p class="card-text">{{ fallstudien.content.excerpt | markdownify }}</p>
-      <a href="{{ fallstudien.url }}" class="stretched-link text-primary" tabindex="1">Mehr zu Fall, Theorie und Lösung …</a>
+      <a href="{{ site.baseurl }}{{ fallstudien.url }}" class="stretched-link text-primary" tabindex="1">Mehr zu Fall, Theorie und Lösung …</a>
     </div>
   </div>
   </div>

@@ -73,7 +73,7 @@ layout: default
 <ul>
   {% assign filtered_fallstudien = site.fallstudien | where: 'author', page.short-name %}
   {% for fallstudie in filtered_fallstudien %}
-    <li><a href="{{ fallstudie.url }}">{{ fallstudie.title }}, {{ fallstudie.author }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ fallstudie.url }}">{{ fallstudie.title }}, {{ fallstudie.author }}</a></li>
   {% endfor %}
 </ul>
 
