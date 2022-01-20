@@ -24,7 +24,7 @@
         <div class="col-md-3 col-sm-6" id="footer">
           <p class="h4">Navigation</p>
           {% for item in site.data.navigation %}
-          <a href="{{ site.baseurl }}{{ item.link }}" tabindex="1">{{ item.name }}</a>
+          <a href="{{ site.baseurl }}{{ item.link }}" >{{ item.name }}</a>
           <br>
           {% endfor %}
         </div>
@@ -36,7 +36,7 @@
             <br>
             {% endif %}
             {% endcomment %}
-            <i class="fas fa-envelope fa-fw"></i> <a href="mailto:{{ site.email-plus }}" tabindex="1">{{ site.email }}</a>
+            <i class="fas fa-envelope fa-fw"></i> <a href="mailto:{{ site.email-plus }}" >{{ site.email }}</a>
           </p>
         </div>
       </div>
@@ -56,15 +56,15 @@
     <div class="container">
       <div class="row small text-center">
         <div class="col-md-4 text-md-start">
-          <a href="{{ site.baseurl }}/impressum" tabindex="1">
-            Impressum</a> | <a href="{{ site.baseurl }}/datenschutzerklaerung" tabindex="1">
+          <a href="{{ site.baseurl }}/impressum" >
+            Impressum</a> | <a href="{{ site.baseurl }}/datenschutzerklaerung" >
             Datenschutzerklärung</a>
         </div>
         <div class="col-md-4 text-center">
           Made with <span class="font-rot">♥</span>
         </div>
         <div class="col-md-4 text-md-right">
-          <a href="mailto:{{ site.webmaster_email }}?subject=Website%20{{ site.title }}" tabindex="1">
+          <a href="mailto:{{ site.webmaster_email }}?subject=Website%20{{ site.title }}" >
             Webmaster</a>
         </div>
       </div>
