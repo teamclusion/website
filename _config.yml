@@ -138,3 +138,14 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - _team/
+
+
+
+# GLYNN – FTP Uploader
+# gem install glynn --source http://gemcutter.org
+# https://github.com/dmathieu/glynn
+ftp_host: 'web31.webflow.de'
+ftp_port: 22
+ftp_dir: '/www.teamclusion.de/htdocs/'
+ftp_passive: true
+# run glynn
