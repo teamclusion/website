@@ -10,7 +10,7 @@ subtitle: Das Ganze ist mehr als die Summe seiner Teile
 
   <div class="row">
     {% for item in site.data.team %}
-    <div class="col-l g-3 col-md-6 mb-lg-0 mb-5 offset-md-3">
+    <article class="col-l g-3 col-md-6 mb-lg-0 mb-5 offset-md-3">
       <div class="avatar mx-auto">
         <img src="{{ site.baseurl }}{{ item.image }}" class="rounded-circle z-depth-1" alt="{{ item.name }} | Fotograf: {{ item.fotograf }}" role="img" aria-lable="Bild von {{ item.name }} | Fotograf: {{ item.fotograf }}" style="max-width:300px">
       </div>
@@ -72,7 +72,7 @@ subtitle: Das Ganze ist mehr als die Summe seiner Teile
         </li>
         {% endif %}
       </ul>
-    </div>
+    </article>
     {% endfor %}
   </div>
 </section>
