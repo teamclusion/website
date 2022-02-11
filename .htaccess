@@ -2,3 +2,46 @@ ErrorDocument 400 /400.html
 ErrorDocument 403 /403.html
 ErrorDocument 404 /404.html
 ErrorDocument 500 /500.html
+
+
+####################
+# Attempt to redirect images to WebP if one exists
+# and the client supports the file format
+####################
+# check if browser accepts webp
+RewriteCond %{HTTP_ACCEPT} image/webp
+
+# check if file is jpg or png
+RewriteCond %{REQUEST_FILENAME} (.*)\.(jpe?g|png)$
+
+# check if corresponding webp file exists image.png -> image.webp
+RewriteCond %1\.webp -f
+
+# serve up webp instead
+RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
+
+AddType image/webp .webp
+
+
+# DISABLE CACHING
+<IfModule mod_headers.c>
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires 0
+</IfModule>
+
+<FilesMatch "\.(css|flv|gif|htm|html|ico|jpe|jpeg|jpg|js|mp3|mp4|png|pdf|swf|txt)$">
+    <IfModule mod_expires.c>
+        ExpiresActive Off
+    </IfModule>
+    <IfModule mod_headers.c>
+        FileETag None
+        Header unset ETag
+        Header unset Pragma
+        Header unset Cache-Control
+        Header unset Last-Modified
+        Header set Pragma "no-cache"
+        Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+        Header set Expires "Thu, 1 Jan 1970 00:00:00 GMT"
+    </IfModule>
+</FilesMatch>
