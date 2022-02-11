@@ -119,10 +119,12 @@ layout: default
     <div class="col-lg-9 order-2 order-lg-first border-end" itemprop="articleBody">
       {{ content }}
     </div>
-    <div class="col-lg-3 order-1 order-lg-2 sticky-lg-top h-100 mb-5" style="top: 50px; overflow-y: auto; max-height:calc(100vh - 50px)">
+    <aside class="col-lg-3 order-1 order-lg-2 sticky-lg-top h-100 mb-5" style="top: 50px; overflow-y: auto; max-height:calc(100vh - 50px)">
       <!-- style="position: sticky; top: 60px; z-index:999"> -->
       <p class="h3 mt-5">Inhalt</p>
-      {% toc %}
+      <nav>
+        {% toc %}
+      </nav>
       <ul id="toc" class="section-nav d-lg-none d-xl-none">
       <li class="toc-entry toc-h3" style="margin-top:-1rem"><a href="#downloads" >Downloads</a></li>
       </ul>
@@ -143,7 +145,7 @@ layout: default
           </ul>
           {% endif %}
       </div>
-    </div>
+    </aside>
     <div id="downloads" class="col-lg-3 d-lg-none d-xl-none order-last">
         {% if page.download_teil_1_dilemma_und_fragen != nil or page.download_teil_2_unterrichtsmaterialien != nil %}
         <p class="h3 mt-5">Downloads</p>
@@ -198,12 +200,12 @@ layout: default
 </article>
 
 {% if page.image-credit != nil %}
-<div class="container text-muted small">
+<aside class="container text-muted small">
   <p><b>Bildnachweise</b></p>
   <ul class="list-inline">
     {% for item in page.image-credit %}
     <li class="list-inline-item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</li>
     {% endfor %}
   </ul>
-</div>
+</aside>
 {% endif %}
