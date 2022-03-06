@@ -30,18 +30,21 @@ author: Prof. Dr. Angela Poech
 editorial: Prof. Dr. Angela Poech
 publisher: |
   Prof. Dr. Angela Poech<br>
-  Hochstiftsweg 23<br>
-  81925 München
+  Av. Mallorca 32<br>
+  07181 Calvià<br>
+  Spanien
+# Hochstiftsweg 23<br>
+# 81925 München
 publischer-email: angela.poech@ethica-rationalis.org
 president:
 
 # Normaler Modus für teamclusion.de
-# url: https://www.teamclusion.de
-# baseurl: ""
+url: https://www.teamclusion.de
+baseurl: ""
 
 # Dev Modus für teamclusion.netlify.app
-url: https://teamclusion.netlify.app
-baseurl: ""
+# url: https://teamclusion.netlify.app
+# baseurl: ""
 
 # Dev Modus für kunden.tristan-germer.de/teamclusion/devs
   # Benutzer & Passwort: teamclusion & Dev2021#
